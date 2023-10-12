@@ -29,8 +29,8 @@ impl Solution2 {
         let mut already_seen = HashMap::new();
         for (index, num) in nums.iter().enumerate() {
             let complement = target - num;
-            if let Some(other_index) = already_seen.get(&complement) {
-                return vec![index as i32, *other_index];
+            if let Some(complement_index) = already_seen.get(&complement) {
+                return vec![index as i32, *complement_index];
             }
             already_seen.insert(num, index as i32);
         }

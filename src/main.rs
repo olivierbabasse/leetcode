@@ -1,6 +1,6 @@
 #![allow(dead_code)]
 
-mod lc0001_two_sum;
+mod solutions;
 mod utils;
 
 fn main() {

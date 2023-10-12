@@ -1,3 +1,5 @@
+pub mod list;
+
 use std::collections::HashMap;
 use std::hash::Hash;
 
@@ -17,4 +19,18 @@ where
     T: Eq + Hash,
 {
     item_counts(a) == item_counts(b)
+}
+
+#[cfg(test)]
+mod tests {
+    use super::array_eq;
+
+    #[test]
+    fn test_array_eq() {
+        assert!(array_eq::<i32>(&[], &[]));
+        assert!(array_eq(&[1], &[1]));
+        assert!(!array_eq(&[1], &[2]));
+        assert!(array_eq(&[1, 2], &[2, 1]));
+        assert!(!array_eq(&[1], &[1, 1]));
+    }
 }
