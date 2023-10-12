@@ -5,7 +5,7 @@ type ListNode = crate::utils::list::ListNode<i32>;
 struct Solution1 {}
 
 impl Solution1 {
-    /// iterative
+    /// naive implementation, iterative
     /// time-complexity : O(n)
     /// space-complexity : O(n)
     pub fn add_two_numbers(
@@ -41,6 +41,7 @@ impl Solution1 {
 }
 
 struct Solution2 {}
+
 impl Solution2 {
     /// recursive
     /// time-complexity : O(n)
