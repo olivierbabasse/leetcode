@@ -2,5 +2,6 @@ mod lc0001_two_sum;
 mod lc0002_add_two_numbers;
 mod lc0169_majority_element;
 mod lc0229_majority_element_ii;
+mod lc0746_min_cost_climbing_stairs;
 mod lc0852_peak_index_in_a_mountain_array;
 mod lc1095_find_in_mountain_array;
