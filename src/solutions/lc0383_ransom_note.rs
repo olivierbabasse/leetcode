@@ -1,4 +1,4 @@
-//! <https://leetcode.com/problems/ransom-note/description/>
+//! <https://leetcode.com/problems/ransom-note/>
 
 use std::collections::HashMap;
 
