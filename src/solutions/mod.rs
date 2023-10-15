@@ -5,6 +5,7 @@ mod lc0229_majority_element_ii;
 mod lc0343_integer_break;
 mod lc0383_ransom_note;
 mod lc0412_fizz_buzz;
+mod lc0557_reverse_words_in_a_string_iii;
 mod lc0746_min_cost_climbing_stairs;
 mod lc0852_peak_index_in_a_mountain_array;
 mod lc1095_find_in_mountain_array;
