@@ -8,6 +8,7 @@ mod lc0412_fizz_buzz;
 mod lc0557_reverse_words_in_a_string_iii;
 mod lc0746_min_cost_climbing_stairs;
 mod lc0852_peak_index_in_a_mountain_array;
+mod lc0876_middle_of_the_linked_list;
 mod lc1095_find_in_mountain_array;
 mod lc1269_number_of_ways_to_stay_in_the_same_place_after_some_steps;
 mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
