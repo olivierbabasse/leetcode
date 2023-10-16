@@ -15,5 +15,8 @@ mod lc0876_middle_of_the_linked_list;
 mod lc1095_find_in_mountain_array;
 mod lc1269_number_of_ways_to_stay_in_the_same_place_after_some_steps;
 mod lc1342_number_of_steps_to_reduce_a_number_to_zero;
+mod lc1480_running_sum_of_1d_array;
+mod lc1512_number_of_good_pairs;
+mod lc1672_richest_customer_wealth;
 mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
 mod lc2742_painting_the_walls;
