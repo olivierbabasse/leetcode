@@ -21,5 +21,6 @@ mod lc1480_running_sum_of_1d_array;
 mod lc1512_number_of_good_pairs;
 mod lc1672_richest_customer_wealth;
 mod lc2009_minimum_number_of_operations_to_make_array_continuous;
+mod lc2038_remove_colored_pieces_if_both_neighbors_are_the_same_color;
 mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
 mod lc2742_painting_the_walls;
