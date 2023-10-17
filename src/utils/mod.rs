@@ -1,5 +1,6 @@
 pub mod list;
 pub mod mountainarray;
+pub mod tree;
 
 use std::collections::HashMap;
 use std::hash::Hash;
