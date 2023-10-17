@@ -22,6 +22,7 @@
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
+| [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | Easy |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
