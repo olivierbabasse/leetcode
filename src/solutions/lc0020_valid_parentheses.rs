@@ -3,6 +3,8 @@
 struct Solution {}
 
 impl Solution {
+    /// time-complexity : O(n)
+    /// space-complexity : O(1)
     pub fn is_valid(s: String) -> bool {
         let mut stack = Vec::new();
         for c in s.chars() {
