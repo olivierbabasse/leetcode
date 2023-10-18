@@ -22,6 +22,7 @@ mod lc1512_number_of_good_pairs;
 mod lc1672_richest_customer_wealth;
 mod lc2009_minimum_number_of_operations_to_make_array_continuous;
 mod lc2038_remove_colored_pieces_if_both_neighbors_are_the_same_color;
+mod lc2050_parallel_courses_iii;
 mod lc2235_add_two_integers;
 mod lc2236_root_equals_sum_of_children;
 mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
