@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(n.log(n))
+/// space-complexity : O(n)
 impl Solution {
-    /// time-complexity : O(n.log(n))
-    /// space-complexity : O(n)
     pub fn full_bloom_flowers(flowers: Vec<Vec<i32>>, people: Vec<i32>) -> Vec<i32> {
         let mut start = flowers.iter().map(|f| f[0]).collect::<Vec<_>>();
         start.sort_unstable();

@@ -4,9 +4,9 @@ use std::collections::HashMap;
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution {
-    /// time-complexity : O(n)
-    /// space-complexity : O(n)
     pub fn can_construct(ransom_note: String, magazine: String) -> bool {
         let mut letters = HashMap::new();
         magazine.chars().for_each(|l| {

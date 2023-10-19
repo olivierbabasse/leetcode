@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(1)
+/// space-complexity : O(1)
 impl Solution {
-    /// time-complexity : O(1)
-    /// space-complexity : O(1)
     pub fn sum(num1: i32, num2: i32) -> i32 {
         num1 + num2
     }

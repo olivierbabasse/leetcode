@@ -4,10 +4,10 @@ use std::collections::HashMap;
 
 struct Solution1 {}
 
+/// naive implementation
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution1 {
-    /// naive implementation
-    /// time-complexity : O(n)
-    /// space-complexity : O(n)
     pub fn majority_element(nums: Vec<i32>) -> i32 {
         let mut counts = HashMap::new();
 
@@ -21,10 +21,10 @@ impl Solution1 {
 
 struct Solution2 {}
 
+/// using Boyer-Moore majority voting algorithm
+/// time-complexity : O(n)
+/// space-complexity : O(1)
 impl Solution2 {
-    /// using Boyer-Moore majority voting algorithm
-    /// time-complexity : O(n)
-    /// space-complexity : O(1)
     pub fn majority_element(nums: Vec<i32>) -> i32 {
         let mut votes = 0;
         let mut candidate = -1;

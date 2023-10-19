@@ -5,9 +5,9 @@ use std::collections::HashMap;
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution {
-    /// time-complexity : O(n)
-    /// space-complexity : O(n)
     pub fn min_cost_climbing_stairs_rec(
         cost: &[i32],
         index: usize,

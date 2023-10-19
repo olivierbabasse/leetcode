@@ -4,9 +4,9 @@ use std::collections::HashMap;
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution {
-    /// time-complexity : O(n)
-    /// space-complexity : O(n)
     fn dfs(
         cur_node: usize,
         time: &Vec<i32>,

@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(1)
 impl Solution {
-    /// time-complexity : O(n)
-    /// space-complexity : O(1)
     pub fn number_of_steps(mut num: i32) -> i32 {
         let mut count = 0;
         while num > 0 {

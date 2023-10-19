@@ -4,9 +4,9 @@ use crate::utils::mountainarray::MountainArray;
 
 struct Solution {}
 
+/// time-complexity : O(log(n))
+/// space-complexity : O(1)
 impl Solution {
-    /// time-complexity : O(log(n))
-    /// space-complexity : O(1)
     pub fn find_in_mountain_array(target: i32, mountain_array: &MountainArray) -> i32 {
         fn is_asc_part(num: i32, index: i32, mountain_array: &MountainArray) -> bool {
             let len = mountain_array.length();

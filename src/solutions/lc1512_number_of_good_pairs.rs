@@ -4,9 +4,9 @@ use std::collections::HashMap;
 
 struct Solution1 {}
 
+/// time-complexity : O(n^2)
+/// space-complexity : O(1)
 impl Solution1 {
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(1)
     pub fn num_identical_pairs(nums: Vec<i32>) -> i32 {
         let mut count = 0;
         for i in 0..nums.len() {
@@ -22,9 +22,9 @@ impl Solution1 {
 
 struct Solution2 {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution2 {
-    /// time-complexity : O(n)
-    /// space-complexity : O(n)
     pub fn num_identical_pairs(nums: Vec<i32>) -> i32 {
         let mut counts = HashMap::new();
         let mut count = 0;

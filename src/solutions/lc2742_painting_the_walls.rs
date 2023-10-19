@@ -4,9 +4,9 @@ use std::cmp::{max, min};
 
 struct Solution1 {}
 
+/// time-complexity : O(n^2)
+/// space-complexity : O(n^2)
 impl Solution1 {
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(n^2)
     fn calc_cost(
         cost: &Vec<i32>,
         time: &Vec<i32>,
@@ -53,9 +53,9 @@ impl Solution1 {
 
 struct Solution2 {}
 
+/// time-complexity : O(n^2)
+/// space-complexity : O(n)
 impl Solution2 {
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(n)
     pub fn paint_walls(cost: Vec<i32>, time: Vec<i32>) -> i32 {
         let len = cost.len();
 

@@ -4,9 +4,9 @@ type ListNode = crate::utils::list::ListNode<i32>;
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution {
-    /// time-complexity : O(n)
-    /// space-complexity : O(n)
     pub fn middle_node(head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
         let mut slow = &head;
         let mut fast = &head;

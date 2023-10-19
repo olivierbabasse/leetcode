@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(n^2)
+/// space-complexity : O(1)
 impl Solution {
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(1)
     pub fn min_operations(mut nums: Vec<i32>) -> i32 {
         let n = nums.len() - 1;
 

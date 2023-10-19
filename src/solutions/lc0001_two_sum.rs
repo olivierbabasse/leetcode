@@ -3,10 +3,10 @@ use std::collections::HashMap;
 
 struct Solution1 {}
 
+/// naive implementation : two nested loops on nums
+/// time-complexity : O(n^2)
+/// space-complexity : O(n)
 impl Solution1 {
-    /// naive implementation : two nested loops on nums
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(n)
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
         for i in 0..nums.len() {
             for j in i + 1..nums.len() {
@@ -21,10 +21,10 @@ impl Solution1 {
 
 struct Solution2 {}
 
+/// one loop on nums, looking for complement in a HashMap, storing values along the way
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution2 {
-    /// one loop on nums, looking for complement in a HashMap, storing values along the way
-    /// time-complexity : O(n)
-    /// space-complexity : O(n)
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
         let mut already_seen = HashMap::new();
         for (index, num) in nums.iter().enumerate() {

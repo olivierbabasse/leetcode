@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(n^2)
+/// space-complexity : O(n^2)
 impl Solution {
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(n^2)
     pub fn generate(num_rows: i32) -> Vec<Vec<i32>> {
         let mut res = Vec::new();
         let num_rows = num_rows as usize;

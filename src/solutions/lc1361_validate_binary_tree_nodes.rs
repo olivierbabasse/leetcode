@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution {
-    /// time-complexity : O(n)
-    /// space-complexity : O(n)
     fn visit(
         index: usize,
         left_child: &Vec<i32>,

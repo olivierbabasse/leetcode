@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(n^2)
+/// space-complexity : O(1)
 impl Solution {
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(1)
     pub fn winner_of_game(colors: String) -> bool {
         let mut astart = 0;
         let mut bstart = 0;

@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(1)
 impl Solution {
-    /// time-complexity : O(n)
-    /// space-complexity : O(1)
     pub fn fizz_buzz(n: i32) -> Vec<String> {
         (1..=n)
             .map(|i| match (i % 3, i % 5) {

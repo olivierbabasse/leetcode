@@ -4,9 +4,9 @@ use std::collections::HashMap;
 
 struct Solution {}
 
+/// time-complexity : O(k * arraylen)
+/// space-complexity : O(k * arraylen)
 impl Solution {
-    /// time-complexity : O(k * arraylen)
-    /// space-complexity : O(k * arraylen)
     fn dp(cur_pos: i32, end_pos: i32, k: i32, memo: &mut HashMap<(i32, i32), i32>) -> i32 {
         if k == 0 {
             if cur_pos == end_pos {

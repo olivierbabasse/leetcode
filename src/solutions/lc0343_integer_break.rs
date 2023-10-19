@@ -2,9 +2,9 @@
 
 struct Solution1 {}
 
+/// time-complexity : O(n^2)
+/// space-complexity : O(n)
 impl Solution1 {
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(n)
     fn find_combinations(
         target: i32,
         elements: &mut Vec<i32>,
@@ -46,9 +46,9 @@ impl Solution1 {
 
 struct Solution2 {}
 
+/// time-complexity : O(1)
+/// space-complexity : O(1)
 impl Solution2 {
-    /// time-complexity : O(1)
-    /// space-complexity : O(1)
     pub fn integer_break(n: i32) -> i32 {
         if n <= 3 {
             return n - 1;

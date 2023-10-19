@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(log(n))
+/// space-complexity : O(1)
 impl Solution {
-    /// time-complexity : O(log(n))
-    /// space-complexity : O(1)
     pub fn peak_index_in_mountain_array(arr: Vec<i32>) -> i32 {
         let mut begin = 0;
         let mut end = arr.len() - 1;

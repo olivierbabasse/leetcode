@@ -7,9 +7,9 @@ type TreeNode = crate::utils::tree::TreeNode<i32>;
 
 struct Solution {}
 
+/// time-complexity : O(1)
+/// space-complexity : O(1)
 impl Solution {
-    /// time-complexity : O(1)
-    /// space-complexity : O(1)
     pub fn check_tree(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
         let root = root.as_ref().unwrap().borrow();
         let left = root.left.as_ref().unwrap().borrow();

@@ -2,9 +2,9 @@
 
 struct Solution {}
 
+/// time-complexity : O(n^2)
+/// space-complexity : O(n)
 impl Solution {
-    /// time-complexity : O(n^2)
-    /// space-complexity : O(n)
     pub fn get_row(row_index: i32) -> Vec<i32> {
         let row_index = row_index as usize;
         let mut vals = vec![0; row_index + 1];

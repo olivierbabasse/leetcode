@@ -11,6 +11,7 @@ mod lc0412_fizz_buzz;
 mod lc0557_reverse_words_in_a_string_iii;
 mod lc0706_design_hashmap;
 mod lc0746_min_cost_climbing_stairs;
+mod lc0844_backspace_string_compare;
 mod lc0852_peak_index_in_a_mountain_array;
 mod lc0876_middle_of_the_linked_list;
 mod lc1095_find_in_mountain_array;
