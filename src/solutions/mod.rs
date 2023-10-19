@@ -25,5 +25,6 @@ mod lc2038_remove_colored_pieces_if_both_neighbors_are_the_same_color;
 mod lc2050_parallel_courses_iii;
 mod lc2235_add_two_integers;
 mod lc2236_root_equals_sum_of_children;
+mod lc2251_number_of_flowers_in_full_bloom;
 mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
 mod lc2742_painting_the_walls;
