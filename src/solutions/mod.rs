@@ -5,6 +5,7 @@ mod lc0118_pascals_triangle;
 mod lc0119_pascals_triangle_ii;
 mod lc0169_majority_element;
 mod lc0229_majority_element_ii;
+mod lc0341_flatten_nested_list_iterator;
 mod lc0343_integer_break;
 mod lc0383_ransom_note;
 mod lc0412_fizz_buzz;

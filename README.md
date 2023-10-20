@@ -11,6 +11,7 @@
 | [0119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Easy |
 | [0169](https://leetcode.com/problems/majority-element/) | Majority Element | Easy |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
+| [0341](https://leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Medium |
 | [0343](https://leetcode.com/problems/integer-break/) | Integer Break | Medium |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
