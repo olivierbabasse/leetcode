@@ -4,6 +4,7 @@ mod lc0009_palindrome_number;
 mod lc0013_roman_to_integer;
 mod lc0014_longest_common_prefix;
 mod lc0020_valid_parentheses;
+mod lc0069_sqrtx;
 mod lc0118_pascals_triangle;
 mod lc0119_pascals_triangle_ii;
 mod lc0169_majority_element;
