@@ -23,6 +23,7 @@ mod lc1425_constrained_subsequence_sum;
 mod lc1480_running_sum_of_1d_array;
 mod lc1512_number_of_good_pairs;
 mod lc1672_richest_customer_wealth;
+mod lc1793_maximum_sum_of_a_good_subarray;
 mod lc2009_minimum_number_of_operations_to_make_array_continuous;
 mod lc2038_remove_colored_pieces_if_both_neighbors_are_the_same_color;
 mod lc2050_parallel_courses_iii;
