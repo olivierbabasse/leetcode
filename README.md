@@ -7,6 +7,7 @@
 | [0001](https://leetcode.com/problems/two-sum/) | Two Sum | Easy |
 | [0002](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | Medium |
 | [0009](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | Easy |
+| [0013](https://leetcode.com/problems/roman-to-integer/) | Romain to Integer | Easy |
 | [0020](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy |
 | [0118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy |
 | [0119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Easy |
