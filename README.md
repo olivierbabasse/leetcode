@@ -15,7 +15,10 @@
 | [0119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Easy |
 | [0169](https://leetcode.com/problems/majority-element/) | Majority Element | Easy |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
+| [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
+| [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
 | [0341](https://leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Medium |
+| [0342](https://leetcode.com/problems/power-of-four/) | Power of Four | Easy |
 | [0343](https://leetcode.com/problems/integer-break/) | Integer Break | Medium |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
