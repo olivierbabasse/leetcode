@@ -10,6 +10,7 @@
 | [0013](https://leetcode.com/problems/roman-to-integer/) | Romain to Integer | Easy |
 | [0014](https://leetcode.com/problems/longest-common-prefix/) | Longer Common Prefix | Easy |
 | [0020](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy |
+| [0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | Medium |
 | [0069](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | Easy |
 | [0118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy |
 | [0119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Easy |
