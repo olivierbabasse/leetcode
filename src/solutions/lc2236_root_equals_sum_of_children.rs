@@ -25,34 +25,10 @@ mod tests {
     #[test]
     fn test_cases() {
         assert!(Solution::check_tree(Some(Rc::new(RefCell::new(
-            TreeNode {
-                val: 10,
-                left: Some(Rc::new(RefCell::new(TreeNode {
-                    val: 4,
-                    left: None,
-                    right: None
-                }))),
-                right: Some(Rc::new(RefCell::new(TreeNode {
-                    val: 6,
-                    left: None,
-                    right: None
-                })))
-            }
+            TreeNode::from_vec(&[10, 4, 6])
         )))));
         assert!(!Solution::check_tree(Some(Rc::new(RefCell::new(
-            TreeNode {
-                val: 5,
-                left: Some(Rc::new(RefCell::new(TreeNode {
-                    val: 3,
-                    left: None,
-                    right: None
-                }))),
-                right: Some(Rc::new(RefCell::new(TreeNode {
-                    val: 1,
-                    left: None,
-                    right: None
-                })))
-            }
+            TreeNode::from_vec(&[5, 3, 1])
         )))));
     }
 }
