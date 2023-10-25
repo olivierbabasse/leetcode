@@ -7,7 +7,7 @@
 | [0001](https://leetcode.com/problems/two-sum/) | Two Sum | Easy |
 | [0002](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | Medium |
 | [0009](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | Easy |
-| [0013](https://leetcode.com/problems/roman-to-integer/) | Romain to Integer | Easy |
+| [0013](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy |
 | [0014](https://leetcode.com/problems/longest-common-prefix/) | Longer Common Prefix | Easy |
 | [0020](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy |
 | [0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | Medium |
@@ -27,6 +27,7 @@
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
+| [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |

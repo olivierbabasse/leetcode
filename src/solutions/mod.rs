@@ -21,6 +21,7 @@ mod lc0515_find_largest_value_in_each_tree_row;
 mod lc0557_reverse_words_in_a_string_iii;
 mod lc0706_design_hashmap;
 mod lc0746_min_cost_climbing_stairs;
+mod lc0779_k_th_symbol_in_grammar;
 mod lc0844_backspace_string_compare;
 mod lc0852_peak_index_in_a_mountain_array;
 mod lc0876_middle_of_the_linked_list;
