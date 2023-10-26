@@ -28,6 +28,7 @@
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
+| [0823](https://leetcode.com/problems/binary-trees-with-factors/) | Binary Trees With Factors | Medium |
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
