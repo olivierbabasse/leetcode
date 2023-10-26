@@ -30,6 +30,7 @@ mod lc1095_find_in_mountain_array;
 mod lc1269_number_of_ways_to_stay_in_the_same_place_after_some_steps;
 mod lc1342_number_of_steps_to_reduce_a_number_to_zero;
 mod lc1361_validate_binary_tree_nodes;
+mod lc1420_build_array_where_you_can_find_the_maximum_exactly_k_comparisons;
 mod lc1425_constrained_subsequence_sum;
 mod lc1458_max_dot_product_of_two_subsequences;
 mod lc1480_running_sum_of_1d_array;
