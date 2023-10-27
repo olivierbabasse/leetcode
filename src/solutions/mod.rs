@@ -1,5 +1,6 @@
 mod lc0001_two_sum;
 mod lc0002_add_two_numbers;
+mod lc0005_longest_palindromic_substring;
 mod lc0009_palindrome_number;
 mod lc0013_roman_to_integer;
 mod lc0014_longest_common_prefix;

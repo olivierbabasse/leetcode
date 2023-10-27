@@ -6,6 +6,7 @@
 |---------|------|------------|
 | [0001](https://leetcode.com/problems/two-sum/) | Two Sum | Easy |
 | [0002](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | Medium |
+| [0005](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium |
 | [0009](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | Easy |
 | [0013](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy |
 | [0014](https://leetcode.com/problems/longest-common-prefix/) | Longer Common Prefix | Easy |
