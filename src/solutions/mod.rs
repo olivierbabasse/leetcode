@@ -28,6 +28,7 @@ mod lc0844_backspace_string_compare;
 mod lc0852_peak_index_in_a_mountain_array;
 mod lc0876_middle_of_the_linked_list;
 mod lc1095_find_in_mountain_array;
+mod lc1220_count_vowels_permutations;
 mod lc1269_number_of_ways_to_stay_in_the_same_place_after_some_steps;
 mod lc1342_number_of_steps_to_reduce_a_number_to_zero;
 mod lc1361_validate_binary_tree_nodes;

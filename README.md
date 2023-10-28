@@ -34,6 +34,7 @@
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
+| [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
