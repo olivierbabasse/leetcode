@@ -24,6 +24,7 @@
 | [0343](https://leetcode.com/problems/integer-break/) | Integer Break | Medium |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
+| [0458](https://leetcode.com/problems/poor-pigs/) | Poor Pigs | Hard |
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |

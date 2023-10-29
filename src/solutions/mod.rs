@@ -18,6 +18,7 @@ mod lc0342_power_of_four;
 mod lc0343_integer_break;
 mod lc0383_ransom_note;
 mod lc0412_fizz_buzz;
+mod lc0458_poor_pigs;
 mod lc0515_find_largest_value_in_each_tree_row;
 mod lc0557_reverse_words_in_a_string_iii;
 mod lc0706_design_hashmap;
