@@ -34,10 +34,12 @@
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
+| [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
+| [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by he Number of 1 Bits | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
 | [1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | Constrained Subsequence Sum | Hard |
@@ -47,6 +49,7 @@
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Hard |
 | [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | Minimum Number of Operations to Make Array Continuous | Hard |
+| [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Remove Colored Pieces if Both Neighbors are the Same Color | Medium |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
 | [2235](https://leetcode.com/problems/add-two-integers/) | Add Two Integers | Easy |
