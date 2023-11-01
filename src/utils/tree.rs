@@ -1,4 +1,5 @@
 use std::cell::RefCell;
+use std::collections::VecDeque;
 use std::rc::Rc;
 
 #[derive(PartialEq, Eq, Debug)]
@@ -38,26 +39,37 @@ impl<T: Copy> TreeNode<T> {
         Self::insert_bfs(vals, 0).unwrap()
     }
 
-    fn insert_bfs_opt(vals: &[Option<T>], index: usize) -> Option<TreeNode<T>> {
-        if index < vals.len() {
-            if let Some(val) = vals[index] {
-                let mut node = Self::new(val);
-                if let Some(left) = Self::insert_bfs_opt(vals, 2 * index + 1) {
-                    node.left = Some(Rc::new(RefCell::new(left)));
+    fn insert_bfs_opt(vals: &[Option<T>]) -> Option<TreeNode<T>> {
+        let root = Rc::new(RefCell::new(TreeNode::new(vals[0].unwrap())));
+        let mut queue = VecDeque::new();
+        queue.push_back(Rc::clone(&root));
+
+        let mut index = 1;
+        while index < vals.len() {
+            if let Some(node) = queue.pop_front() {
+                if let Some(val) = vals[index] {
+                    let left = Rc::new(RefCell::new(TreeNode::new(val)));
+                    node.borrow_mut().left = Some(Rc::clone(&left));
+                    queue.push_back(Rc::clone(&left));
                 }
-                if let Some(right) = Self::insert_bfs_opt(vals, 2 * index + 2) {
-                    node.right = Some(Rc::new(RefCell::new(right)));
+                index += 1;
+
+                if index < vals.len() && vals[index].is_some() {
+                    let right = Rc::new(RefCell::new(TreeNode::new(vals[index].unwrap())));
+                    node.borrow_mut().right = Some(Rc::clone(&right));
+                    queue.push_back(Rc::clone(&right));
                 }
-                return Some(node);
+                index += 1;
             }
         }
-        None
+
+        Rc::try_unwrap(root).map(|root| root.into_inner()).ok()
     }
 
     pub fn from_vec_opt(vals: &[Option<T>]) -> Self {
         assert!(!vals.is_empty(), "array must not be empty");
 
-        Self::insert_bfs_opt(vals, 0).unwrap()
+        Self::insert_bfs_opt(vals).unwrap()
     }
 }
 
@@ -115,6 +127,22 @@ mod tests {
                 right: Some(Rc::new(RefCell::new(TreeNode {
                     val: 3,
                     left: None,
+                    right: None
+                })))
+            }
+        );
+        assert_eq!(
+            TreeNode::from_vec_opt(&[Some(1), None, Some(2), Some(3)]),
+            TreeNode {
+                val: 1,
+                left: None,
+                right: Some(Rc::new(RefCell::new(TreeNode {
+                    val: 2,
+                    left: Some(Rc::new(RefCell::new(TreeNode {
+                        val: 3,
+                        left: None,
+                        right: None
+                    }))),
                     right: None
                 })))
             }
