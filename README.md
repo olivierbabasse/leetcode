@@ -20,7 +20,7 @@
 | [0136](https://leetcode.com/problems/single-number/) | Single Number | Easy |
 | [0137](https://leetcode.com/problems/single-number-ii/) | Single Number II | Medium |
 | [0144](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal | Easy |
-| [0145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder | Easy |
+| [0145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | Easy |
 | [0169](https://leetcode.com/problems/majority-element/) | Majority Element | Easy |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
@@ -44,6 +44,7 @@
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
+| [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
@@ -65,6 +66,7 @@
 | [2235](https://leetcode.com/problems/add-two-integers/) | Add Two Integers | Easy |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | Root Equals Sum of Children | Easy |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |
+| [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |

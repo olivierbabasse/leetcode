@@ -1,6 +1,7 @@
 //! <https://leetcode.com/problems/find-mode-in-binary-search-tree/>
 
 use std::cell::RefCell;
+use std::cmp::Ordering;
 use std::rc::Rc;
 
 type TreeNode = crate::utils::tree::TreeNode<i32>;
@@ -34,11 +35,13 @@ impl Solution {
             state.current_count += 1;
         }
 
-        if state.current_count > state.max_count {
-            *output = vec![state.current_val];
-            state.max_count = state.current_count;
-        } else if state.current_count == state.max_count {
-            output.push(state.current_val);
+        match state.current_count.cmp(&state.max_count) {
+            Ordering::Greater => {
+                *output = vec![state.current_val];
+                state.max_count = state.current_count;
+            }
+            Ordering::Equal => output.push(state.current_val),
+            _ => {}
         }
 
         Self::traversal(&root.right, state, output);
