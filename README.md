@@ -57,6 +57,7 @@
 | [1441](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Medium |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Max Dot Product of Two Subsequences | Hard |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | Easy |
+| [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Medium |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
@@ -65,11 +66,13 @@
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Remove Colored Pieces if Both Neighbors are the Same Color | Medium |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
+| [2211](https://leetcode.com/problems/count-collisions-on-a-road/) | Count Collisions on a Road | Medium |
 | [2235](https://leetcode.com/problems/add-two-integers/) | Add Two Integers | Easy |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | Root Equals Sum of Children | Easy |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
+| [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
