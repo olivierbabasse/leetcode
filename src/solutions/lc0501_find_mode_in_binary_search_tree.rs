@@ -62,21 +62,10 @@ mod tests {
     #[test]
     fn test_cases() {
         assert_eq!(
-            Solution::find_mode(Some(Rc::new(RefCell::new(TreeNode::from_vec_opt(&[
-                Some(1),
-                None,
-                Some(2),
-                Some(2),
-            ]))))),
+            Solution::find_mode(TreeNode::from_vec_opt(&[Some(1), None, Some(2), Some(2),])),
             vec![2]
         );
-        assert_eq!(
-            Solution::find_mode(Some(Rc::new(RefCell::new(TreeNode::from_vec(&[0]))))),
-            vec![0]
-        );
-        assert_eq!(
-            Solution::find_mode(Some(Rc::new(RefCell::new(TreeNode::from_vec(&[1, 1, 2]))))),
-            vec![1]
-        );
+        assert_eq!(Solution::find_mode(TreeNode::from_vec(&[0])), vec![0]);
+        assert_eq!(Solution::find_mode(TreeNode::from_vec(&[1, 1, 2])), vec![1]);
     }
 }

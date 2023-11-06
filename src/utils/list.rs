@@ -9,7 +9,7 @@ impl<T: Copy> ListNode<T> {
         Self { val, next: None }
     }
 
-    pub fn from_vec(vals: &[T]) -> Self {
+    /*pub fn from_vec(vals: &[T]) -> Self {
         assert!(!vals.is_empty(), "array must not be empty");
 
         let mut node = Self::new(vals[0]);
@@ -19,6 +19,20 @@ impl<T: Copy> ListNode<T> {
             None
         };
         node
+    }*/
+
+    pub fn from_vec(vals: &[T]) -> Option<Box<Self>> {
+        if vals.is_empty() {
+            return None;
+        }
+
+        let mut node = Self::new(vals[0]);
+        node.next = if vals.len() > 1 {
+            Self::from_vec(&vals[1..])
+        } else {
+            None
+        };
+        Some(Box::new(node))
     }
 }
 
@@ -38,19 +52,18 @@ mod tests {
     }
 
     #[test]
-    #[should_panic]
     fn test_from_empty_vec() {
-        ListNode::<i32>::from_vec(&[]);
+        assert_eq!(ListNode::<i32>::from_vec(&[]), None);
     }
 
     #[test]
     fn test_from_vec() {
         assert_eq!(
             ListNode::from_vec(&[1, 2]),
-            ListNode {
+            Some(Box::new(ListNode {
                 val: 1,
                 next: Some(Box::new(ListNode { val: 2, next: None }))
-            }
+            }))
         );
     }
 }

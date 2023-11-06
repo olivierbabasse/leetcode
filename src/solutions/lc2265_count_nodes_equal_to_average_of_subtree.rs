@@ -46,7 +46,7 @@ mod tests {
     #[test]
     fn test_cases() {
         assert_eq!(
-            Solution::average_of_subtree(Some(Rc::new(RefCell::new(TreeNode::from_vec_opt(&[
+            Solution::average_of_subtree(TreeNode::from_vec_opt(&[
                 Some(4),
                 Some(8),
                 Some(5),
@@ -54,12 +54,9 @@ mod tests {
                 Some(1),
                 None,
                 Some(6),
-            ]))))),
+            ])),
             5
         );
-        assert_eq!(
-            Solution::average_of_subtree(Some(Rc::new(RefCell::new(TreeNode::from_vec(&[1]))))),
-            1
-        );
+        assert_eq!(Solution::average_of_subtree(TreeNode::from_vec(&[1])), 1);
     }
 }

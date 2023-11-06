@@ -27,12 +27,12 @@ mod tests {
     #[test]
     fn test_cases() {
         assert_eq!(
-            Solution::middle_node(Some(Box::new(ListNode::from_vec(&[1, 2, 3, 4, 5]))),),
-            Some(Box::new(ListNode::from_vec(&[3, 4, 5])))
+            Solution::middle_node(ListNode::from_vec(&[1, 2, 3, 4, 5]),),
+            ListNode::from_vec(&[3, 4, 5])
         );
         assert_eq!(
-            Solution::middle_node(Some(Box::new(ListNode::from_vec(&[1, 2, 3, 4, 5, 6]))),),
-            Some(Box::new(ListNode::from_vec(&[4, 5, 6])))
+            Solution::middle_node(ListNode::from_vec(&[1, 2, 3, 4, 5, 6]),),
+            ListNode::from_vec(&[4, 5, 6])
         );
     }
 }

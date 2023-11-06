@@ -41,7 +41,7 @@ mod tests {
     #[test]
     fn test_cases() {
         assert_eq!(
-            Solution::largest_values(Some(Rc::new(RefCell::new(TreeNode::from_vec_opt(&[
+            Solution::largest_values(TreeNode::from_vec_opt(&[
                 Some(1),
                 Some(3),
                 Some(2),
@@ -49,11 +49,11 @@ mod tests {
                 Some(3),
                 None,
                 Some(9)
-            ]))))),
+            ])),
             vec![1, 3, 9]
         );
         assert_eq!(
-            Solution::largest_values(Some(Rc::new(RefCell::new(TreeNode::from_vec(&[1, 2, 3]))))),
+            Solution::largest_values(TreeNode::from_vec(&[1, 2, 3])),
             vec![1, 3]
         );
     }

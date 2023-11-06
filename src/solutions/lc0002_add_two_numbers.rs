@@ -82,24 +82,21 @@ mod tests {
     fn test_cases_1() {
         assert_eq!(
             Solution1::add_two_numbers(
-                Some(Box::new(ListNode::from_vec(&[2, 4, 3]))),
-                Some(Box::new(ListNode::from_vec(&[5, 6, 4])))
+                ListNode::from_vec(&[2, 4, 3]),
+                ListNode::from_vec(&[5, 6, 4])
             ),
-            Some(Box::new(ListNode::from_vec(&[7, 0, 8])))
+            ListNode::from_vec(&[7, 0, 8])
+        );
+        assert_eq!(
+            Solution1::add_two_numbers(ListNode::from_vec(&[0]), ListNode::from_vec(&[0])),
+            ListNode::from_vec(&[0])
         );
         assert_eq!(
             Solution1::add_two_numbers(
-                Some(Box::new(ListNode::from_vec(&[0]))),
-                Some(Box::new(ListNode::from_vec(&[0])))
+                ListNode::from_vec(&[9, 9, 9, 9, 9, 9, 9]),
+                ListNode::from_vec(&[9, 9, 9, 9])
             ),
-            Some(Box::new(ListNode::from_vec(&[0])))
-        );
-        assert_eq!(
-            Solution1::add_two_numbers(
-                Some(Box::new(ListNode::from_vec(&[9, 9, 9, 9, 9, 9, 9]))),
-                Some(Box::new(ListNode::from_vec(&[9, 9, 9, 9])))
-            ),
-            Some(Box::new(ListNode::from_vec(&[8, 9, 9, 9, 0, 0, 0, 1])))
+            ListNode::from_vec(&[8, 9, 9, 9, 0, 0, 0, 1])
         );
     }
 
@@ -107,24 +104,21 @@ mod tests {
     fn test_cases_2() {
         assert_eq!(
             Solution2::add_two_numbers(
-                Some(Box::new(ListNode::from_vec(&[2, 4, 3]))),
-                Some(Box::new(ListNode::from_vec(&[5, 6, 4])))
+                ListNode::from_vec(&[2, 4, 3]),
+                ListNode::from_vec(&[5, 6, 4])
             ),
-            Some(Box::new(ListNode::from_vec(&[7, 0, 8])))
+            ListNode::from_vec(&[7, 0, 8])
+        );
+        assert_eq!(
+            Solution2::add_two_numbers(ListNode::from_vec(&[0]), ListNode::from_vec(&[0])),
+            ListNode::from_vec(&[0])
         );
         assert_eq!(
             Solution2::add_two_numbers(
-                Some(Box::new(ListNode::from_vec(&[0]))),
-                Some(Box::new(ListNode::from_vec(&[0])))
+                ListNode::from_vec(&[9, 9, 9, 9, 9, 9, 9]),
+                ListNode::from_vec(&[9, 9, 9, 9])
             ),
-            Some(Box::new(ListNode::from_vec(&[0])))
-        );
-        assert_eq!(
-            Solution2::add_two_numbers(
-                Some(Box::new(ListNode::from_vec(&[9, 9, 9, 9, 9, 9, 9]))),
-                Some(Box::new(ListNode::from_vec(&[9, 9, 9, 9])))
-            ),
-            Some(Box::new(ListNode::from_vec(&[8, 9, 9, 9, 0, 0, 0, 1])))
+            ListNode::from_vec(&[8, 9, 9, 9, 0, 0, 0, 1])
         );
     }
 }

@@ -33,10 +33,12 @@ impl<T: Copy> TreeNode<T> {
         }
     }
 
-    pub fn from_vec(vals: &[T]) -> Self {
-        assert!(!vals.is_empty(), "array must not be empty");
-
-        Self::insert_bfs(vals, 0).unwrap()
+    pub fn from_vec(vals: &[T]) -> Option<Rc<RefCell<Self>>> {
+        if vals.is_empty() {
+            None
+        } else {
+            Self::insert_bfs(vals, 0).map(|node| Rc::new(RefCell::new(node)))
+        }
     }
 
     fn insert_bfs_opt(vals: &[Option<T>]) -> Option<TreeNode<T>> {
@@ -66,10 +68,12 @@ impl<T: Copy> TreeNode<T> {
         Rc::try_unwrap(root).map(|root| root.into_inner()).ok()
     }
 
-    pub fn from_vec_opt(vals: &[Option<T>]) -> Self {
-        assert!(!vals.is_empty(), "array must not be empty");
-
-        Self::insert_bfs_opt(vals).unwrap()
+    pub fn from_vec_opt(vals: &[Option<T>]) -> Option<Rc<RefCell<Self>>> {
+        if vals.is_empty() {
+            None
+        } else {
+            Self::insert_bfs_opt(vals).map(|node| Rc::new(RefCell::new(node)))
+        }
     }
 }
 
@@ -92,16 +96,15 @@ mod tests {
     }
 
     #[test]
-    #[should_panic]
     fn test_from_empty_vec() {
-        TreeNode::<i32>::from_vec(&[]);
+        assert_eq!(TreeNode::<i32>::from_vec(&[]), None);
     }
 
     #[test]
     fn test_from_vec() {
         assert_eq!(
             TreeNode::from_vec(&[1, 2, 3]),
-            TreeNode {
+            Some(Rc::new(RefCell::new(TreeNode {
                 val: 1,
                 left: Some(Rc::new(RefCell::new(TreeNode {
                     val: 2,
@@ -113,7 +116,7 @@ mod tests {
                     left: None,
                     right: None
                 })))
-            }
+            })))
         );
     }
 
@@ -121,7 +124,7 @@ mod tests {
     fn test_from_vec_opt() {
         assert_eq!(
             TreeNode::from_vec_opt(&[Some(1), None, Some(3)]),
-            TreeNode {
+            Some(Rc::new(RefCell::new(TreeNode {
                 val: 1,
                 left: None,
                 right: Some(Rc::new(RefCell::new(TreeNode {
@@ -129,11 +132,11 @@ mod tests {
                     left: None,
                     right: None
                 })))
-            }
+            })))
         );
         assert_eq!(
             TreeNode::from_vec_opt(&[Some(1), None, Some(2), Some(3)]),
-            TreeNode {
+            Some(Rc::new(RefCell::new(TreeNode {
                 val: 1,
                 left: None,
                 right: Some(Rc::new(RefCell::new(TreeNode {
@@ -145,7 +148,7 @@ mod tests {
                     }))),
                     right: None
                 })))
-            }
+            })))
         );
     }
 }

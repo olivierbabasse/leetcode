@@ -24,11 +24,7 @@ mod tests {
 
     #[test]
     fn test_cases() {
-        assert!(Solution::check_tree(Some(Rc::new(RefCell::new(
-            TreeNode::from_vec(&[10, 4, 6])
-        )))));
-        assert!(!Solution::check_tree(Some(Rc::new(RefCell::new(
-            TreeNode::from_vec(&[5, 3, 1])
-        )))));
+        assert!(Solution::check_tree(TreeNode::from_vec(&[10, 4, 6])));
+        assert!(!Solution::check_tree(TreeNode::from_vec(&[5, 3, 1])));
     }
 }

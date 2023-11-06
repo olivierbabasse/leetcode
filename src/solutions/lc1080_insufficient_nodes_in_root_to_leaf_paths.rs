@@ -55,12 +55,10 @@ mod tests {
     fn test_cases() {
         assert_eq!(
             Solution::sufficient_subset(
-                Some(Rc::new(RefCell::new(TreeNode::from_vec(&[
-                    1, 2, 3, 4, -99, -99, 7, 8, 9, -99, -99, 12, 13, -99, 14
-                ])))),
+                TreeNode::from_vec(&[1, 2, 3, 4, -99, -99, 7, 8, 9, -99, -99, 12, 13, -99, 14]),
                 1
             ),
-            Some(Rc::new(RefCell::new(TreeNode::from_vec_opt(&[
+            TreeNode::from_vec_opt(&[
                 Some(1),
                 Some(2),
                 Some(3),
@@ -72,11 +70,11 @@ mod tests {
                 Some(9),
                 None,
                 Some(14),
-            ]))))
+            ])
         );
         assert_eq!(
             Solution::sufficient_subset(
-                Some(Rc::new(RefCell::new(TreeNode::from_vec_opt(&[
+                TreeNode::from_vec_opt(&[
                     Some(1),
                     Some(2),
                     Some(-3),
@@ -84,15 +82,10 @@ mod tests {
                     None,
                     Some(4),
                     None,
-                ])))),
+                ]),
                 -1
             ),
-            Some(Rc::new(RefCell::new(TreeNode::from_vec_opt(&[
-                Some(1),
-                None,
-                Some(-3),
-                Some(4),
-            ]))))
+            TreeNode::from_vec_opt(&[Some(1), None, Some(-3), Some(4),])
         );
     }
 }

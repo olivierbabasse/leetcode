@@ -36,17 +36,17 @@ mod tests {
     #[test]
     fn test_cases() {
         assert_eq!(
-            Solution::preorder_traversal(Some(Rc::new(RefCell::new(TreeNode::from_vec_opt(&[
+            Solution::preorder_traversal(TreeNode::from_vec_opt(&[
                 Some(1),
                 None,
                 Some(2),
                 Some(3),
-            ]))))),
+            ])),
             vec![1, 2, 3]
         );
         assert_eq!(Solution::preorder_traversal(None), vec![]);
         assert_eq!(
-            Solution::preorder_traversal(Some(Rc::new(RefCell::new(TreeNode::from_vec(&[1]))))),
+            Solution::preorder_traversal(TreeNode::from_vec(&[1])),
             vec![1]
         );
     }

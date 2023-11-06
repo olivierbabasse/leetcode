@@ -34,11 +34,19 @@ mod tests {
 
     #[test]
     fn test_cases() {
-        assert!(Solution::is_valid_bst(Some(Rc::new(RefCell::new(
-            TreeNode::from_vec_opt(&[Some(2), Some(1), Some(3),])
-        )))),);
-        assert!(!Solution::is_valid_bst(Some(Rc::new(RefCell::new(
-            TreeNode::from_vec_opt(&[Some(5), Some(1), Some(4), None, None, Some(3), Some(6)])
-        )))),);
+        assert!(Solution::is_valid_bst(TreeNode::from_vec_opt(&[
+            Some(2),
+            Some(1),
+            Some(3),
+        ])),);
+        assert!(!Solution::is_valid_bst(TreeNode::from_vec_opt(&[
+            Some(5),
+            Some(1),
+            Some(4),
+            None,
+            None,
+            Some(3),
+            Some(6)
+        ])),);
     }
 }

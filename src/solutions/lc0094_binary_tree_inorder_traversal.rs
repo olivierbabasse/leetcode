@@ -36,17 +36,14 @@ mod tests {
     #[test]
     fn test_cases() {
         assert_eq!(
-            Solution::inorder_traversal(Some(Rc::new(RefCell::new(TreeNode::from_vec_opt(&[
-                Some(1),
-                None,
-                Some(2),
-                Some(3),
-            ]))))),
+            Solution::inorder_traversal(TreeNode::from_vec_opt(
+                &[Some(1), None, Some(2), Some(3),]
+            )),
             vec![1, 3, 2]
         );
         assert_eq!(Solution::inorder_traversal(None), vec![]);
         assert_eq!(
-            Solution::inorder_traversal(Some(Rc::new(RefCell::new(TreeNode::from_vec(&[1]))))),
+            Solution::inorder_traversal(TreeNode::from_vec(&[1])),
             vec![1]
         );
     }
