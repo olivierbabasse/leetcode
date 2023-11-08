@@ -84,6 +84,7 @@
 | [2353](https://leetcode.com/problems/design-a-food-rating-system/) | Design a Food Rating System | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
+| [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Medium |

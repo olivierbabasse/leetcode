@@ -78,6 +78,7 @@ mod lc2349_design_a_number_container_system;
 mod lc2353_design_a_food_rating_system;
 mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
 mod lc2433_find_the_original_array_of_prefix_xor;
+mod lc2543_check_if_point_is_reachable;
 mod lc2731_movement_of_robots;
 mod lc2742_painting_the_walls;
 mod lc2849_determine_if_a_cell_is_reachable_at_a_given_time;
