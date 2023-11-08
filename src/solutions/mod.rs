@@ -80,4 +80,5 @@ mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
 mod lc2433_find_the_original_array_of_prefix_xor;
 mod lc2731_movement_of_robots;
 mod lc2742_painting_the_walls;
+mod lc2849_determine_if_a_cell_is_reachable_at_a_given_time;
 mod lc2869_minimum_operations_to_collect_elements;
