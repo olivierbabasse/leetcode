@@ -42,6 +42,7 @@
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
+| [0780](https://leetcode.com/problems/reaching-points/) | Reaching Points | Hard |
 | [0823](https://leetcode.com/problems/binary-trees-with-factors/) | Binary Trees With Factors | Medium |
 | [0829](https://leetcode.com/problems/consecutive-numbers-sum/) | Consecutive Numbers Sum | Hard |
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
