@@ -50,6 +50,7 @@
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
+| [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
@@ -69,6 +70,7 @@
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
+| [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Medium |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Hard |
@@ -84,6 +86,7 @@
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | Root Equals Sum of Children | Easy |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
+| [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Calculate Amount Paid in Taxes | Easy |
 | [2349](https://leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Medium |
 | [2353](https://leetcode.com/problems/design-a-food-rating-system/) | Design a Food Rating System | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
