@@ -38,6 +38,7 @@ mod lc0706_design_hashmap;
 mod lc0746_min_cost_climbing_stairs;
 mod lc0779_k_th_symbol_in_grammar;
 mod lc0780_reaching_points;
+mod lc0815_bus_routes;
 mod lc0823_binary_trees_with_factors;
 mod lc0829_consecutive_numbers_sum;
 mod lc0844_backspace_string_compare;
