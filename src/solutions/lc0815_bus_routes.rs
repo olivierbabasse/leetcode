@@ -4,6 +4,8 @@ use std::collections::{HashMap, HashSet, VecDeque};
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution {
     pub fn num_buses_to_destination(routes: Vec<Vec<i32>>, source: i32, target: i32) -> i32 {
         if source == target {

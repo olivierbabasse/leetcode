@@ -33,6 +33,8 @@
 | [0341](https://leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Medium |
 | [0342](https://leetcode.com/problems/power-of-four/) | Power of Four | Easy |
 | [0343](https://leetcode.com/problems/integer-break/) | Integer Break | Medium |
+| [0344](https://leetcode.com/problems/reverse-string/) | Reverse String | Easy |
+| [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Reverse Vowels of a String | Easy |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
 | [0458](https://leetcode.com/problems/poor-pigs/) | Poor Pigs | Hard |
@@ -50,6 +52,7 @@
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
+| [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
@@ -96,5 +99,7 @@
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
+| [2785](https://leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | Medium |
+| [2810](https://leetcode.com/problems/faulty-keyboard/) | Faulty Keyboard | Easy |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Medium |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
