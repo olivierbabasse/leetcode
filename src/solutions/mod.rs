@@ -90,6 +90,7 @@ mod lc2349_design_a_number_container_system;
 mod lc2353_design_a_food_rating_system;
 mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
 mod lc2433_find_the_original_array_of_prefix_xor;
+mod lc2484_count_palindromic_subsequences;
 mod lc2543_check_if_point_is_reachable;
 mod lc2642_design_graph_with_shortest_path_calculator;
 mod lc2731_movement_of_robots;
