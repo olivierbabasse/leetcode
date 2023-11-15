@@ -79,6 +79,7 @@
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Hard |
 | [1845](https://leetcode.com/problems/seat-reservation-manager/) | Seat Reservation Manager | Medium |
+| [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Medium |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Medium |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Medium |
 | [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | Minimum Number of Operations to Make Array Continuous | Hard |
@@ -86,6 +87,8 @@
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Remove Colored Pieces if Both Neighbors are the Same Color | Medium |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
+| [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Rearrange Array Elements by Sign | Medium |
+| [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Medium |
 | [2211](https://leetcode.com/problems/count-collisions-on-a-road/) | Count Collisions on a Road | Medium |
 | [2235](https://leetcode.com/problems/add-two-integers/) | Add Two Integers | Easy |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | Root Equals Sum of Children | Easy |
