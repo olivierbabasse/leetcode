@@ -37,6 +37,7 @@
 | [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Reverse Vowels of a String | Easy |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
+| [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | Easy |
 | [0458](https://leetcode.com/problems/poor-pigs/) | Poor Pigs | Hard |
 | [0485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones | Easy |
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Find Mode in Binary Search Tree | Easy |
@@ -82,6 +83,7 @@
 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Medium |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Medium |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Medium |
+| [1980](https://leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Medium |
 | [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | Minimum Number of Operations to Make Array Continuous | Hard |
 | [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Maximum Difference Between Increasing Elements | Easy |
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Remove Colored Pieces if Both Neighbors are the Same Color | Medium |
