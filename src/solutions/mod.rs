@@ -75,6 +75,7 @@ mod lc1743_restore_the_array_from_adjacent_pairs;
 mod lc1759_count_number_of_homogenous_substrings;
 mod lc1773_count_items_matching_a_rule;
 mod lc1793_maximum_sum_of_a_good_subarray;
+mod lc1838_frequency_of_the_most_frequent_element;
 mod lc1845_seat_reservation_manager;
 mod lc1846_maximum_element_after_decreasing_and_rearranging;
 mod lc1877_minimize_maximum_pair_sum_in_array;

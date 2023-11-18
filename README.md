@@ -81,6 +81,7 @@
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Hard |
+| [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Frequency of the Most Frequent Element | Medium |
 | [1845](https://leetcode.com/problems/seat-reservation-manager/) | Seat Reservation Manager | Medium |
 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Medium |
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Minimize Maximim Pair Sum in Array | Medium |
