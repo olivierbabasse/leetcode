@@ -79,6 +79,7 @@ mod lc1838_frequency_of_the_most_frequent_element;
 mod lc1845_seat_reservation_manager;
 mod lc1846_maximum_element_after_decreasing_and_rearranging;
 mod lc1877_minimize_maximum_pair_sum_in_array;
+mod lc1887_reduce_operations_to_make_the_array_elements_equal;
 mod lc1921_eliminate_maximum_number_of_monsters;
 mod lc1930_unique_length_3_palindromic_subsequences;
 mod lc1980_find_unique_binary_string;

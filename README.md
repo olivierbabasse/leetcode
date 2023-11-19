@@ -85,6 +85,7 @@
 | [1845](https://leetcode.com/problems/seat-reservation-manager/) | Seat Reservation Manager | Medium |
 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Medium |
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Minimize Maximim Pair Sum in Array | Medium |
+| [1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Reduce Operations to Make the Array Elements Equal | Medium |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Medium |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Medium |
 | [1980](https://leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Medium |
