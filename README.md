@@ -61,6 +61,7 @@
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
+| [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by he Number of 1 Bits | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
@@ -70,12 +71,14 @@
 | [1441](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Medium |
 | [1446](https://leetcode.com/problems/consecutive-characters/) | Consecutive Characters | Easy |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Max Dot Product of Two Subsequences | Hard |
+| [1476](https://leetcode.com/problems/subrectangle-queries/) | Subrectangle Queries | Medium |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | Easy |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | Easy |
 | [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Medium |
 | [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Medium |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
+| [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Partitioning Into Minimum Number of Deci-Binary Numbers | Medium |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
 | [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Medium |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
@@ -104,6 +107,7 @@
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Calculate Amount Paid in Taxes | Easy |
 | [2349](https://leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Medium |
 | [2353](https://leetcode.com/problems/design-a-food-rating-system/) | Design a Food Rating System | Medium |
+| [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Minimum Amount of Time to Collect Garbage | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
