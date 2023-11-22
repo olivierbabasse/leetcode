@@ -67,6 +67,7 @@
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
 | [1409](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | Queries on a Permutation With Key | Medium |
 | [1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard |
+| [1424](https://leetcode.com/problems/diagonal-traverse-ii/) | Diagonal Traverse II | Medium |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | Constrained Subsequence Sum | Hard |
 | [1441](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Medium |
 | [1446](https://leetcode.com/problems/consecutive-characters/) | Consecutive Characters | Easy |
@@ -115,6 +116,7 @@
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
+| [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
