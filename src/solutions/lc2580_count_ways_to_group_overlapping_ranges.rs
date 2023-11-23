@@ -2,8 +2,8 @@
 
 struct Solution {}
 
-/// time-complexity : O(n)
-/// space-complexity : O(n*log(n))
+/// time-complexity : O(n*log(n))
+/// space-complexity : O(n)
 impl Solution {
     pub fn count_ways(mut ranges: Vec<Vec<i32>>) -> i32 {
         ranges.sort_unstable_by_key(|v| v[0]);

@@ -37,6 +37,7 @@
 | [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Reverse Vowels of a String | Easy |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
+| [0413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | Medium |
 | [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | Easy |
 | [0458](https://leetcode.com/problems/poor-pigs/) | Poor Pigs | Hard |
 | [0485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones | Easy |
@@ -78,6 +79,7 @@
 | [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Medium |
 | [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Medium |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
+| [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Partitioning Into Minimum Number of Deci-Binary Numbers | Medium |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
