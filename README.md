@@ -88,6 +88,7 @@
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Medium |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Partitioning Into Minimum Number of Deci-Binary Numbers | Medium |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
+| [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Largest Submatrix With Rearrangements | Medium |
 | [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Medium |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |

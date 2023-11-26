@@ -82,6 +82,7 @@ mod lc1672_richest_customer_wealth;
 mod lc1685_sum_of_absolute_differences_in_a_sorted_array;
 mod lc1689_partitioning_into_minimum_number_of_deci_binary_numbers;
 mod lc1720_decode_xored_array;
+mod lc1727_largest_submatrix_with_rearrangements;
 mod lc1743_restore_the_array_from_adjacent_pairs;
 mod lc1759_count_number_of_homogenous_substrings;
 mod lc1773_count_items_matching_a_rule;
