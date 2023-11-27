@@ -17,6 +17,7 @@
 | [0062](https://leetcode.com/problems/unique-paths/) | Unique Paths | Medium |
 | [0063](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II | Medium |
 | [0069](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | Easy |
+| [0070](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Easy |
 | [0098](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium |
 | [0118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy |
@@ -27,6 +28,7 @@
 | [0144](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal | Easy |
 | [0145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | Easy |
 | [0169](https://leetcode.com/problems/majority-element/) | Majority Element | Easy |
+| [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
@@ -44,6 +46,7 @@
 | [0458](https://leetcode.com/problems/poor-pigs/) | Poor Pigs | Hard |
 | [0485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones | Easy |
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Find Mode in Binary Search Tree | Easy |
+| [0509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | Easy |
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
@@ -58,10 +61,12 @@
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
+| [0935](https://leetcode.com/problems/knight-dialer/) | Knight Dialer | Medium |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
+| [1137](https://leetcode.com/problems/n-th-tribonacci-number/) | N-th Tribonacci Number | Easy |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
