@@ -8,6 +8,8 @@
 | [0002](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | Medium |
 | [0003](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | Medium |
 | [0005](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium |
+| [0007](https://leetcode.com/problems/reverse-integer/) | Reverse Integer | Medium |
+| [0008](https://leetcode.com/problems/string-to-integer-atoi/) | String to Integer (atoi) | Medium |
 | [0009](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | Easy |
 | [0013](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy |
 | [0014](https://leetcode.com/problems/longest-common-prefix/) | Longer Common Prefix | Easy |
@@ -28,18 +30,22 @@
 | [0144](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal | Easy |
 | [0145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | Easy |
 | [0169](https://leetcode.com/problems/majority-element/) | Majority Element | Easy |
+| [0190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | Easy |
+| [0191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy |
 | [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
 | [0268](https://leetcode.com/problems/missing-number/) | Missing number | Easy |
 | [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
+| [0338](https://leetcode.com/problems/counting-bits/) | Counting Bits | Easy |
 | [0341](https://leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Medium |
 | [0342](https://leetcode.com/problems/power-of-four/) | Power of Four | Easy |
 | [0343](https://leetcode.com/problems/integer-break/) | Integer Break | Medium |
 | [0344](https://leetcode.com/problems/reverse-string/) | Reverse String | Easy |
 | [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Reverse Vowels of a String | Easy |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
+| [0401](https://leetcode.com/problems/binary-watch/) | Binary Watch | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
 | [0413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | Medium |
 | [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | Easy |
@@ -115,6 +121,7 @@
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
+| [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | A Number After a Double Reversal | Easy |
 | [2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Number of Ways to Divide a Long Corridor | Hard |
 | [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Rearrange Array Elements by Sign | Medium |
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Medium |
