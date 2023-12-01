@@ -98,6 +98,7 @@
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Hard |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
+| [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Medium |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Partitioning Into Minimum Number of Deci-Binary Numbers | Medium |

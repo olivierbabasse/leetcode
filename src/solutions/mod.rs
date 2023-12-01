@@ -92,6 +92,7 @@ mod lc1535_find_the_winner_of_an_array_game;
 mod lc1561_maximum_number_of_coins_you_can_get;
 mod lc1611_minimum_one_bit_operations_to_make_integers_zero;
 mod lc1630_arithmetic_subarrays;
+mod lc1662_check_if_two_string_arrays_are_equivalent;
 mod lc1672_richest_customer_wealth;
 mod lc1685_sum_of_absolute_differences_in_a_sorted_array;
 mod lc1689_partitioning_into_minimum_number_of_deci_binary_numbers;
