@@ -25,6 +25,7 @@
 | [0098](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium |
 | [0118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy |
 | [0119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Easy |
+| [0120](https://leetcode.com/problems/triangle/) | Triange | Medium |
 | [0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock | Easy |
 | [0136](https://leetcode.com/problems/single-number/) | Single Number | Easy |
 | [0137](https://leetcode.com/problems/single-number-ii/) | Single Number II | Medium |
@@ -75,6 +76,7 @@
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1137](https://leetcode.com/problems/n-th-tribonacci-number/) | N-th Tribonacci Number | Easy |
+| [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
