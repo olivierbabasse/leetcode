@@ -72,6 +72,7 @@ mod lc1095_find_in_mountain_array;
 mod lc1137_n_th_tribonacci_number;
 mod lc1160_find_words_that_can_be_formed_by_characters;
 mod lc1220_count_vowels_permutations;
+mod lc1266_minimum_time_visiting_all_points;
 mod lc1269_number_of_ways_to_stay_in_the_same_place_after_some_steps;
 mod lc1282_group_the_people_given_the_group_size_they_belong_to;
 mod lc1342_number_of_steps_to_reduce_a_number_to_zero;
