@@ -104,6 +104,7 @@
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Medium |
+| [1688](https://leetcode.com/problems/count-of-matches-in-tournament/) | Count of Matches in Tournament | Easy |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Partitioning Into Minimum Number of Deci-Binary Numbers | Medium |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Largest Submatrix With Rearrangements | Medium |
@@ -135,6 +136,7 @@
 | [2235](https://leetcode.com/problems/add-two-integers/) | Add Two Integers | Easy |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | Root Equals Sum of Children | Easy |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |
+| [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | Easy |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Calculate Amount Paid in Taxes | Easy |
 | [2349](https://leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Medium |
@@ -146,6 +148,7 @@
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
+| [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Count Distinct Numbers on Board | Easy |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
