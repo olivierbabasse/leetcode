@@ -106,6 +106,7 @@
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Medium |
 | [1688](https://leetcode.com/problems/count-of-matches-in-tournament/) | Count of Matches in Tournament | Easy |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | Partitioning Into Minimum Number of Deci-Binary Numbers | Medium |
+| [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Calculate Money in Leetcode Bank | Easy |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Largest Submatrix With Rearrangements | Medium |
 | [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Medium |

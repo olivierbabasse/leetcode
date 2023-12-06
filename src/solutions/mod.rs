@@ -100,6 +100,7 @@ mod lc1672_richest_customer_wealth;
 mod lc1685_sum_of_absolute_differences_in_a_sorted_array;
 mod lc1688_count_of_matches_in_tournament;
 mod lc1689_partitioning_into_minimum_number_of_deci_binary_numbers;
+mod lc1716_calculate_money_in_leetcode_bank;
 mod lc1720_decode_xored_array;
 mod lc1727_largest_submatrix_with_rearrangements;
 mod lc1743_restore_the_array_from_adjacent_pairs;
