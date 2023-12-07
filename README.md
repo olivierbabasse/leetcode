@@ -119,8 +119,10 @@
 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Medium |
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Minimize Maximim Pair Sum in Array | Medium |
 | [1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Reduce Operations to Make the Array Elements Equal | Medium |
+| [1903](https://leetcode.com/problems/largest-odd-number-in-string/) | Largest Odd Number in String | Easy |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Medium |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Medium |
+| [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | Easy |
 | [1980](https://leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Medium |
 | [2001](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | Number of Pairs of Interchangeable Rectangles | Medium |
 | [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | Minimum Number of Operations to Make Array Continuous | Hard |
