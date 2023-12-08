@@ -51,6 +51,7 @@ mod lc0501_find_mode_in_binary_search_tree;
 mod lc0509_fibonacci_number;
 mod lc0515_find_largest_value_in_each_tree_row;
 mod lc0557_reverse_words_in_a_string_iii;
+mod lc0606_construct_string_from_binary_tree;
 mod lc0706_design_hashmap;
 mod lc0740_delete_and_earn;
 mod lc0746_min_cost_climbing_stairs;
