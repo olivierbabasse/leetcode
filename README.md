@@ -71,6 +71,7 @@
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
+| [0931](https://leetcode.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | Medium |
 | [0935](https://leetcode.com/problems/knight-dialer/) | Knight Dialer | Medium |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |

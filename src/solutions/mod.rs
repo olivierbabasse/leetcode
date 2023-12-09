@@ -65,6 +65,7 @@ mod lc0852_peak_index_in_a_mountain_array;
 mod lc0869_reordered_power_of_2;
 mod lc0876_middle_of_the_linked_list;
 mod lc0917_reverse_only_letters;
+mod lc0931_minimum_falling_path_sum;
 mod lc0935_knight_dialer;
 mod lc1005_maximize_sum_of_array_after_k_negations;
 mod lc1051_height_checker;
