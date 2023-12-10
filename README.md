@@ -68,6 +68,7 @@
 | [0829](https://leetcode.com/problems/consecutive-numbers-sum/) | Consecutive Numbers Sum | Hard |
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
+| [0867](https://leetcode.com/problems/transpose-matrix/description/) | Transpose Matrix | Easy |
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |

@@ -62,6 +62,7 @@ mod lc0823_binary_trees_with_factors;
 mod lc0829_consecutive_numbers_sum;
 mod lc0844_backspace_string_compare;
 mod lc0852_peak_index_in_a_mountain_array;
+mod lc0867_transpose_matrix;
 mod lc0869_reordered_power_of_2;
 mod lc0876_middle_of_the_linked_list;
 mod lc0917_reverse_only_letters;
