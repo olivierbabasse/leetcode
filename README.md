@@ -35,6 +35,7 @@
 | [0190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | Easy |
 | [0191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy |
 | [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |
+| [0221](https://leetcode.com/problems/maximal-square/description/) | Maximal Square | Medium |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
@@ -84,6 +85,7 @@
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Minimum Time Visiting All Points | Easy |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
+| [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Element Appearing More Than 25% In Sorted Array | Easy |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by he Number of 1 Bits | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
@@ -94,6 +96,7 @@
 | [1441](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Medium |
 | [1446](https://leetcode.com/problems/consecutive-characters/) | Consecutive Characters | Easy |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Max Dot Product of Two Subsequences | Hard |
+| [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Maximum Product of Two Elements in an Array | Easy |
 | [1476](https://leetcode.com/problems/subrectangle-queries/) | Subrectangle Queries | Medium |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | Easy |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | Easy |
@@ -102,6 +105,7 @@
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | Medium |
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
+| [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Hard |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
@@ -151,6 +155,7 @@
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Minimum Amount of Time to Collect Garbage | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
+| [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
