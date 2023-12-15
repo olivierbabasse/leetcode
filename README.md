@@ -35,7 +35,7 @@
 | [0190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | Easy |
 | [0191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy |
 | [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |
-| [0221](https://leetcode.com/problems/maximal-square/description/) | Maximal Square | Medium |
+| [0221](https://leetcode.com/problems/maximal-square/) | Maximal Square | Medium |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
@@ -69,7 +69,7 @@
 | [0829](https://leetcode.com/problems/consecutive-numbers-sum/) | Consecutive Numbers Sum | Hard |
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
-| [0867](https://leetcode.com/problems/transpose-matrix/description/) | Transpose Matrix | Easy |
+| [0867](https://leetcode.com/problems/transpose-matrix/) | Transpose Matrix | Easy |
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
@@ -89,10 +89,12 @@
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by he Number of 1 Bits | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
+| [1402](https://leetcode.com/problems/reducing-dishes/) | Reducing Dishes | Hard |
 | [1409](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | Queries on a Permutation With Key | Medium |
 | [1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard |
 | [1424](https://leetcode.com/problems/diagonal-traverse-ii/) | Diagonal Traverse II | Medium |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | Constrained Subsequence Sum | Hard |
+| [1436](https://leetcode.com/problems/destination-city/) | Destination City | Easy |
 | [1441](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Medium |
 | [1446](https://leetcode.com/problems/consecutive-characters/) | Consecutive Characters | Easy |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Max Dot Product of Two Subsequences | Hard |
