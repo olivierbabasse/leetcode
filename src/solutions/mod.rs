@@ -32,6 +32,7 @@ mod lc0198_house_robber;
 mod lc0221_maximal_square;
 mod lc0229_majority_element_ii;
 mod lc0231_power_of_two;
+mod lc0242_valid_anagram;
 mod lc0260_single_number_iii;
 mod lc0268_missing_number;
 mod lc0326_power_of_three;

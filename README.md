@@ -38,6 +38,7 @@
 | [0221](https://leetcode.com/problems/maximal-square/) | Maximal Square | Medium |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
+| [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
 | [0268](https://leetcode.com/problems/missing-number/) | Missing number | Easy |
 | [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
