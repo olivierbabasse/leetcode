@@ -130,6 +130,7 @@
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Minimize Maximim Pair Sum in Array | Medium |
 | [1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Reduce Operations to Make the Array Elements Equal | Medium |
 | [1903](https://leetcode.com/problems/largest-odd-number-in-string/) | Largest Odd Number in String | Easy |
+| [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Maximum Product Difference Between Two Pairs | Easy |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Medium |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Medium |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | Easy |
