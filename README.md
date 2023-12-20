@@ -29,6 +29,7 @@
 | [0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock | Easy |
 | [0136](https://leetcode.com/problems/single-number/) | Single Number | Easy |
 | [0137](https://leetcode.com/problems/single-number-ii/) | Single Number II | Medium |
+| [0139](https://leetcode.com/problems/word-break/) | Word Break | Medium |
 | [0144](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal | Easy |
 | [0145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | Easy |
 | [0169](https://leetcode.com/problems/majority-element/) | Majority Element | Easy |
@@ -58,8 +59,10 @@
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Find Mode in Binary Search Tree | Easy |
 | [0509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | Easy |
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
+| [0516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
+| [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
@@ -81,6 +84,7 @@
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1137](https://leetcode.com/problems/n-th-tribonacci-number/) | N-th Tribonacci Number | Easy |
+| [1143](https://leetcode.com/problems/longest-common-subsequence/) | Longest Common Subsequence | Medium |
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Minimum Time Visiting All Points | Easy |
@@ -166,6 +170,7 @@
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Count Distinct Numbers on Board | Easy |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
+| [2706](https://leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Easy |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | Medium |
