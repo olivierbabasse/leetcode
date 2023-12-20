@@ -73,6 +73,7 @@ mod lc0876_middle_of_the_linked_list;
 mod lc0917_reverse_only_letters;
 mod lc0931_minimum_falling_path_sum;
 mod lc0935_knight_dialer;
+mod lc0980_unique_paths_iii;
 mod lc1005_maximize_sum_of_array_after_k_negations;
 mod lc1051_height_checker;
 mod lc1080_insufficient_nodes_in_root_to_leaf_paths;

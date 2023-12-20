@@ -79,6 +79,7 @@
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
 | [0931](https://leetcode.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | Medium |
 | [0935](https://leetcode.com/problems/knight-dialer/) | Knight Dialer | Medium |
+| [0980](https://leetcode.com/problems/unique-paths-iii/) | Unique Paths III | Hard |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
