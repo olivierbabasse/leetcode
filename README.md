@@ -21,6 +21,7 @@
 | [0064](https://leetcode.com/problems/minimum-path-sum/) | Minimum Path Sum | Medium |
 | [0069](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | Easy |
 | [0070](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy |
+| [0072](https://leetcode.com/problems/edit-distance/) | Edit Distance | Medium |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Easy |
 | [0098](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium |
 | [0118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy |
@@ -116,6 +117,7 @@
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Hard |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
+| [1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Widest Vertical Area Between Two Points Containing No Points | Medium |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Medium |
