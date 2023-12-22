@@ -65,6 +65,7 @@
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
 | [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
+| [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
@@ -99,6 +100,7 @@
 | [1402](https://leetcode.com/problems/reducing-dishes/) | Reducing Dishes | Hard |
 | [1409](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | Queries on a Permutation With Key | Medium |
 | [1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard |
+| [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Maximum Score After Splitting a String | Easy |
 | [1424](https://leetcode.com/problems/diagonal-traverse-ii/) | Diagonal Traverse II | Medium |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | Constrained Subsequence Sum | Hard |
 | [1436](https://leetcode.com/problems/destination-city/) | Destination City | Easy |
