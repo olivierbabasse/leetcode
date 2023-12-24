@@ -110,6 +110,7 @@
 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Maximum Product of Two Elements in an Array | Easy |
 | [1476](https://leetcode.com/problems/subrectangle-queries/) | Subrectangle Queries | Medium |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | Easy |
+| [1496](https://leetcode.com/problems/path-crossing/) | Path Crossing | Easy |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | Easy |
 | [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Medium |
 | [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Medium |
@@ -129,6 +130,7 @@
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Largest Submatrix With Rearrangements | Medium |
 | [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Medium |
+| [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Minimum Changes To Make Alternating Binary String | Easy |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Hard |
