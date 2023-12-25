@@ -22,6 +22,7 @@
 | [0069](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | Easy |
 | [0070](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy |
 | [0072](https://leetcode.com/problems/edit-distance/) | Edit Distance | Medium |
+| [0091](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Easy |
 | [0098](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium |
 | [0118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy |

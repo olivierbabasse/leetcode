@@ -16,6 +16,7 @@ mod lc0064_minimum_path_sum;
 mod lc0069_sqrtx;
 mod lc0070_climbing_stairs;
 mod lc0072_edit_distance;
+mod lc0091_decode_ways;
 mod lc0094_binary_tree_inorder_traversal;
 mod lc0098_validate_binary_search_tree;
 mod lc0118_pascals_triangle;
