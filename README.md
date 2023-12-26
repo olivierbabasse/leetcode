@@ -25,6 +25,7 @@
 | [0091](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Easy |
 | [0098](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium |
+| [0115](https://leetcode.com/problems/distinct-subsequences/) | Distinct Subsequences | Hard |
 | [0118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy |
 | [0119](https://leetcode.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | Easy |
 | [0120](https://leetcode.com/problems/triangle/) | Triange | Medium |

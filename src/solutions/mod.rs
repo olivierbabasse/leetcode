@@ -19,6 +19,7 @@ mod lc0072_edit_distance;
 mod lc0091_decode_ways;
 mod lc0094_binary_tree_inorder_traversal;
 mod lc0098_validate_binary_search_tree;
+mod lc0115_distinct_subsequences;
 mod lc0118_pascals_triangle;
 mod lc0119_pascals_triangle_ii;
 mod lc0120_triangle;
