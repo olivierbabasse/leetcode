@@ -83,6 +83,7 @@ mod lc1080_insufficient_nodes_in_root_to_leaf_paths;
 mod lc1095_find_in_mountain_array;
 mod lc1137_n_th_tribonacci_number;
 mod lc1143_longest_common_subsequence;
+mod lc1155_number_of_dice_rolls_with_target_sum;
 mod lc1160_find_words_that_can_be_formed_by_characters;
 mod lc1220_count_vowels_permutations;
 mod lc1266_minimum_time_visiting_all_points;
