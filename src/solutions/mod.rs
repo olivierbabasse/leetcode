@@ -114,6 +114,7 @@ mod lc1512_number_of_good_pairs;
 mod lc1524_number_of_sub_arrays_with_odd_sum;
 mod lc1535_find_the_winner_of_an_array_game;
 mod lc1561_maximum_number_of_coins_you_can_get;
+mod lc1578_minimum_time_to_make_rope_colorful;
 mod lc1582_special_positions_in_a_binary_matrix;
 mod lc1611_minimum_one_bit_operations_to_make_integers_zero;
 mod lc1630_arithmetic_subarrays;

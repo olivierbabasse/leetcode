@@ -120,6 +120,7 @@
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | Medium |
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
+| [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Medium |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Hard |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
