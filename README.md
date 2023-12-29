@@ -160,6 +160,7 @@
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
 | [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | A Number After a Double Reversal | Easy |
+| [2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Earliest Possible Day of Full Bloom | Hard |
 | [2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Number of Ways to Divide a Long Corridor | Hard |
 | [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Rearrange Array Elements by Sign | Medium |
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Medium |

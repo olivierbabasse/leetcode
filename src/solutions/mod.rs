@@ -154,6 +154,7 @@ mod lc2050_parallel_courses_iii;
 mod lc2087_minimum_cost_homecoming_of_a_robot_in_a_grid;
 mod lc2099_find_subsequence_of_length_k_with_the_largest_sum;
 mod lc2119_a_number_after_a_double_reversal;
+mod lc2136_earliest_possible_day_of_full_bloom;
 mod lc2147_number_of_ways_to_divide_a_long_corridor;
 mod lc2149_rearrange_array_elements_by_sign;
 mod lc2161_partition_array_according_to_given_pivot;
