@@ -97,6 +97,7 @@
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Element Appearing More Than 25% In Sorted Array | Easy |
+| [1335](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Minimum Difficulty of a Job Schedule | Hard |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by he Number of 1 Bits | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
@@ -119,6 +120,7 @@
 | [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Medium |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | Medium |
+| [1531](https://leetcode.com/problems/string-compression-ii/) | String Compression II | Hard |
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Medium |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
