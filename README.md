@@ -58,6 +58,7 @@
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
 | [0413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | Medium |
 | [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | Easy |
+| [0455](https://leetcode.com/problems/assign-cookies/) | Assign Cookies | Easy |
 | [0458](https://leetcode.com/problems/poor-pigs/) | Poor Pigs | Hard |
 | [0485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones | Easy |
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Find Mode in Binary Search Tree | Easy |
@@ -126,6 +127,7 @@
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Medium |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Hard |
+| [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | Largest Substring Between Two Equal Characters | Easy |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
 | [1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Widest Vertical Area Between Two Points Containing No Points | Medium |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
