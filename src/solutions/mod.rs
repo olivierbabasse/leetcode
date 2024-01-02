@@ -183,6 +183,7 @@ mod lc2543_check_if_point_is_reachable;
 mod lc2546_apply_bitwise_operations_to_make_strings_equal;
 mod lc2549_count_distinct_numbers_on_board;
 mod lc2580_count_ways_to_group_overlapping_ranges;
+mod lc2642_convert_an_array_into_a_2d_array_with_conditions;
 mod lc2642_design_graph_with_shortest_path_calculator;
 mod lc2706_buy_two_chocolates;
 mod lc2731_movement_of_robots;

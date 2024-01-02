@@ -23,9 +23,21 @@ where
     item_counts(a) == item_counts(b)
 }
 
+pub fn array_of_arrays_eq<T, U>(a: &[U], b: &[U]) -> bool
+where
+    T: Eq + Hash,
+    U: AsRef<[T]>,
+{
+    // TODO handle different order in a & b
+    a.len() == b.len()
+        && a.iter()
+            .zip(b.iter())
+            .all(|(a, b)| array_eq(a.as_ref(), b.as_ref()))
+}
+
 #[cfg(test)]
 mod tests {
-    use super::array_eq;
+    use super::{array_eq, array_of_arrays_eq};
 
     #[test]
     fn test_array_eq() {
@@ -34,5 +46,13 @@ mod tests {
         assert!(!array_eq(&[1], &[2]));
         assert!(array_eq(&[1, 2], &[2, 1]));
         assert!(!array_eq(&[1], &[1, 1]));
+    }
+
+    #[test]
+    fn test_array_of_array_eq() {
+        assert!(array_of_arrays_eq::<i32, Vec<i32>>(&[], &[]));
+        assert!(array_of_arrays_eq(&[&[1]], &[&[1]]));
+        assert!(!array_of_arrays_eq(&[&[1]], &[&[2]]));
+        assert!(!array_of_arrays_eq(&[&[1]], &[&[1], &[1]]));
     }
 }
