@@ -131,6 +131,7 @@
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Medium |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
+| [1606](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Find Server That Handled Most Number of Requests | Hard |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Hard |
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | Largest Substring Between Two Equal Characters | Easy |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
@@ -187,6 +188,7 @@
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Minimum Amount of Time to Collect Garbage | Medium |
 | [2396](https://leetcode.com/problems/strictly-palindromic-number/) | Strictly Palindromic Number | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
+| [2402](https://leetcode.com/problems/meeting-rooms-iii/) | Meeting Rooms III | Hard |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
@@ -204,3 +206,4 @@
 | [2810](https://leetcode.com/problems/faulty-keyboard/) | Faulty Keyboard | Easy |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Medium |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
+| [2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Minimum Number of Operations to Make Array Empty | Medium |
