@@ -2,59 +2,11 @@
 
 use std::collections::HashMap;
 
-struct Solution1 {}
-
-/// time-complexity : O(n^3)
-/// space-complexity : O(1)
-impl Solution1 {
-    fn is_palindrome(
-        s: &[u8],
-        begin: usize,
-        end: usize,
-        memo: &mut HashMap<(usize, usize), bool>,
-    ) -> bool {
-        if let Some(res) = memo.get(&(begin, end)) {
-            return *res;
-        }
-
-        let mid = (end - begin) / 2;
-        for i in 0..=mid {
-            if s[begin + i] != s[end - i] {
-                memo.insert((begin, end), false);
-                return false;
-            }
-        }
-        memo.insert((begin, end), true);
-        true
-    }
-
-    pub fn longest_palindrome(s: String) -> String {
-        let s = s.as_bytes();
-        let len = s.len();
-        let mut memo = HashMap::new();
-
-        let mut max_len = 0;
-        let mut begin = 0;
-        for start in 0..len {
-            for i in 0..=start {
-                for j in start..len {
-                    if j - i + 1 > max_len && Self::is_palindrome(s, i, j, &mut memo) {
-                        max_len = j - i + 1;
-                        begin = i;
-                    }
-                }
-            }
-        }
-
-        String::from_utf8(s[begin..begin + max_len].into()).unwrap()
-    }
-}
-
-struct Solution2 {}
+struct Solution {}
 
 /// time-complexity : O(n^2)
 /// space-complexity : O(n^2)
-impl Solution2 {
+impl Solution {
     pub fn longest_palindrome(s: String) -> String {
         let s = s.as_bytes();
         let len = s.len();
@@ -99,35 +51,19 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_cases_1() {
+    fn test_cases() {
         assert_eq!(
-            Solution1::longest_palindrome("babad".into()),
+            Solution::longest_palindrome("babad".into()),
             "bab".to_string()
         );
         assert_eq!(
-            Solution1::longest_palindrome("cbbd".into()),
+            Solution::longest_palindrome("cbbd".into()),
             "bb".to_string()
         );
         assert_eq!(
-            Solution1::longest_palindrome("eabcb".into()),
+            Solution::longest_palindrome("eabcb".into()),
             "bcb".to_string()
         );
-    }
-
-    #[test]
-    fn test_cases_2() {
-        assert_eq!(
-            Solution2::longest_palindrome("babad".into()),
-            "bab".to_string()
-        );
-        assert_eq!(
-            Solution2::longest_palindrome("cbbd".into()),
-            "bb".to_string()
-        );
-        assert_eq!(
-            Solution2::longest_palindrome("eabcb".into()),
-            "bcb".to_string()
-        );
-        assert_eq!(Solution2::longest_palindrome("civilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfieldasafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltogetherfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecratewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecrateditfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhatwesayherebutitcanneverforgetwhattheydidhereItisforusthelivingrathertobededicatedheretotheulnfinishedworkwhichtheywhofoughtherehavethusfarsonoblyadvancedItisratherforustobeherededicatedtothegreattdafskremainingbeforeusthatfromthesehonoreddeadwetakeincreaseddevotiontothatcauseforwhichtheygavethelastpfullmeasureofdevotionthatweherehighlyresolvethatthesedeadshallnothavediedinvainthatthisnationunsderGodshallhaveanewbirthoffreedomandthatgovernmentofthepeoplebythepeopleforthepeopleshallnotperishfromtheearth".into()), "ranynar".to_string());
+        assert_eq!(Solution::longest_palindrome("civilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfieldasafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltogetherfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecratewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecrateditfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhatwesayherebutitcanneverforgetwhattheydidhereItisforusthelivingrathertobededicatedheretotheulnfinishedworkwhichtheywhofoughtherehavethusfarsonoblyadvancedItisratherforustobeherededicatedtothegreattdafskremainingbeforeusthatfromthesehonoreddeadwetakeincreaseddevotiontothatcauseforwhichtheygavethelastpfullmeasureofdevotionthatweherehighlyresolvethatthesedeadshallnothavediedinvainthatthisnationunsderGodshallhaveanewbirthoffreedomandthatgovernmentofthepeoplebythepeopleforthepeopleshallnotperishfromtheearth".into()), "ranynar".to_string());
     }
 }

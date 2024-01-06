@@ -1,35 +1,11 @@
 //! <https://leetcode.com/problems/majority-element-ii/>
 
-use std::collections::HashMap;
-
-struct Solution1 {}
-
-/// naive implementation
-/// time-complexity : O(n)
-/// space-complexity : O(n)
-impl Solution1 {
-    pub fn majority_element(nums: Vec<i32>) -> Vec<i32> {
-        let mut counts = HashMap::new();
-        let min = (nums.len() / 3) as i32;
-
-        for n in &nums {
-            counts.entry(*n).and_modify(|i| *i += 1).or_insert(1);
-        }
-
-        counts
-            .into_iter()
-            .filter(|(_, v)| v > &min)
-            .map(|(k, _)| k)
-            .collect()
-    }
-}
-
-struct Solution2 {}
+struct Solution {}
 
 /// extending Boyer-Moore majority voting algorithm to two candidates
 /// time-complexity : O(n)
 /// space-complexity : O(1)
-impl Solution2 {
+impl Solution {
     pub fn majority_element(nums: Vec<i32>) -> Vec<i32> {
         let mut votes1 = 0;
         let mut candidate1 = None;
@@ -71,37 +47,21 @@ impl Solution2 {
 
 #[cfg(test)]
 mod tests {
-    use super::{Solution1, Solution2};
+    use super::Solution;
     use crate::utils::array_eq;
 
     #[test]
-    fn test_cases_1() {
-        assert!(array_eq(&Solution1::majority_element(vec![3, 2, 3]), &[3]));
-        assert!(array_eq(&Solution1::majority_element(vec![1]), &[1]));
-        assert!(array_eq(&Solution1::majority_element(vec![1, 2]), &[1, 2]));
-        assert!(array_eq(&Solution1::majority_element(vec![2, 2]), &[2]));
+    fn test_cases() {
+        assert!(array_eq(&Solution::majority_element(vec![3, 2, 3]), &[3]));
+        assert!(array_eq(&Solution::majority_element(vec![1]), &[1]));
+        assert!(array_eq(&Solution::majority_element(vec![1, 2]), &[1, 2]));
+        assert!(array_eq(&Solution::majority_element(vec![2, 2]), &[2]));
         assert!(array_eq(
-            &Solution1::majority_element(vec![-1, -1, -1]),
+            &Solution::majority_element(vec![-1, -1, -1]),
             &[-1]
         ));
         assert!(array_eq(
-            &Solution1::majority_element(vec![1, 1, 1, 3, 3, 2, 2, 2]),
-            &[1, 2]
-        ));
-    }
-
-    #[test]
-    fn test_cases_2() {
-        assert!(array_eq(&Solution2::majority_element(vec![3, 2, 3]), &[3]));
-        assert!(array_eq(&Solution2::majority_element(vec![1]), &[1]));
-        assert!(array_eq(&Solution2::majority_element(vec![1, 2]), &[1, 2]));
-        assert!(array_eq(&Solution2::majority_element(vec![2, 2]), &[2]));
-        assert!(array_eq(
-            &Solution2::majority_element(vec![-1, -1, -1]),
-            &[-1]
-        ));
-        assert!(array_eq(
-            &Solution2::majority_element(vec![1, 1, 1, 3, 3, 2, 2, 2]),
+            &Solution::majority_element(vec![1, 1, 1, 3, 3, 2, 2, 2]),
             &[1, 2]
         ));
     }
