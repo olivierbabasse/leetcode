@@ -46,6 +46,7 @@
 | [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
 | [0268](https://leetcode.com/problems/missing-number/) | Missing number | Easy |
+| [0300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium |
 | [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
 | [0338](https://leetcode.com/problems/counting-bits/) | Counting Bits | Easy |
 | [0341](https://leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Medium |
@@ -103,6 +104,7 @@
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | Medium |
 | [1335](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Minimum Difficulty of a Job Schedule | Hard |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
+| [1353](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | Maximum Number of Events That Can Be Attended | Medium |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by he Number of 1 Bits | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
 | [1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Find Lucky Integer in an Array | Easy |
@@ -145,6 +147,7 @@
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Largest Submatrix With Rearrangements | Medium |
 | [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Medium |
+| [1751](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | Maximum Number of Events That Can Be Attended II | Hard |
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Minimum Changes To Make Alternating Binary String | Easy |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |
