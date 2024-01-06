@@ -97,6 +97,7 @@
 | [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Number of Dice Rolls With Target Sum | Medium |
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
+| [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | Hard |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Minimum Time Visiting All Points | Easy |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
