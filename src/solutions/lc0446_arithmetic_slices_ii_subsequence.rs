@@ -4,8 +4,8 @@ use std::collections::HashMap;
 
 struct Solution {}
 
-/// time-complexity : O()
-/// space-complexity : O()
+/// time-complexity : O(n^2)
+/// space-complexity : O(n^2)
 impl Solution {
     fn rec(
         nums: &[i32],
