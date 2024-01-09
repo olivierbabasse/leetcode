@@ -41,7 +41,7 @@ mod tests {
             Solution::job_scheduling(vec![1, 2, 3, 3], vec![3, 4, 5, 6], vec![50, 10, 40, 70]),
             120
         );
-        /*assert_eq!(
+        assert_eq!(
             Solution::job_scheduling(
                 vec![1, 2, 3, 4, 6],
                 vec![3, 5, 10, 6, 9],
@@ -52,6 +52,6 @@ mod tests {
         assert_eq!(
             Solution::job_scheduling(vec![1, 1, 1], vec![2, 3, 4], vec![5, 6, 4]),
             6
-        );*/
+        );
     }
 }

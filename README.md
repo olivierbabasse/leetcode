@@ -84,6 +84,7 @@
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0867](https://leetcode.com/problems/transpose-matrix/) | Transpose Matrix | Easy |
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
+| [0872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | Easy |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
 | [0931](https://leetcode.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | Medium |
