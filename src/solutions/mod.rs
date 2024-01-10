@@ -187,6 +187,7 @@ mod lc2303_calculate_amount_paid_in_taxes;
 mod lc2349_design_a_number_container_system;
 mod lc2353_design_a_food_rating_system;
 mod lc2364_count_number_of_bad_pairs;
+mod lc2385_amount_of_time_for_binary_tree_to_be_infected;
 mod lc2391_minimum_amount_of_time_to_collect_garbage;
 mod lc2396_strictly_palindromic_number;
 mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;

@@ -193,6 +193,7 @@
 | [2349](https://leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Medium |
 | [2353](https://leetcode.com/problems/design-a-food-rating-system/) | Design a Food Rating System | Medium |
 | [2364](https://leetcode.com/problems/count-number-of-bad-pairs/) | Count Number of Bad Pairs | Medium |
+| [2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Amount of Time for Binary Tree to Be Infected | Medium |
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Minimum Amount of Time to Collect Garbage | Medium |
 | [2396](https://leetcode.com/problems/strictly-palindromic-number/) | Strictly Palindromic Number | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
