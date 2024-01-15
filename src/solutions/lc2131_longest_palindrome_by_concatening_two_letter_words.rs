@@ -4,8 +4,8 @@ use std::collections::HashMap;
 
 struct Solution {}
 
-/// time-complexity : O()
-/// space-complexity : O()
+/// time-complexity : O(n)
+/// space-complexity : O(n*len(w))
 impl Solution {
     pub fn longest_palindrome(words: Vec<String>) -> i32 {
         let mut freqs: HashMap<String, usize> = HashMap::new();

@@ -191,6 +191,7 @@
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Medium |
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Minimum Number of Steps to Make Two Strings Anagram II | Medium |
 | [2211](https://leetcode.com/problems/count-collisions-on-a-road/) | Count Collisions on a Road | Medium |
+| [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Find Players With Zero or One Losses | Medium |
 | [2235](https://leetcode.com/problems/add-two-integers/) | Add Two Integers | Easy |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | Root Equals Sum of Children | Easy |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |

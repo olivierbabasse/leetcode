@@ -185,6 +185,7 @@ mod lc2149_rearrange_array_elements_by_sign;
 mod lc2161_partition_array_according_to_given_pivot;
 mod lc2186_minimum_number_of_steps_to_make_two_strings_anagram_ii;
 mod lc2211_count_collisions_on_a_road;
+mod lc2225_find_players_with_zero_or_one_losses;
 mod lc2235_add_two_integers;
 mod lc2236_root_equals_sum_of_children;
 mod lc2251_number_of_flowers_in_full_bloom;
