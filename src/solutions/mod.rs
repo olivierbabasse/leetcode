@@ -49,6 +49,8 @@ mod lc0342_power_of_four;
 mod lc0343_integer_break;
 mod lc0344_reverse_string;
 mod lc0345_reverse_vowels_of_a_string;
+mod lc0380_insert_delete_getrandom_o1;
+mod lc0381_insert_delete_random_o1_duplicates_allowed;
 mod lc0383_ransom_note;
 mod lc0401_binary_watch;
 mod lc0409_longest_palindrome;
