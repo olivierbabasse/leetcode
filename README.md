@@ -12,7 +12,7 @@
 | [0008](https://leetcode.com/problems/string-to-integer-atoi/) | String to Integer (atoi) | Medium |
 | [0009](https://leetcode.com/problems/palindrome-number/) | Palindrome Number | Easy |
 | [0013](https://leetcode.com/problems/roman-to-integer/) | Roman to Integer | Easy |
-| [0014](https://leetcode.com/problems/longest-common-prefix/) | Longer Common Prefix | Easy |
+| [0014](https://leetcode.com/problems/longest-common-prefix/) | Longest Common Prefix | Easy |
 | [0020](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy |
 | [0021](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy |
 | [0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | Medium |
@@ -24,6 +24,7 @@
 | [0069](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | Easy |
 | [0070](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy |
 | [0072](https://leetcode.com/problems/edit-distance/) | Edit Distance | Medium |
+| [0084](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle in Histogram | Hard |
 | [0091](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Easy |
 | [0098](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium |
@@ -59,6 +60,7 @@
 | [0381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Insert Delete GetRandom O(1) - Duplicates Allowed | Hard |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0401](https://leetcode.com/problems/binary-watch/) | Binary Watch | Easy |
+| [0402](https://leetcode.com/problems/remove-k-digits/) | Remove K Digits | Medium |
 | [0409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
 | [0413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | Medium |
@@ -67,7 +69,9 @@
 | [0455](https://leetcode.com/problems/assign-cookies/) | Assign Cookies | Easy |
 | [0458](https://leetcode.com/problems/poor-pigs/) | Poor Pigs | Hard |
 | [0485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones | Easy |
+| [0496](https://leetcode.com/problems/next-greater-element-i/) | Next Greater Element I | Easy |
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Find Mode in Binary Search Tree | Easy |
+| [0503](https://leetcode.com/problems/next-greater-element-ii/) | Next Greater Element II | Medium |
 | [0509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | Easy |
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
 | [0516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium |
@@ -89,12 +93,14 @@
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
 | [0872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | Easy |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
+| [0907](https://leetcode.com/problems/sum-of-subarray-minimums/) | Sum of Subarray Minimums | Medium |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
 | [0931](https://leetcode.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | Medium |
 | [0935](https://leetcode.com/problems/knight-dialer/) | Knight Dialer | Medium |
 | [0938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Easy |
 | [0980](https://leetcode.com/problems/unique-paths-iii/) | Unique Paths III | Hard |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
+| [1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Construct Binary Search Tree from Preorder Traversal | Medium |
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Maximum Difference Between Node and Ancestor | Medium |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
@@ -132,6 +138,7 @@
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Max Dot Product of Two Subsequences | Hard |
 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Maximum Product of Two Elements in an Array | Easy |
 | [1470](https://leetcode.com/problems/shuffle-the-array/) | Shuffle the Array | Easy |
+| [1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Final Prices With a Special Discount in a Shop | Easy |
 | [1476](https://leetcode.com/problems/subrectangle-queries/) | Subrectangle Queries | Medium |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | Easy |
 | [1496](https://leetcode.com/problems/path-crossing/) | Path Crossing | Easy |
