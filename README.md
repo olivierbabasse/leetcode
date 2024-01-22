@@ -77,7 +77,10 @@
 | [0516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
+| [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
 | [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |
+| [0673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Number of Longest Increasing Subsequence | Medium |
+| [0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Longest Continuous Increasing Subsequence | Easy |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |
