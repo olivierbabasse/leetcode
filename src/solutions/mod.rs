@@ -133,6 +133,7 @@ mod lc1436_destination_city;
 mod lc1441_build_an_array_with_stack_operations;
 mod lc1446_consecutive_characters;
 mod lc1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence;
+mod lc1457_pseudo_palindromic_paths_in_a_binary_tree;
 mod lc1458_max_dot_product_of_two_subsequences;
 mod lc1464_maximum_product_of_two_elements_in_an_array;
 mod lc1470_shuffle_the_array;

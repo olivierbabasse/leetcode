@@ -139,6 +139,7 @@
 | [1441](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Medium |
 | [1446](https://leetcode.com/problems/consecutive-characters/) | Consecutive Characters | Easy |
 | [1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy |
+| [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Pseudo Palindromic Paths in a Binary Tree | Medium |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Max Dot Product of Two Subsequences | Hard |
 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Maximum Product of Two Elements in an Array | Easy |
 | [1470](https://leetcode.com/problems/shuffle-the-array/) | Shuffle the Array | Easy |
