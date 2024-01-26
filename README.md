@@ -76,6 +76,7 @@
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
 | [0516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
+| [0576](https://leetcode.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | Medium |
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
 | [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
 | [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |

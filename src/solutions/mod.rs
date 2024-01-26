@@ -70,6 +70,7 @@ mod lc0509_fibonacci_number;
 mod lc0515_find_largest_value_in_each_tree_row;
 mod lc0516_longest_palindromic_subsequence;
 mod lc0557_reverse_words_in_a_string_iii;
+mod lc0576_out_of_boundary_paths;
 mod lc0606_construct_string_from_binary_tree;
 mod lc0645_set_mismatch;
 mod lc0661_image_smoother;
