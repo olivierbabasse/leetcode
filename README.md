@@ -45,10 +45,12 @@
 | [0221](https://leetcode.com/problems/maximal-square/) | Maximal Square | Medium |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
+| [0232](https://leetcode.com/problems/implement-queue-using-stacks/) | Implement Queue using Stacks | Easy |
 | [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
 | [0268](https://leetcode.com/problems/missing-number/) | Missing number | Easy |
 | [0300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium |
+| [0304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Range Sum Query 2D - Immutable | Medium |
 | [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
 | [0338](https://leetcode.com/problems/counting-bits/) | Counting Bits | Easy |
 | [0341](https://leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Medium |
@@ -76,6 +78,7 @@
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
 | [0516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
+| [0560](https://leetcode.com/problems/subarray-sum-equals-k/) | Subarray Sum Equals K | Medium |
 | [0576](https://leetcode.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | Medium |
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
 | [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
@@ -107,6 +110,7 @@
 | [1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Construct Binary Search Tree from Preorder Traversal | Medium |
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Maximum Difference Between Node and Ancestor | Medium |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
+| [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Number of Submatrices That Sum to Target | Hard |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | Easy |
