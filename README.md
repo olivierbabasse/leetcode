@@ -251,3 +251,4 @@
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Medium |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
 | [2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Minimum Number of Operations to Make Array Empty | Medium |
+| [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Divide Array Into Arrays With Max Difference | Medium |

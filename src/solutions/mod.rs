@@ -245,3 +245,4 @@ mod lc2810_faulty_keyboard;
 mod lc2849_determine_if_a_cell_is_reachable_at_a_given_time;
 mod lc2869_minimum_operations_to_collect_elements;
 mod lc2870_minimum_number_of_operations_to_make_array_empty;
+mod lc2966_divide_array_into_arrays_with_max_difference;
