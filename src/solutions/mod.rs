@@ -106,6 +106,7 @@ mod lc0980_unique_paths_iii;
 mod lc1005_maximize_sum_of_array_after_k_negations;
 mod lc1008_construct_binary_search_tree_from_preorder_traversal;
 mod lc1026_maximum_difference_between_node_and_ancestor;
+mod lc1043_partition_array_for_maximum_sum;
 mod lc1051_height_checker;
 mod lc1074_number_of_submatrices_that_sum_to_target;
 mod lc1080_insufficient_nodes_in_root_to_leaf_paths;

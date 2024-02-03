@@ -112,6 +112,7 @@
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
 | [1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Construct Binary Search Tree from Preorder Traversal | Medium |
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Maximum Difference Between Node and Ancestor | Medium |
+| [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Partition Array for Maximum Sum | Medium |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Number of Submatrices That Sum to Target | Hard |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
