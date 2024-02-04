@@ -24,6 +24,7 @@
 | [0069](https://leetcode.com/problems/sqrtx/) | Sqrt(x) | Easy |
 | [0070](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy |
 | [0072](https://leetcode.com/problems/edit-distance/) | Edit Distance | Medium |
+| [0076](https://leetcode.com/problems/minimum-window-substring/) | Minimum Window Substring | Hard |
 | [0084](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle in Histogram | Hard |
 | [0091](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Easy |
