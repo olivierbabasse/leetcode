@@ -64,6 +64,7 @@
 | [0380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Insert Delete GetRandom O(1) | Medium |
 | [0381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Insert Delete GetRandom O(1) - Duplicates Allowed | Hard |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
+| [0387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | Easy |
 | [0401](https://leetcode.com/problems/binary-watch/) | Binary Watch | Easy |
 | [0402](https://leetcode.com/problems/remove-k-digits/) | Remove K Digits | Medium |
 | [0409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Easy |

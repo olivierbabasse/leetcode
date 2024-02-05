@@ -58,6 +58,7 @@ mod lc0345_reverse_vowels_of_a_string;
 mod lc0380_insert_delete_getrandom_o1;
 mod lc0381_insert_delete_random_o1_duplicates_allowed;
 mod lc0383_ransom_note;
+mod lc0387_first_unique_character_in_a_string;
 mod lc0401_binary_watch;
 mod lc0402_remove_k_digits;
 mod lc0409_longest_palindrome;
