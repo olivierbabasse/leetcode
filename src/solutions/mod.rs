@@ -12,6 +12,7 @@ mod lc0021_merge_two_sorted_lists;
 mod lc0034_find_first_and_last_position_of_element_in_sorted_array;
 mod lc0035_search_insert_position;
 mod lc0042_trapping_rain_water;
+mod lc0049_group_anagrams;
 mod lc0062_unique_paths;
 mod lc0063_unique_paths_ii;
 mod lc0064_minimum_path_sum;

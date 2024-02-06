@@ -18,6 +18,7 @@
 | [0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | Medium |
 | [0035](https://leetcode.com/problems/search-insert-position/) | Search Insert Position | Easy |
 | [0042](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard |
+| [0049](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium |
 | [0062](https://leetcode.com/problems/unique-paths/) | Unique Paths | Medium |
 | [0063](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II | Medium |
 | [0064](https://leetcode.com/problems/minimum-path-sum/) | Minimum Path Sum | Medium |
