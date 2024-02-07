@@ -80,6 +80,7 @@ mod lc0557_reverse_words_in_a_string_iii;
 mod lc0560_subarray_sum_equals_k;
 mod lc0576_out_of_boundary_paths;
 mod lc0606_construct_string_from_binary_tree;
+mod lc0629_k_inverse_pairs_array;
 mod lc0645_set_mismatch;
 mod lc0661_image_smoother;
 mod lc0673_number_of_longest_increasing_subsequences;

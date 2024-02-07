@@ -86,6 +86,7 @@
 | [0560](https://leetcode.com/problems/subarray-sum-equals-k/) | Subarray Sum Equals K | Medium |
 | [0576](https://leetcode.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | Medium |
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
+| [0629](https://leetcode.com/problems/k-inverse-pairs-array/) | K Inverse Pairs Array | Hard |
 | [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
 | [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |
 | [0673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Number of Longest Increasing Subsequence | Medium |
