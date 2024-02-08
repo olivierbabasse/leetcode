@@ -47,6 +47,7 @@ mod lc0232_implement_queue_using_stacks;
 mod lc0242_valid_anagram;
 mod lc0260_single_number_iii;
 mod lc0268_missing_number;
+mod lc0279_perfect_squares;
 mod lc0300_longest_increasing_subsequence;
 mod lc0304_range_sum_query_2d_immutable;
 mod lc0326_power_of_three;

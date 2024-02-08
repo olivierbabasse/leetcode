@@ -53,6 +53,7 @@
 | [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
 | [0268](https://leetcode.com/problems/missing-number/) | Missing number | Easy |
+| [0279](https://leetcode.com/problems/perfect-squares/) | Perfect Squares | Medium |
 | [0300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium |
 | [0304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Range Sum Query 2D - Immutable | Medium |
 | [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
