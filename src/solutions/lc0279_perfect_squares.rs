@@ -2,8 +2,8 @@
 
 struct Solution {}
 
-/// time-complexity : O()
-/// space-complexity : O()
+/// time-complexity : O(n^(3/2))
+/// space-complexity : O(n^(1/2))
 impl Solution {
     pub fn num_squares(n: i32) -> i32 {
         let mut squares = Vec::new();
