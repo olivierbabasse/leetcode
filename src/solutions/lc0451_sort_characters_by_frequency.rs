@@ -3,7 +3,7 @@
 struct Solution {}
 
 /// time-complexity : O(n*log(n))
-/// space-complexity : O(1)
+/// space-complexity : O(n)
 impl Solution {
     pub fn frequency_sort(s: String) -> String {
         let mut freqs = vec![(0, 0); 256];

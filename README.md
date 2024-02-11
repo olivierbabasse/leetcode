@@ -91,6 +91,7 @@
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
 | [0629](https://leetcode.com/problems/k-inverse-pairs-array/) | K Inverse Pairs Array | Hard |
 | [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
+| [0647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium |
 | [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |
 | [0673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Number of Longest Increasing Subsequence | Medium |
 | [0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Longest Continuous Increasing Subsequence | Easy |
@@ -98,6 +99,7 @@
 | [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
 | [0739](https://leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Medium |
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |
+| [0741](https://leetcode.com/problems/cherry-pickup/) | Cherry Pickup | Hard |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
 | [0780](https://leetcode.com/problems/reaching-points/) | Reaching Points | Hard |
@@ -158,6 +160,7 @@
 | [1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy |
 | [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Pseudo Palindromic Paths in a Binary Tree | Medium |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Max Dot Product of Two Subsequences | Hard |
+| [1463](https://leetcode.com/problems/cherry-pickup-ii/) | Cherry Pickup II | Hard |
 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Maximum Product of Two Elements in an Array | Easy |
 | [1470](https://leetcode.com/problems/shuffle-the-array/) | Shuffle the Array | Easy |
 | [1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Final Prices With a Special Discount in a Shop | Easy |
