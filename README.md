@@ -45,6 +45,7 @@
 | [0190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | Easy |
 | [0191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy |
 | [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |
+| [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Element in an Array | Medium |
 | [0221](https://leetcode.com/problems/maximal-square/) | Maximal Square | Medium |
 | [0224](https://leetcode.com/problems/basic-calculator/) | Basic Calculator | Hard |
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
@@ -63,6 +64,7 @@
 | [0343](https://leetcode.com/problems/integer-break/) | Integer Break | Medium |
 | [0344](https://leetcode.com/problems/reverse-string/) | Reverse String | Easy |
 | [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Reverse Vowels of a String | Easy |
+| [0347](https://leetcode.com/problems/top-k-frequent-elements/) | Top K Frequent Elements | Medium |
 | [0368](https://leetcode.com/problems/largest-divisible-subset/) | Largest Divisible Subset | Medium |
 | [0380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Insert Delete GetRandom O(1) | Medium |
 | [0381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Insert Delete GetRandom O(1) - Duplicates Allowed | Hard |
@@ -245,6 +247,7 @@
 | [2396](https://leetcode.com/problems/strictly-palindromic-number/) | Strictly Palindromic Number | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | Meeting Rooms III | Hard |
+| [2404](https://leetcode.com/problems/most-frequent-even-element/) | Most Frequent Even Element | Easy |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
