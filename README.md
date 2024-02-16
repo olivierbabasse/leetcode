@@ -138,6 +138,7 @@
 | [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Number of Dice Rolls With Target Sum | Medium |
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurences | Easy |
+| [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Minimum Cost to Move Chips to The Same Position | Easy |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | Hard |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Maximum Length of a Concatenated String with Unique Characters | Medium |
@@ -172,6 +173,7 @@
 | [1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Final Prices With a Special Discount in a Shop | Easy |
 | [1476](https://leetcode.com/problems/subrectangle-queries/) | Subrectangle Queries | Medium |
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | Easy |
+| [1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | Least Number of Unique Integers after K Removals | Medium |
 | [1496](https://leetcode.com/problems/path-crossing/) | Path Crossing | Easy |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | Easy |
 | [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Medium |
@@ -259,6 +261,7 @@
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Count Distinct Numbers on Board | Easy |
+| [2578](https://leetcode.com/problems/split-with-minimum-sum/) | Split With Minimum Sum | Easy |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Convert an Array Into a 2D Array With Conditions | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
