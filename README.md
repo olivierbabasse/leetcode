@@ -88,6 +88,7 @@
 | [0509](https://leetcode.com/problems/fibonacci-number/) | Fibonacci Number | Easy |
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
 | [0516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium |
+| [0535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | Encode and Decode TinyURL | Medium |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
 | [0560](https://leetcode.com/problems/subarray-sum-equals-k/) | Subarray Sum Equals K | Medium |
 | [0576](https://leetcode.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | Medium |
@@ -101,6 +102,7 @@
 | [0680](https://leetcode.com/problems/valid-palindrome-ii/) | Valid Palindrome II | Easy |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
+| [0732](https://leetcode.com/problems/my-calendar-iii/) | My Calendar III | Hard |
 | [0739](https://leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Medium |
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |
 | [0741](https://leetcode.com/problems/cherry-pickup/) | Cherry Pickup | Hard |
@@ -142,12 +144,14 @@
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | Hard |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Maximum Length of a Concatenated String with Unique Characters | Medium |
+| [1255](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Maximum Score Words Formed by Letters | Hard |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Minimum Time Visiting All Points | Easy |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Element Appearing More Than 25% In Sorted Array | Easy |
 | [1291](https://leetcode.com/problems/sequential-digits/) | Sequential Digits | Medium |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | Medium |
+| [1312](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard |
 | [1335](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Minimum Difficulty of a Job Schedule | Hard |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
 | [1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Minimum Number of Steps to Make Two Strings Anagram | Medium |
@@ -206,6 +210,7 @@
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Hard |
 | [1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Count Nice Pairs in an Array | Medium |
+| [1828](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | Queries on Number of Points Inside a Circle | Medium |
 | [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Frequency of the Most Frequent Element | Medium |
 | [1845](https://leetcode.com/problems/seat-reservation-manager/) | Seat Reservation Manager | Medium |
 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Medium |
