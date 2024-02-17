@@ -193,6 +193,7 @@
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | Largest Substring Between Two Equal Characters | Easy |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
 | [1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Widest Vertical Area Between Two Points Containing No Points | Medium |
+| [1642](https://leetcode.com/problems/furthest-building-you-can-reach/) | Furthest Building You Can Reach | Medium |
 | [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Determine if Two Strings Are Close | Medium |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
