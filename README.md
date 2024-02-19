@@ -95,6 +95,7 @@
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
 | [0629](https://leetcode.com/problems/k-inverse-pairs-array/) | K Inverse Pairs Array | Hard |
 | [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
+| [0646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Maximum Length of Pair Chain | Medium |
 | [0647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium |
 | [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |
 | [0673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Number of Longest Increasing Subsequence | Medium |
@@ -141,6 +142,7 @@
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurences | Easy |
 | [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Minimum Cost to Move Chips to The Same Position | Easy |
+| [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | Longest Arithmetic Subsequence of Given Difference | Medium |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | Hard |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Maximum Length of a Concatenated String with Unique Characters | Medium |
