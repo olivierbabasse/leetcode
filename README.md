@@ -17,6 +17,7 @@
 | [0021](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy |
 | [0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | Medium |
 | [0035](https://leetcode.com/problems/search-insert-position/) | Search Insert Position | Easy |
+| [0041](https://leetcode.com/problems/first-missing-positive/) | First Missing Positive | Hard |
 | [0042](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard |
 | [0049](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium |
 | [0062](https://leetcode.com/problems/unique-paths/) | Unique Paths | Medium |
@@ -57,6 +58,7 @@
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
 | [0268](https://leetcode.com/problems/missing-number/) | Missing number | Easy |
 | [0279](https://leetcode.com/problems/perfect-squares/) | Perfect Squares | Medium |
+| [0287](https://leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number | Medium |
 | [0300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium |
 | [0304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Range Sum Query 2D - Immutable | Medium |
 | [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
@@ -109,6 +111,7 @@
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |
 | [0741](https://leetcode.com/problems/cherry-pickup/) | Cherry Pickup | Hard |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
+| [0765](https://leetcode.com/problems/couples-holding-hands/) | Couple Holding Hands | Hard |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
 | [0780](https://leetcode.com/problems/reaching-points/) | Reaching Points | Hard |
 | [0812](https://leetcode.com/problems/largest-triangle-area/) | Largest Triangle Area | Easy |
