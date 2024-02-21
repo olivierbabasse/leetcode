@@ -40,6 +40,7 @@ mod lc0169_majority_element;
 mod lc0190_reverse_bits;
 mod lc0191_number_of_1_bits;
 mod lc0198_house_robber;
+mod lc0201_bitwise_and_of_numbers_range;
 mod lc0215_kth_largest_element_in_an_array;
 mod lc0221_maximal_square;
 mod lc0224_basic_calculator;
