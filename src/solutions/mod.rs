@@ -108,6 +108,7 @@ mod lc0746_min_cost_climbing_stairs;
 mod lc0765_couple_holding_hands;
 mod lc0779_k_th_symbol_in_grammar;
 mod lc0780_reaching_points;
+mod lc0807_max_increase_to_keep_city_skyline;
 mod lc0812_largest_triangle_area;
 mod lc0815_bus_routes;
 mod lc0823_binary_trees_with_factors;

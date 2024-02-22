@@ -114,6 +114,7 @@
 | [0765](https://leetcode.com/problems/couples-holding-hands/) | Couple Holding Hands | Hard |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
 | [0780](https://leetcode.com/problems/reaching-points/) | Reaching Points | Hard |
+| [0807](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Max Increase to Keep City Skyline | Medium |
 | [0812](https://leetcode.com/problems/largest-triangle-area/) | Largest Triangle Area | Easy |
 | [0815](https://leetcode.com/problems/bus-routes/) | Bus Routes | Hard |
 | [0823](https://leetcode.com/problems/binary-trees-with-factors/) | Binary Trees With Factors | Medium |
