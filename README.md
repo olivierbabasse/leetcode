@@ -131,6 +131,7 @@
 | [0938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Easy |
 | [0976](https://leetcode.com/problems/largest-perimeter-triangle/) | Largest Perimeter Triangle | Easy |
 | [0980](https://leetcode.com/problems/unique-paths-iii/) | Unique Paths III | Hard |
+| [0997](https://leetcode.com/problems/find-the-town-judge/) | Find the Town Judge | Easy |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
 | [1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Construct Binary Search Tree from Preorder Traversal | Medium |
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Maximum Difference Between Node and Ancestor | Medium |
