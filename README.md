@@ -114,6 +114,8 @@
 | [0765](https://leetcode.com/problems/couples-holding-hands/) | Couple Holding Hands | Hard |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
 | [0780](https://leetcode.com/problems/reaching-points/) | Reaching Points | Hard |
+| [0787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | Medium |
+| [0797](https://leetcode.com/problems/all-paths-from-source-to-target/) | All Paths From Source to Target | Medium |
 | [0807](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Max Increase to Keep City Skyline | Medium |
 | [0812](https://leetcode.com/problems/largest-triangle-area/) | Largest Triangle Area | Easy |
 | [0815](https://leetcode.com/problems/bus-routes/) | Bus Routes | Hard |
@@ -217,6 +219,7 @@
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Minimum Changes To Make Alternating Binary String | Easy |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |
+| [1791](https://leetcode.com/problems/find-center-of-star-graph/) | Find Center of Star Graph | Easy |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Hard |
 | [1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Count Nice Pairs in an Array | Medium |
 | [1828](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | Queries on Number of Points Inside a Circle | Medium |
