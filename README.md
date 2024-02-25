@@ -284,6 +284,7 @@
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Convert an Array Into a 2D Array With Conditions | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Easy |
+| [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Greatest Common Divisor Traversal | Hard |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | Medium |
