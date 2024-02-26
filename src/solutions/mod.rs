@@ -25,6 +25,7 @@ mod lc0084_largest_rectangle_in_histogram;
 mod lc0091_decode_ways;
 mod lc0094_binary_tree_inorder_traversal;
 mod lc0098_validate_binary_search_tree;
+mod lc0100_same_tree;
 mod lc0115_distinct_subsequences;
 mod lc0118_pascals_triangle;
 mod lc0119_pascals_triangle_ii;
