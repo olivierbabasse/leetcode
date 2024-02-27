@@ -93,6 +93,7 @@
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
 | [0516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium |
 | [0535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | Encode and Decode TinyURL | Medium |
+| [0543](https://leetcode.com/problems/diameter-of-binary-tree/) | Diameter of Binary Tree | Easy |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
 | [0560](https://leetcode.com/problems/subarray-sum-equals-k/) | Subarray Sum Equals K | Medium |
 | [0576](https://leetcode.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | Medium |
