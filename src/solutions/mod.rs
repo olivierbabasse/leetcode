@@ -84,6 +84,7 @@ mod lc0496_next_greater_element_i;
 mod lc0501_find_mode_in_binary_search_tree;
 mod lc0503_next_greater_element_ii;
 mod lc0509_fibonacci_number;
+mod lc0513_find_bottom_left_tree_value;
 mod lc0515_find_largest_value_in_each_tree_row;
 mod lc0516_longest_palindromic_subsequence;
 mod lc0535_encode_and_decode_tinyurl;
