@@ -196,6 +196,7 @@ mod lc1561_maximum_number_of_coins_you_can_get;
 mod lc1578_minimum_time_to_make_rope_colorful;
 mod lc1582_special_positions_in_a_binary_matrix;
 mod lc1606_find_servers_that_handled_most_number_of_requests;
+mod lc1609_even_odd_tree;
 mod lc1611_minimum_one_bit_operations_to_make_integers_zero;
 mod lc1624_largest_substring_between_two_equal_characters;
 mod lc1630_arithmetic_subarrays;
