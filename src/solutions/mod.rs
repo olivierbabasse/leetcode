@@ -289,6 +289,7 @@ mod lc2785_sort_vowels_in_a_string;
 mod lc2807_insert_greatest_common_divisors_in_linked_list;
 mod lc2810_faulty_keyboard;
 mod lc2849_determine_if_a_cell_is_reachable_at_a_given_time;
+mod lc2864_maximum_odd_binary_number;
 mod lc2869_minimum_operations_to_collect_elements;
 mod lc2870_minimum_number_of_operations_to_make_array_empty;
 mod lc2966_divide_array_into_arrays_with_max_difference;
