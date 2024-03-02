@@ -130,6 +130,7 @@ mod lc0931_minimum_falling_path_sum;
 mod lc0935_knight_dialer;
 mod lc0938_range_sum_of_bst;
 mod lc0976_largest_perimeter_triangle;
+mod lc0977_squares_of_a_sorted_array;
 mod lc0980_unique_paths_iii;
 mod lc0997_find_the_town_judge;
 mod lc1005_maximize_sum_of_array_after_k_negations;

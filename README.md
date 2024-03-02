@@ -136,6 +136,7 @@
 | [0935](https://leetcode.com/problems/knight-dialer/) | Knight Dialer | Medium |
 | [0938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Easy |
 | [0976](https://leetcode.com/problems/largest-perimeter-triangle/) | Largest Perimeter Triangle | Easy |
+| [0977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | Easy |
 | [0980](https://leetcode.com/problems/unique-paths-iii/) | Unique Paths III | Hard |
 | [0997](https://leetcode.com/problems/find-the-town-judge/) | Find the Town Judge | Easy |
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
