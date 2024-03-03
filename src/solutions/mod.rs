@@ -7,6 +7,7 @@ mod lc0008_string_to_integer_atoi;
 mod lc0009_palindrome_number;
 mod lc0013_roman_to_integer;
 mod lc0014_longest_common_prefix;
+mod lc0019_remove_nth_node_from_end_of_list;
 mod lc0020_valid_parentheses;
 mod lc0021_merge_two_sorted_lists;
 mod lc0034_find_first_and_last_position_of_element_in_sorted_array;
