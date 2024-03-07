@@ -50,6 +50,7 @@
 | [0191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy |
 | [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |
 | [0201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Bitwise And of Numbers Range | Medium |
+| [0203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | Easy |
 | [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Element in an Array | Medium |
 | [0221](https://leetcode.com/problems/maximal-square/) | Maximal Square | Medium |
 | [0224](https://leetcode.com/problems/basic-calculator/) | Basic Calculator | Hard |
@@ -76,6 +77,7 @@
 | [0381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Insert Delete GetRandom O(1) - Duplicates Allowed | Hard |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | Easy |
+| [0392](https://leetcode.com/problems/is-subsequence/) | Is Subsequence | Easy |
 | [0401](https://leetcode.com/problems/binary-watch/) | Binary Watch | Easy |
 | [0402](https://leetcode.com/problems/remove-k-digits/) | Remove K Digits | Medium |
 | [0409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Easy |
@@ -136,6 +138,7 @@
 | [0931](https://leetcode.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | Medium |
 | [0935](https://leetcode.com/problems/knight-dialer/) | Knight Dialer | Medium |
 | [0938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Easy |
+| [0948](https://leetcode.com/problems/bag-of-tokens/) | Bag of Tokens | Medium |
 | [0976](https://leetcode.com/problems/largest-perimeter-triangle/) | Largest Perimeter Triangle | Easy |
 | [0977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | Easy |
 | [0980](https://leetcode.com/problems/unique-paths-iii/) | Unique Paths III | Hard |
@@ -221,6 +224,7 @@
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Largest Submatrix With Rearrangements | Medium |
 | [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Medium |
+| [1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | Minimum Length of String After Deleting Similar Ends | Medium |
 | [1751](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | Maximum Number of Events That Can Be Attended II | Hard |
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Minimum Changes To Make Alternating Binary String | Easy |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
@@ -248,6 +252,7 @@
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | Find All People With Secret | Hard |
+| [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Delete the Middle Node of a Linked List | Medium |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
 | [2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Find First Palindromic String in the Array | Easy |
 | [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | A Number After a Double Reversal | Easy |
