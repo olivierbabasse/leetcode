@@ -307,3 +307,4 @@
 | [2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Minimum Number of Operations to Make Array Empty | Medium |
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Divide Array Into Arrays With Max Difference | Medium |
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | Find Polygon With the Largest Perimeter | Medium |
+| [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Count Elements With Maximum Frequency | Easy |

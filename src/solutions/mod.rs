@@ -301,3 +301,4 @@ mod lc2869_minimum_operations_to_collect_elements;
 mod lc2870_minimum_number_of_operations_to_make_array_empty;
 mod lc2966_divide_array_into_arrays_with_max_difference;
 mod lc2971_find_polygon_with_the_largest_perimeter;
+mod lc3005_count_elements_with_maximum_frequency;
