@@ -281,6 +281,7 @@ mod lc2404_most_frequent_even_element;
 mod lc2433_find_the_original_array_of_prefix_xor;
 mod lc2482_difference_between_ones_and_zeros_in_row_and_column;
 mod lc2484_count_palindromic_subsequences;
+mod lc2540_minimum_common_value;
 mod lc2543_check_if_point_is_reachable;
 mod lc2546_apply_bitwise_operations_to_make_strings_equal;
 mod lc2549_count_distinct_numbers_on_board;

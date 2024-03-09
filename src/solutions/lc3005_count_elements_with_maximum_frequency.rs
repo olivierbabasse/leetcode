@@ -2,8 +2,8 @@
 
 struct Solution {}
 
-/// time-complexity : O()
-/// space-complexity : O()
+/// time-complexity : O(n)
+/// space-complexity : O(1)
 impl Solution {
     pub fn max_frequency_elements(nums: Vec<i32>) -> i32 {
         let mut freqs = vec![0; 101];

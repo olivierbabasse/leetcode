@@ -287,6 +287,7 @@
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
+| [2540](https://leetcode.com/problems/minimum-common-value/) | Minimum Common Value | Easy |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Count Distinct Numbers on Board | Easy |
