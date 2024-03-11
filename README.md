@@ -121,6 +121,7 @@
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
 | [0780](https://leetcode.com/problems/reaching-points/) | Reaching Points | Hard |
 | [0787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | Medium |
+| [0791](https://leetcode.com/problems/custom-sort-string/) | Custom Sort String | Medium |
 | [0797](https://leetcode.com/problems/all-paths-from-source-to-target/) | All Paths From Source to Target | Medium |
 | [0807](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Max Increase to Keep City Skyline | Medium |
 | [0812](https://leetcode.com/problems/largest-triangle-area/) | Largest Triangle Area | Easy |

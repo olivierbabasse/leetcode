@@ -115,6 +115,7 @@ mod lc0765_couple_holding_hands;
 mod lc0779_k_th_symbol_in_grammar;
 mod lc0780_reaching_points;
 mod lc0787_cheapest_flights_within_k_stops;
+mod lc0791_custom_sort_string;
 mod lc0797_all_paths_from_source_to_target;
 mod lc0807_max_increase_to_keep_city_skyline;
 mod lc0812_largest_triangle_area;
