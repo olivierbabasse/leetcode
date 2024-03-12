@@ -4,7 +4,6 @@ type ListNode = crate::utils::list::ListNode<i32>;
 
 struct Solution {}
 
-/// recursive
 /// time-complexity : O(n)
 /// space-complexity : O(n)
 impl Solution {
@@ -41,7 +40,7 @@ mod tests {
     use super::{ListNode, Solution};
 
     #[test]
-    fn test_cases_2() {
+    fn test_cases() {
         assert_eq!(
             Solution::add_two_numbers(
                 ListNode::from_vec(&[2, 4, 3]),

@@ -157,6 +157,7 @@
 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | Longest Common Subsequence | Medium |
 | [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Number of Dice Rolls With Target Sum | Medium |
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
+| [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Remove Zero Sum Consecutive Nodes from Linked List | Medium |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurences | Easy |
 | [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Minimum Cost to Move Chips to The Same Position | Easy |
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | Longest Arithmetic Subsequence of Given Difference | Medium |

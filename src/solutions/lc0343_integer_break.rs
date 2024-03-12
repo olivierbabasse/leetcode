@@ -24,7 +24,7 @@ mod tests {
     use super::Solution;
 
     #[test]
-    fn test_cases_2() {
+    fn test_cases() {
         assert_eq!(Solution::integer_break(2), 1);
         assert_eq!(Solution::integer_break(10), 36);
     }

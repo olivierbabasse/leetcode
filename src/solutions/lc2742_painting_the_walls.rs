@@ -31,7 +31,7 @@ mod tests {
     use super::Solution;
 
     #[test]
-    fn test_cases_2() {
+    fn test_cases() {
         assert_eq!(Solution::paint_walls(vec![1, 2, 3, 2], vec![1, 2, 3, 2]), 3);
         assert_eq!(Solution::paint_walls(vec![2, 3, 4, 2], vec![1, 1, 1, 1]), 4);
     }
