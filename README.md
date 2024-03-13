@@ -64,6 +64,7 @@
 | [0287](https://leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number | Medium |
 | [0300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium |
 | [0304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Range Sum Query 2D - Immutable | Medium |
+| [0319](https://leetcode.com/problems/bulb-switcher/) | Bulb Switcher | Medium |
 | [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
 | [0338](https://leetcode.com/problems/counting-bits/) | Counting Bits | Easy |
 | [0341](https://leetcode.com/problems/flatten-nested-list-iterator/) | Flatten Nested List Iterator | Medium |
@@ -107,6 +108,7 @@
 | [0646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Maximum Length of Pair Chain | Medium |
 | [0647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium |
 | [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |
+| [0672](https://leetcode.com/problems/bulb-switcher-ii/) | Bulb Switcher II | Medium |
 | [0673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Number of Longest Increasing Subsequence | Medium |
 | [0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Longest Continuous Increasing Subsequence | Easy |
 | [0680](https://leetcode.com/problems/valid-palindrome-ii/) | Valid Palindrome II | Easy |
@@ -178,6 +180,7 @@
 | [1353](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | Maximum Number of Events That Can Be Attended | Medium |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by he Number of 1 Bits | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
+| [1375](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Number of Times Binary String Is Prefix-Aligned | Medium |
 | [1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Find Lucky Integer in an Array | Easy |
 | [1402](https://leetcode.com/problems/reducing-dishes/) | Reducing Dishes | Hard |
 | [1409](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | Queries on a Permutation With Key | Medium |
@@ -289,6 +292,7 @@
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
+| [2485](https://leetcode.com/problems/find-the-pivot-integer/) | Find the Pivot Integer | Easy |
 | [2540](https://leetcode.com/problems/minimum-common-value/) | Minimum Common Value | Easy |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
