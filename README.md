@@ -138,6 +138,7 @@
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [0907](https://leetcode.com/problems/sum-of-subarray-minimums/) | Sum of Subarray Minimums | Medium |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
+| [0930](https://leetcode.com/problems/binary-subarrays-with-sum/) | Binary Subarrays With Sum | Easy |
 | [0931](https://leetcode.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | Medium |
 | [0935](https://leetcode.com/problems/knight-dialer/) | Knight Dialer | Medium |
 | [0938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Easy |
@@ -305,6 +306,7 @@
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Greatest Common Divisor Traversal | Hard |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
+| [2750](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | Ways to Split Array Into Good Subarrays | Medium |
 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | Medium |
 | [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Insert Greatest Common Divisors in Linked List | Medium |
 | [2810](https://leetcode.com/problems/faulty-keyboard/) | Faulty Keyboard | Easy |

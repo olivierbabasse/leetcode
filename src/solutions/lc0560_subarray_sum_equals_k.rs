@@ -4,6 +4,8 @@ use std::collections::HashMap;
 
 struct Solution {}
 
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution {
     pub fn subarray_sum(nums: Vec<i32>, k: i32) -> i32 {
         let mut map = HashMap::new();
