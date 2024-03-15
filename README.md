@@ -45,6 +45,7 @@
 | [0144](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal | Easy |
 | [0145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | Easy |
 | [0150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | Medium |
+| [0152](https://leetcode.com/problems/maximum-product-subarray/) | Maximum Product Subarray | Medium |
 | [0169](https://leetcode.com/problems/majority-element/) | Majority Element | Easy |
 | [0190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | Easy |
 | [0191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy |
@@ -57,6 +58,7 @@
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
 | [0232](https://leetcode.com/problems/implement-queue-using-stacks/) | Implement Queue using Stacks | Easy |
+| [0238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium |
 | [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
 | [0268](https://leetcode.com/problems/missing-number/) | Missing number | Easy |
