@@ -21,6 +21,8 @@
 | [0041](https://leetcode.com/problems/first-missing-positive/) | First Missing Positive | Hard |
 | [0042](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard |
 | [0049](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium |
+| [0056](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | Medium |
+| [0057](https://leetcode.com/problems/insert-interval/) | Insert Interval | Medium |
 | [0062](https://leetcode.com/problems/unique-paths/) | Unique Paths | Medium |
 | [0063](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II | Medium |
 | [0064](https://leetcode.com/problems/minimum-path-sum/) | Minimum Path Sum | Medium |
@@ -100,6 +102,7 @@
 | [0513](https://leetcode.com/problems/find-bottom-left-tree-value/) | Find Bottom Left Tree Value | Medium |
 | [0515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Find Largest Value in Each Tree Row | Medium |
 | [0516](https://leetcode.com/problems/longest-palindromic-subsequence/) | Longest Palindromic Subsequence | Medium |
+| [0525](https://leetcode.com/problems/contiguous-array/) | Contiguous Array | Medium |
 | [0535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | Encode and Decode TinyURL | Medium |
 | [0543](https://leetcode.com/problems/diameter-of-binary-tree/) | Diameter of Binary Tree | Easy |
 | [0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Reverse Words in a String III | Easy |
