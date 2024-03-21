@@ -54,6 +54,7 @@
 | [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |
 | [0201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Bitwise And of Numbers Range | Medium |
 | [0203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | Easy |
+| [0206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | Easy |
 | [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Element in an Array | Medium |
 | [0221](https://leetcode.com/problems/maximal-square/) | Maximal Square | Medium |
 | [0224](https://leetcode.com/problems/basic-calculator/) | Basic Calculator | Hard |
@@ -89,9 +90,11 @@
 | [0409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
 | [0413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | Medium |
+| [0435](https://leetcode.com/problems/non-overlapping-intervals/) | Non-overlapping Intervals | Medium |
 | [0446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Arithmetic Slices II - Subsequence | Hard |
 | [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | Easy |
 | [0451](https://leetcode.com/problems/sort-characters-by-frequency/) | Sort Characters by Frequency | Medium |
+| [0452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Minimum Number of Arrows to Burst Balloons | Medium |
 | [0455](https://leetcode.com/problems/assign-cookies/) | Assign Cookies | Easy |
 | [0458](https://leetcode.com/problems/poor-pigs/) | Poor Pigs | Hard |
 | [0485](https://leetcode.com/problems/max-consecutive-ones/) | Max Consecutive Ones | Easy |
@@ -109,6 +112,7 @@
 | [0560](https://leetcode.com/problems/subarray-sum-equals-k/) | Subarray Sum Equals K | Medium |
 | [0576](https://leetcode.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | Medium |
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
+| [0621](https://leetcode.com/problems/task-scheduler/) | Task Scheduler | Medium |
 | [0629](https://leetcode.com/problems/k-inverse-pairs-array/) | K Inverse Pairs Array | Hard |
 | [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
 | [0646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Maximum Length of Pair Chain | Medium |
@@ -227,6 +231,7 @@
 | [1642](https://leetcode.com/problems/furthest-building-you-can-reach/) | Furthest Building You Can Reach | Medium |
 | [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Determine if Two Strings Are Close | Medium |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
+| [1669](https://leetcode.com/problems/merge-in-between-linked-lists/) | Merge In Between Linked Lists | Medium |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Medium |
 | [1688](https://leetcode.com/problems/count-of-matches-in-tournament/) | Count of Matches in Tournament | Easy |
@@ -297,6 +302,7 @@
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | Meeting Rooms III | Hard |
 | [2404](https://leetcode.com/problems/most-frequent-even-element/) | Most Frequent Even Element | Easy |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
+| [2446](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | Determine If Two Events Have Conflict | Easy |
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
 | [2485](https://leetcode.com/problems/find-the-pivot-integer/) | Find the Pivot Integer | Easy |
