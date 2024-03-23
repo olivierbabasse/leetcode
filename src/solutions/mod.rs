@@ -38,6 +38,7 @@ mod lc0125_easy_palindrome;
 mod lc0136_single_number;
 mod lc0137_single_number_ii;
 mod lc0139_word_break;
+mod lc0143_reorder_list;
 mod lc0144_binary_tree_preorder_traversal;
 mod lc0145_binary_tree_postorder_traversal;
 mod lc0150_evaluate_reverse_polish_notation;
