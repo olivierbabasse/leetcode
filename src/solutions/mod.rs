@@ -56,6 +56,7 @@ mod lc0224_basic_calculator;
 mod lc0229_majority_element_ii;
 mod lc0231_power_of_two;
 mod lc0232_implement_queue_using_stacks;
+mod lc0234_palindrome_linked_list;
 mod lc0238_product_of_array_except_self;
 mod lc0242_valid_anagram;
 mod lc0260_single_number_iii;

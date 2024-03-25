@@ -62,6 +62,7 @@
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
 | [0232](https://leetcode.com/problems/implement-queue-using-stacks/) | Implement Queue using Stacks | Easy |
+| [0234](https://leetcode.com/problems/palindrome-linked-list/description/) | Palindrome Linked List | Easy |
 | [0238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium |
 | [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
