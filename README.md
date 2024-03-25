@@ -91,6 +91,7 @@
 | [0409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
 | [0413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | Medium |
+| [0442](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Find All Duplicates in an Array | Medium |
 | [0435](https://leetcode.com/problems/non-overlapping-intervals/) | Non-overlapping Intervals | Medium |
 | [0446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Arithmetic Slices II - Subsequence | Hard |
 | [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | Easy |

@@ -86,6 +86,7 @@ mod lc0409_longest_palindrome;
 mod lc0412_fizz_buzz;
 mod lc0413_arithmetic_slices;
 mod lc0435_non_overlapping_intervals;
+mod lc0442_find_all_duplicates_in_an_array;
 mod lc0446_arithmetic_slices_ii_subsequence;
 mod lc0448_find_all_numbers_disappeared_in_an_array;
 mod lc0451_sort_characters_by_frequency;
