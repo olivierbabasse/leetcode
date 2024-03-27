@@ -62,7 +62,7 @@
 | [0229](https://leetcode.com/problems/majority-element-ii/) | Majority Element II | Medium |
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
 | [0232](https://leetcode.com/problems/implement-queue-using-stacks/) | Implement Queue using Stacks | Easy |
-| [0234](https://leetcode.com/problems/palindrome-linked-list/description/) | Palindrome Linked List | Easy |
+| [0234](https://leetcode.com/problems/palindrome-linked-list/) | Palindrome Linked List | Easy |
 | [0238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium |
 | [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
@@ -127,6 +127,7 @@
 | [0680](https://leetcode.com/problems/valid-palindrome-ii/) | Valid Palindrome II | Easy |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
+| [0713](https://leetcode.com/problems/subarray-product-less-than-k/) | Subarray Product Less Than K | Medium |
 | [0732](https://leetcode.com/problems/my-calendar-iii/) | My Calendar III | Hard |
 | [0739](https://leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Medium |
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |
@@ -275,6 +276,7 @@
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Delete the Middle Node of a Linked List | Medium |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
 | [2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Find First Palindromic String in the Array | Easy |
+| [2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | Number of Smooth Descent Periods of a Stock | Medium |
 | [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | A Number After a Double Reversal | Easy |
 | [2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Number of Laser Beams in a Bank | Medium |
 | [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Longest Palindrome by Concatening Two Letter Words | Medium |
@@ -291,6 +293,7 @@
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | Easy |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
+| [2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Count Subarrays With Score Less Than K | Hard |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Calculate Amount Paid in Taxes | Easy |
 | [2320](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Count Number of Ways to Place Houses | Medium |
 | [2349](https://leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Medium |
