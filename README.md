@@ -87,6 +87,7 @@
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
 | [0387](https://leetcode.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | Easy |
 | [0392](https://leetcode.com/problems/is-subsequence/) | Is Subsequence | Easy |
+| [0395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | Longest Substring with At Least K Repeating Characters | Medium |
 | [0401](https://leetcode.com/problems/binary-watch/) | Binary Watch | Easy |
 | [0402](https://leetcode.com/problems/remove-k-digits/) | Remove K Digits | Medium |
 | [0409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Easy |
@@ -306,6 +307,7 @@
 | [2396](https://leetcode.com/problems/strictly-palindromic-number/) | Strictly Palindromic Number | Medium |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | Number of Ways to Reach a Position After Exactly k Steps | Medium |
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | Meeting Rooms III | Hard |
+| [2405](https://leetcode.com/problems/optimal-partition-of-string/) | Optimal Partition of String | Medium |
 | [2404](https://leetcode.com/problems/most-frequent-even-element/) | Most Frequent Even Element | Easy |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2446](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | Determine If Two Events Have Conflict | Easy |
@@ -333,6 +335,7 @@
 | [2864](https://leetcode.com/problems/maximum-odd-binary-number/) | Maximum Odd Binary Number | Easy |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
 | [2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Minimum Number of Operations to Make Array Empty | Medium |
+| [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Length of Longest Subarray With at Most K Frequency | Medium |
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Divide Array Into Arrays With Max Difference | Medium |
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | Find Polygon With the Largest Perimeter | Medium |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Count Elements With Maximum Frequency | Easy |
