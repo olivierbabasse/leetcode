@@ -56,6 +56,7 @@
 | [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |
 | [0201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Bitwise And of Numbers Range | Medium |
 | [0203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | Easy |
+| [0205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings | Easy |
 | [0206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | Easy |
 | [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Element in an Array | Medium |
 | [0221](https://leetcode.com/problems/maximal-square/) | Maximal Square | Medium |

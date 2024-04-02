@@ -50,6 +50,7 @@ mod lc0191_number_of_1_bits;
 mod lc0198_house_robber;
 mod lc0201_bitwise_and_of_numbers_range;
 mod lc0203_remove_linked_list_elements;
+mod lc0205_isomorphic_strings;
 mod lc0206_reverse_linked_list;
 mod lc0215_kth_largest_element_in_an_array;
 mod lc0221_maximal_square;
