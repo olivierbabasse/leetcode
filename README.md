@@ -175,6 +175,7 @@
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
 | [1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | Easy |
+| [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium |
 | [1137](https://leetcode.com/problems/n-th-tribonacci-number/) | N-th Tribonacci Number | Easy |
 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | Longest Common Subsequence | Medium |
 | [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Number of Dice Rolls With Target Sum | Medium |
@@ -234,6 +235,7 @@
 | [1606](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Find Server That Handled Most Number of Requests | Hard |
 | [1609](https://leetcode.com/problems/even-odd-tree/) | Even Odd Tree | Medium |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Hard |
+| [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Minimum Nesting Depth of the Parentheses | Easy |
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | Largest Substring Between Two Equal Characters | Easy |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
 | [1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Widest Vertical Area Between Two Points Containing No Points | Medium |
