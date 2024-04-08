@@ -242,6 +242,7 @@ mod lc1672_richest_customer_wealth;
 mod lc1685_sum_of_absolute_differences_in_a_sorted_array;
 mod lc1688_count_of_matches_in_tournament;
 mod lc1689_partitioning_into_minimum_number_of_deci_binary_numbers;
+mod lc1700_number_of_students_unable_to_eat_lunch;
 mod lc1704_determine_if_string_halves_are_alike;
 mod lc1716_calculate_money_in_leetcode_bank;
 mod lc1720_decode_xored_array;
