@@ -161,6 +161,7 @@
 | [0935](https://leetcode.com/problems/knight-dialer/) | Knight Dialer | Medium |
 | [0938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Easy |
 | [0948](https://leetcode.com/problems/bag-of-tokens/) | Bag of Tokens | Medium |
+| [0950](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Reveal Cards In Increasing Order | Medium |
 | [0976](https://leetcode.com/problems/largest-perimeter-triangle/) | Largest Perimeter Triangle | Easy |
 | [0977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | Easy |
 | [0980](https://leetcode.com/problems/unique-paths-iii/) | Unique Paths III | Hard |
@@ -280,6 +281,7 @@
 | [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Maximum Difference Between Increasing Elements | Easy |
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Remove Colored Pieces if Both Neighbors are the Same Color | Medium |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
+| [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Time Needed to Buy Tickets | Easy |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | Find All People With Secret | Hard |
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Delete the Middle Node of a Linked List | Medium |

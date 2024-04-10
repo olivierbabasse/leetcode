@@ -4,8 +4,8 @@ use std::collections::VecDeque;
 
 struct Solution {}
 
-/// time-complexity : O()
-/// space-complexity : O()
+/// time-complexity : O(n)
+/// space-complexity : O(n)
 impl Solution {
     pub fn count_students(students: Vec<i32>, sandwiches: Vec<i32>) -> i32 {
         let mut sandwiches: Vec<_> = sandwiches.into_iter().rev().collect();
