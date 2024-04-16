@@ -33,6 +33,7 @@
 | [0076](https://leetcode.com/problems/minimum-window-substring/) | Minimum Window Substring | Hard |
 | [0079](https://leetcode.com/problems/word-search/) | Word Search | Medium |
 | [0084](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle in Histogram | Hard |
+| [0085](https://leetcode.com/problems/maximal-rectangle/) | Maximal Rectangle | Hard |
 | [0091](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Easy |
 | [0098](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium |
@@ -43,6 +44,7 @@
 | [0120](https://leetcode.com/problems/triangle/) | Triange | Medium |
 | [0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock | Easy |
 | [0125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy |
+| [0129](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Sum Root to Leaf Numbers | Medium |
 | [0136](https://leetcode.com/problems/single-number/) | Single Number | Easy |
 | [0137](https://leetcode.com/problems/single-number-ii/) | Single Number II | Medium |
 | [0139](https://leetcode.com/problems/word-break/) | Word Break | Medium |
@@ -93,6 +95,7 @@
 | [0395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | Longest Substring with At Least K Repeating Characters | Medium |
 | [0401](https://leetcode.com/problems/binary-watch/) | Binary Watch | Easy |
 | [0402](https://leetcode.com/problems/remove-k-digits/) | Remove K Digits | Medium |
+| [0404](https://leetcode.com/problems/sum-of-left-leaves/) | Sum of Left Leaves | Easy |
 | [0409](https://leetcode.com/problems/longest-palindrome/) | Longest Palindrome | Easy |
 | [0412](https://leetcode.com/problems/fizz-buzz/) | Fizz Buzz | Easy |
 | [0413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | Medium |
@@ -120,6 +123,7 @@
 | [0576](https://leetcode.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | Medium |
 | [0606](https://leetcode.com/problems/construct-string-from-binary-tree/) | Construct String from Binary Tree | Easy |
 | [0621](https://leetcode.com/problems/task-scheduler/) | Task Scheduler | Medium |
+| [0623](https://leetcode.com/problems/add-one-row-to-tree/) | Add One Row to Tree | Medium |
 | [0629](https://leetcode.com/problems/k-inverse-pairs-array/) | K Inverse Pairs Array | Hard |
 | [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
 | [0646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Maximum Length of Pair Chain | Medium |
