@@ -163,6 +163,7 @@ mod lc0950_reveal_cards_in_increasing_order;
 mod lc0976_largest_perimeter_triangle;
 mod lc0977_squares_of_a_sorted_array;
 mod lc0980_unique_paths_iii;
+mod lc0988_smallest_string_starting_from_leaf;
 mod lc0992_subarrays_with_k_different_integers;
 mod lc0997_find_the_town_judge;
 mod lc1005_maximize_sum_of_array_after_k_negations;
