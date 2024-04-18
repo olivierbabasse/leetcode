@@ -101,6 +101,7 @@ mod lc0451_sort_characters_by_frequency;
 mod lc0452_minimum_number_of_arrows_to_burst_balloons;
 mod lc0455_assign_cookies;
 mod lc0458_poor_pigs;
+mod lc0463_island_perimeter;
 mod lc0485_max_consecutive_ones;
 mod lc0496_next_greater_element_i;
 mod lc0501_find_mode_in_binary_search_tree;
