@@ -135,6 +135,7 @@
 | [0673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Number of Longest Increasing Subsequence | Medium |
 | [0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Longest Continuous Increasing Subsequence | Easy |
 | [0680](https://leetcode.com/problems/valid-palindrome-ii/) | Valid Palindrome II | Easy |
+| [0695](https://leetcode.com/problems/max-area-of-island/) | Max Area of Island | Medium |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
 | [0713](https://leetcode.com/problems/subarray-product-less-than-k/) | Subarray Product Less Than K | Medium |
@@ -278,11 +279,13 @@
 | [1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Reduce Operations to Make the Array Elements Equal | Medium |
 | [1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | Redistribute Characters to Make All String Equal | Easy |
 | [1903](https://leetcode.com/problems/largest-odd-number-in-string/) | Largest Odd Number in String | Easy |
+| [1905](https://leetcode.com/problems/count-sub-islands/description/) | Count Sub Islands | Medium |
 | [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Maximum Product Difference Between Two Pairs | Easy |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Medium |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Medium |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | Easy |
 | [1980](https://leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Medium |
+| [1992](https://leetcode.com/problems/find-all-groups-of-farmland/) | Find All Groups of Farmland | Medium |
 | [2001](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | Number of Pairs of Interchangeable Rectangles | Medium |
 | [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | Minimum Number of Operations to Make Array Continuous | Hard |
 | [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Maximum Difference Between Increasing Elements | Easy |

@@ -5,7 +5,7 @@ struct Solution {}
 /// time-complexity : O(n)
 /// space-complexity : O(1)
 impl Solution {
-    pub fn reverse_string(s: &mut Vec<char>) {
+    pub fn reverse_string(s: &mut [char]) {
         let mut i = 0;
         let mut j = s.len() - 1;
         while i < j {
