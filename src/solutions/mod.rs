@@ -51,6 +51,7 @@ mod lc0169_majority_element;
 mod lc0190_reverse_bits;
 mod lc0191_number_of_1_bits;
 mod lc0198_house_robber;
+mod lc0200_number_of_islands;
 mod lc0201_bitwise_and_of_numbers_range;
 mod lc0203_remove_linked_list_elements;
 mod lc0205_isomorphic_strings;
