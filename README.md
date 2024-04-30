@@ -279,8 +279,9 @@
 | [1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Reduce Operations to Make the Array Elements Equal | Medium |
 | [1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | Redistribute Characters to Make All String Equal | Easy |
 | [1903](https://leetcode.com/problems/largest-odd-number-in-string/) | Largest Odd Number in String | Easy |
-| [1905](https://leetcode.com/problems/count-sub-islands/description/) | Count Sub Islands | Medium |
+| [1905](https://leetcode.com/problems/count-sub-islands/) | Count Sub Islands | Medium |
 | [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Maximum Product Difference Between Two Pairs | Easy |
+| [1915](https://leetcode.com/problems/number-of-wonderful-substrings/) | Number of Wonderful Substrings | Medium |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Medium |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Medium |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | Easy |
@@ -307,6 +308,7 @@
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Medium |
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Minimum Number of Steps to Make Two Strings Anagram II | Medium |
 | [2211](https://leetcode.com/problems/count-collisions-on-a-road/) | Count Collisions on a Road | Medium |
+| [2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Minimum Bit Flips to Convert Number | Easy |
 | [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Find Players With Zero or One Losses | Medium |
 | [2235](https://leetcode.com/problems/add-two-integers/) | Add Two Integers | Easy |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | Root Equals Sum of Children | Easy |
@@ -360,4 +362,5 @@
 | [2962](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Count Subarrays Where Max Element Appears at Least K Times | Medium |
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Divide Array Into Arrays With Max Difference | Medium |
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | Find Polygon With the Largest Perimeter | Medium |
+| [2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Minimum Number of Operations to Make Array XOR Equal to K | Medium |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Count Elements With Maximum Frequency | Easy |
