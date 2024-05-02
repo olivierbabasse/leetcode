@@ -326,6 +326,7 @@ mod lc2402_meeting_rooms_iii;
 mod lc2404_most_frequent_even_element;
 mod lc2405_optimal_partition_of_string;
 mod lc2433_find_the_original_array_of_prefix_xor;
+mod lc2441_largest_positive_integer_that_exists_with_its_negative;
 mod lc2444_count_subarrays_with_fixed_bounds;
 mod lc2446_determine_if_two_events_have_conflict;
 mod lc2482_difference_between_ones_and_zeros_in_row_and_column;

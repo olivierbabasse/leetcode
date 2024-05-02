@@ -332,6 +332,7 @@
 | [2405](https://leetcode.com/problems/optimal-partition-of-string/) | Optimal Partition of String | Medium |
 | [2404](https://leetcode.com/problems/most-frequent-even-element/) | Most Frequent Even Element | Easy |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
+| [2441](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Largest Positive Integer That Exists With Its Negative | Medium |
 | [2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | Count Subarrays With Fixed Bounds | Hard |
 | [2446](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | Determine If Two Events Have Conflict | Easy |
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Medium |
