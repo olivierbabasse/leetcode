@@ -47,6 +47,7 @@ mod lc0144_binary_tree_preorder_traversal;
 mod lc0145_binary_tree_postorder_traversal;
 mod lc0150_evaluate_reverse_polish_notation;
 mod lc0152_maximum_product_subarray;
+mod lc0165_compare_version_numbers;
 mod lc0169_majority_element;
 mod lc0190_reverse_bits;
 mod lc0191_number_of_1_bits;
