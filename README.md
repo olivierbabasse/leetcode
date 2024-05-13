@@ -158,6 +158,7 @@
 | [0829](https://leetcode.com/problems/consecutive-numbers-sum/) | Consecutive Numbers Sum | Hard |
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
+| [0861](https://leetcode.com/problems/score-after-flipping-matrix/) | Score After Flipping Matrix | Medium |
 | [0867](https://leetcode.com/problems/transpose-matrix/) | Transpose Matrix | Easy |
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
 | [0872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | Easy |
@@ -339,6 +340,7 @@
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Difference Between Ones and Zeros in Row and Column | Medium |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | Count Palindromic Subsequences | Hard |
 | [2485](https://leetcode.com/problems/find-the-pivot-integer/) | Find the Pivot Integer | Easy |
+| [2487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Remove Nodes From Linked List | Medium |
 | [2540](https://leetcode.com/problems/minimum-common-value/) | Minimum Common Value | Easy |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
@@ -356,6 +358,7 @@
 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | Medium |
 | [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Insert Greatest Common Divisors in Linked List | Medium |
 | [2810](https://leetcode.com/problems/faulty-keyboard/) | Faulty Keyboard | Easy |
+| [2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Double a Number Represented as a Linked List | Medium |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Medium |
 | [2864](https://leetcode.com/problems/maximum-odd-binary-number/) | Maximum Odd Binary Number | Easy |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
