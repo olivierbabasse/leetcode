@@ -195,6 +195,7 @@
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurences | Easy |
 | [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Minimum Cost to Move Chips to The Same Position | Easy |
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | Longest Arithmetic Subsequence of Given Difference | Medium |
+| [1219](https://leetcode.com/problems/path-with-maximum-gold/) | Path With Maximum Gold | Medium |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | Hard |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Maximum Length of a Concatenated String with Unique Characters | Medium |
