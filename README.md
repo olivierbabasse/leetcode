@@ -322,6 +322,7 @@
 | [2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Count Subarrays With Score Less Than K | Hard |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Calculate Amount Paid in Taxes | Easy |
 | [2320](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Count Number of Ways to Place Houses | Medium |
+| [2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | Evaluate Boolean Binary Tree | Easy |
 | [2349](https://leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Medium |
 | [2351](https://leetcode.com/problems/first-letter-to-appear-twice/) | First Letter to Appear Twice | Easy |
 | [2353](https://leetcode.com/problems/design-a-food-rating-system/) | Design a Food Rating System | Medium |
@@ -359,6 +360,7 @@
 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | Medium |
 | [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Insert Greatest Common Divisors in Linked List | Medium |
 | [2810](https://leetcode.com/problems/faulty-keyboard/) | Faulty Keyboard | Easy |
+| [2812](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Find the Safest Path in a Grid | Medium |
 | [2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Double a Number Represented as a Linked List | Medium |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Medium |
 | [2864](https://leetcode.com/problems/maximum-odd-binary-number/) | Maximum Odd Binary Number | Easy |
