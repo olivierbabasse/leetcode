@@ -201,6 +201,7 @@ mod lc1287_element_appearing_more_than_25_in_sorted_array;
 mod lc1291_sequential_digits;
 mod lc1302_deepest_leaves_sum;
 mod lc1312_minimum_insertion_steps_to_make_a_string_palindrome;
+mod lc1325_delete_leaves_ith_a_given_value;
 mod lc1335_minimum_difficulty_of_a_job_schedule;
 mod lc1342_number_of_steps_to_reduce_a_number_to_zero;
 mod lc1347_minimum_number_of_steps_to_make_two_strings_anagram;
