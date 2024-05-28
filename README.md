@@ -193,6 +193,7 @@
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
 | [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Remove Zero Sum Consecutive Nodes from Linked List | Medium |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurences | Easy |
+| [1208](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Get Equal Substrings Within Budget | Medium |
 | [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Minimum Cost to Move Chips to The Same Position | Easy |
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | Longest Arithmetic Subsequence of Given Difference | Medium |
 | [1219](https://leetcode.com/problems/path-with-maximum-gold/) | Path With Maximum Gold | Medium |
