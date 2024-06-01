@@ -374,3 +374,4 @@
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | Find Polygon With the Largest Perimeter | Medium |
 | [2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Minimum Number of Operations to Make Array XOR Equal to K | Medium |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Count Elements With Maximum Frequency | Easy |
+| [3110](https://leetcode.com/problems/score-of-a-string/) | Score of a String | Easy |
