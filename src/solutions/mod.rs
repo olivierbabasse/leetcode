@@ -338,6 +338,7 @@ mod lc2446_determine_if_two_events_have_conflict;
 mod lc2482_difference_between_ones_and_zeros_in_row_and_column;
 mod lc2484_count_palindromic_subsequences;
 mod lc2485_find_the_pivot_integer;
+mod lc2486_append_characters_to_string_to_make_subsequence;
 mod lc2487_remove_nodes_from_linked_list;
 mod lc2540_minimum_common_value;
 mod lc2543_check_if_point_is_reachable;
