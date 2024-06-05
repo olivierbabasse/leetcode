@@ -171,6 +171,7 @@ mod lc0980_unique_paths_iii;
 mod lc0988_smallest_string_starting_from_leaf;
 mod lc0992_subarrays_with_k_different_integers;
 mod lc0997_find_the_town_judge;
+mod lc1002_find_common_characters;
 mod lc1005_maximize_sum_of_array_after_k_negations;
 mod lc1008_construct_binary_search_tree_from_preorder_traversal;
 mod lc1026_maximum_difference_between_node_and_ancestor;
