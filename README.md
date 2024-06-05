@@ -218,6 +218,7 @@
 | [1375](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Number of Times Binary String Is Prefix-Aligned | Medium |
 | [1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Find Lucky Integer in an Array | Easy |
 | [1402](https://leetcode.com/problems/reducing-dishes/) | Reducing Dishes | Hard |
+| [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Number of Steps to Reduce a Number in Binary Representation to One | Medium |
 | [1409](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | Queries on a Permutation With Key | Medium |
 | [1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Maximum Score After Splitting a String | Easy |
@@ -225,6 +226,7 @@
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | Constrained Subsequence Sum | Hard |
 | [1436](https://leetcode.com/problems/destination-city/) | Destination City | Easy |
 | [1441](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Build an Array With Stack Operations | Medium |
+| [1442](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | Count Triplets That Can Form Two Arrays of Equal XOR | Medium |
 | [1446](https://leetcode.com/problems/consecutive-characters/) | Consecutive Characters | Easy |
 | [1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy |
 | [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | Pseudo Palindromic Paths in a Binary Tree | Medium |
