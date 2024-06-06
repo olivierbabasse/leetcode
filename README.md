@@ -157,6 +157,7 @@
 | [0823](https://leetcode.com/problems/binary-trees-with-factors/) | Binary Trees With Factors | Medium |
 | [0829](https://leetcode.com/problems/consecutive-numbers-sum/) | Consecutive Numbers Sum | Hard |
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
+| [0846](https://leetcode.com/problems/hand-of-straights/) | Hand of Straights | Medium |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
 | [0861](https://leetcode.com/problems/score-after-flipping-matrix/) | Score After Flipping Matrix | Medium |
 | [0867](https://leetcode.com/problems/transpose-matrix/) | Transpose Matrix | Easy |
@@ -207,6 +208,7 @@
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Element Appearing More Than 25% In Sorted Array | Easy |
 | [1291](https://leetcode.com/problems/sequential-digits/) | Sequential Digits | Medium |
+| [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | Divide Array in Sets of K Consecutive Numbers | Medium |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | Medium |
 | [1312](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard |
 | [1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | Delete Leaves With a Given Value | Medium |
