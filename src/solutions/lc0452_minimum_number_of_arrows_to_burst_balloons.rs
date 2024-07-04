@@ -15,7 +15,7 @@ impl Solution {
                 last[1] = last[1].min(p[1]);
             } else {
                 count += 1;
-                last = p.clone();
+                last.clone_from(&p);
             }
         }
         count

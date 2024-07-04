@@ -22,7 +22,7 @@ impl Solution {
             if current.next.is_none() {
                 break;
             }
-            current = &current.next.as_ref().unwrap();
+            current = current.next.as_ref().unwrap();
             index += 1;
         }
 

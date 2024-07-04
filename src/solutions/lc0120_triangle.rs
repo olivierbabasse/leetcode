@@ -15,7 +15,7 @@ impl Solution {
                 for j in (0..=i).rev() {
                     curr[j] = triangle[i][j] + i32::min(prev[j], prev[j + 1]);
                 }
-                prev = curr.clone();
+                prev.clone_from(&curr);
             }
         }
         prev[0]

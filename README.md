@@ -88,6 +88,7 @@
 | [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Reverse Vowels of a String | Easy |
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/) | Top K Frequent Elements | Medium |
 | [0349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | Easy |
+| [0350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II | Easy |
 | [0368](https://leetcode.com/problems/largest-divisible-subset/) | Largest Divisible Subset | Medium |
 | [0380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Insert Delete GetRandom O(1) | Medium |
 | [0381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Insert Delete GetRandom O(1) - Duplicates Allowed | Hard |
@@ -244,11 +245,13 @@
 | [1496](https://leetcode.com/problems/path-crossing/) | Path Crossing | Easy |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | Easy |
 | [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Medium |
+| [1509](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Minimum Difference Between Largest and Smallest Value in Three Moves | Medium |
 | [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Medium |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | Medium |
 | [1531](https://leetcode.com/problems/string-compression-ii/) | String Compression II | Hard |
 | [1544](https://leetcode.com/problems/make-the-string-great/) | Make The String Great | Easy |
+| [1550](https://leetcode.com/problems/three-consecutive-odds/) | Three Consecutive Odds | Easy |
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Medium |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
@@ -316,13 +319,16 @@
 | [2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Number of Ways to Divide a Long Corridor | Hard |
 | [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Rearrange Array Elements by Sign | Medium |
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Medium |
+| [2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Merge Nodes in Between Zeros | Medium |
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Minimum Number of Steps to Make Two Strings Anagram II | Medium |
 | [2211](https://leetcode.com/problems/count-collisions-on-a-road/) | Count Collisions on a Road | Medium |
+| [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Find the Difference of Two Arrays | Easy |
 | [2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Minimum Bit Flips to Convert Number | Easy |
 | [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | Find Players With Zero or One Losses | Medium |
 | [2235](https://leetcode.com/problems/add-two-integers/) | Add Two Integers | Easy |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | Root Equals Sum of Children | Easy |
 | [2244](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | Minimum Rounds to Complete All Tasks | Medium |
+| [2248](https://leetcode.com/problems/intersection-of-multiple-arrays/) | Intersection of Multiple Arrays | Easy |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | Easy |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
@@ -359,6 +365,7 @@
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Convert an Array Into a 2D Array With Conditions | Medium |
 | [2615](https://leetcode.com/problems/sum-of-distances/) | Sum of Distances | Medium |
+| [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Minimize the Maximum Difference of Pairs | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Easy |
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Greatest Common Divisor Traversal | Hard |
