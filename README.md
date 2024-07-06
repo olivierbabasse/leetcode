@@ -290,6 +290,7 @@
 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Medium |
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Minimize Maximim Pair Sum in Array | Medium |
 | [1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Reduce Operations to Make the Array Elements Equal | Medium |
+| [1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Find the Student that Will Replace the chalk | Medium |
 | [1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | Redistribute Characters to Make All String Equal | Easy |
 | [1903](https://leetcode.com/problems/largest-odd-number-in-string/) | Largest Odd Number in String | Easy |
 | [1905](https://leetcode.com/problems/count-sub-islands/) | Count Sub Islands | Medium |
@@ -363,6 +364,7 @@
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Count Distinct Numbers on Board | Easy |
 | [2578](https://leetcode.com/problems/split-with-minimum-sum/) | Split With Minimum Sum | Easy |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
+| [2582](https://leetcode.com/problems/pass-the-pillow/) | Pass the Pillow | Easy |
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Convert an Array Into a 2D Array With Conditions | Medium |
 | [2615](https://leetcode.com/problems/sum-of-distances/) | Sum of Distances | Medium |
 | [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Minimize the Maximum Difference of Pairs | Medium |
