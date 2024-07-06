@@ -207,6 +207,7 @@
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Minimum Time Visiting All Points | Easy |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Number of Ways to Stay in the Same Place After Some Steps | Hard | 
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Group the People Given the Group Size They Belong To | Medium |
+| [1284](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix | Hard |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Element Appearing More Than 25% In Sorted Array | Easy |
 | [1291](https://leetcode.com/problems/sequential-digits/) | Sequential Digits | Medium |
 | [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | Divide Array in Sets of K Consecutive Numbers | Medium |
