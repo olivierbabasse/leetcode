@@ -247,6 +247,7 @@
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | Easy |
 | [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Medium |
 | [1509](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Minimum Difference Between Largest and Smallest Value in Three Moves | Medium |
+| [1518](https://leetcode.com/problems/water-bottles/) | Water Bottles | Easy |
 | [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Medium |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | Medium |
@@ -281,6 +282,7 @@
 | [1751](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | Maximum Number of Events That Can Be Attended II | Hard |
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Minimum Changes To Make Alternating Binary String | Easy |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Count Number of Homogenous Substrings | Medium |
+| [1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | Minimum Number of Operations to Move All Balls to Each Box | Medium |
 | [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | Count Items Matching a Rule | Easy |
 | [1791](https://leetcode.com/problems/find-center-of-star-graph/) | Find Center of Star Graph | Easy |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Maximum Score of a Good Subarray | Hard |
@@ -390,4 +392,5 @@
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | Find Polygon With the Largest Perimeter | Medium |
 | [2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Minimum Number of Operations to Make Array XOR Equal to K | Medium |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Count Elements With Maximum Frequency | Easy |
+| [3100](https://leetcode.com/problems/water-bottles-ii/) | Water Bottles II | Medium |
 | [3110](https://leetcode.com/problems/score-of-a-string/) | Score of a String | Easy |
