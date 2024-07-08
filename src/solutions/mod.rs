@@ -281,6 +281,7 @@ mod lc1773_count_items_matching_a_rule;
 mod lc1791_find_center_of_star_graph;
 mod lc1793_maximum_sum_of_a_good_subarray;
 mod lc1814_count_nice_pairs_in_an_array;
+mod lc1823_find_the_winner_of_the_circular_game;
 mod lc1828_queries_on_number_of_points_inside_a_circle;
 mod lc1838_frequency_of_the_most_frequent_element;
 mod lc1845_seat_reservation_manager;
