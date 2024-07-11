@@ -137,6 +137,7 @@
 | [0673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Number of Longest Increasing Subsequence | Medium |
 | [0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | Longest Continuous Increasing Subsequence | Easy |
 | [0680](https://leetcode.com/problems/valid-palindrome-ii/) | Valid Palindrome II | Easy |
+| [0682](https://leetcode.com/problems/baseball-game/) | Baseball Game | Medium |
 | [0695](https://leetcode.com/problems/max-area-of-island/) | Max Area of Island | Medium |
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
@@ -195,6 +196,7 @@
 | [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Number of Dice Rolls With Target Sum | Medium |
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
 | [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | Remove Zero Sum Consecutive Nodes from Linked List | Medium |
+| [1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Reverse Substrings Between Each Pair of Parentheses | Medium |
 | [1207](https://leetcode.com/problems/unique-number-of-occurrences/) | Unique Number of Occurences | Easy |
 | [1208](https://leetcode.com/problems/get-equal-substrings-within-budget/) | Get Equal Substrings Within Budget | Medium |
 | [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | Minimum Cost to Move Chips to The Same Position | Easy |
@@ -257,6 +259,7 @@
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Medium |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
+| [1598](https://leetcode.com/problems/crawler-log-folder/) | Crawler Log Folder | Easy |
 | [1606](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Find Server That Handled Most Number of Requests | Hard |
 | [1609](https://leetcode.com/problems/even-odd-tree/) | Even Odd Tree | Medium |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Minimum One Bit Operations to Make Integers Zero | Hard |
