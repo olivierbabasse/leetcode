@@ -21,6 +21,7 @@
 | [0041](https://leetcode.com/problems/first-missing-positive/) | First Missing Positive | Hard |
 | [0042](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard |
 | [0049](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium |
+| [0050](https://leetcode.com/problems/powx-n/) | Pow(x,n) | Medium |
 | [0056](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | Medium |
 | [0057](https://leetcode.com/problems/insert-interval/) | Insert Interval | Medium |
 | [0058](https://leetcode.com/problems/length-of-last-word/) | Length of Last Word | Easy |
@@ -90,6 +91,7 @@
 | [0349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | Easy |
 | [0350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II | Easy |
 | [0368](https://leetcode.com/problems/largest-divisible-subset/) | Largest Divisible Subset | Medium |
+| [0372](https://leetcode.com/problems/super-pow/) | Super Pow | Medium |
 | [0380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Insert Delete GetRandom O(1) | Medium |
 | [0381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Insert Delete GetRandom O(1) - Duplicates Allowed | Hard |
 | [0383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy |
@@ -279,6 +281,7 @@
 | [1701](https://leetcode.com/problems/average-waiting-time/) | Average Waiting Time | Medium |
 | [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | Determine if String Halves Are Alike | Easy |
 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Calculate Money in Leetcode Bank | Easy |
+| [1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | Maximum Score From Removing Substrings | Medium |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | Decode XORed Array | Easy |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Largest Submatrix With Rearrangements | Medium |
 | [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Restore the Array From Adjacent Pairs | Medium |
