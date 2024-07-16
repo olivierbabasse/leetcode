@@ -71,6 +71,7 @@
 | [0231](https://leetcode.com/problems/power-of-two/) | Power of Two | Easy |
 | [0232](https://leetcode.com/problems/implement-queue-using-stacks/) | Implement Queue using Stacks | Easy |
 | [0234](https://leetcode.com/problems/palindrome-linked-list/) | Palindrome Linked List | Easy |
+| [0236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Lowest Common Ancestor of a Binary Tree | Medium |
 | [0238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium |
 | [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
@@ -321,6 +322,7 @@
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | Find All People With Secret | Hard |
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Delete the Middle Node of a Linked List | Medium |
+| [2096](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Step-By6Step Directions From a Binary Tree Node to Another | Medium |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
 | [2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Find First Palindromic String in the Array | Easy |
 | [2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | Number of Smooth Descent Periods of a Stock | Medium |
@@ -333,6 +335,7 @@
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Medium |
 | [2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Merge Nodes in Between Zeros | Medium |
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Minimum Number of Steps to Make Two Strings Anagram II | Medium |
+| [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Create Binary Tree From Descriptions | Medium |
 | [2211](https://leetcode.com/problems/count-collisions-on-a-road/) | Count Collisions on a Road | Medium |
 | [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Find the Difference of Two Arrays | Easy |
 | [2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Minimum Bit Flips to Convert Number | Easy |

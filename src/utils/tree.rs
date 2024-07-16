@@ -2,11 +2,17 @@ use std::cell::RefCell;
 use std::collections::VecDeque;
 use std::rc::Rc;
 
-#[derive(PartialEq, Eq, Debug)]
+#[derive(Debug)]
 pub struct TreeNode<T> {
     pub val: T,
     pub left: Option<Rc<RefCell<TreeNode<T>>>>,
     pub right: Option<Rc<RefCell<TreeNode<T>>>>,
+}
+
+impl<T: PartialEq> PartialEq for TreeNode<T> {
+    fn eq(&self, other: &Self) -> bool {
+        self.val == other.val
+    }
 }
 
 impl<T: Copy> TreeNode<T> {
