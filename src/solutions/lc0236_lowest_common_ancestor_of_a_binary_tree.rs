@@ -15,10 +15,12 @@ impl Solution {
         p: Option<Rc<RefCell<TreeNode>>>,
         q: Option<Rc<RefCell<TreeNode>>>,
     ) -> Option<Rc<RefCell<TreeNode>>> {
-        dbg!((&root, &p, &q));
-        if root == p || root == q {
-            root
-        } else if let Some(node) = root {
+        if let Some(node) = root {
+            if node.borrow().val == p.as_ref().unwrap().borrow().val
+                || node.borrow().val == q.as_ref().unwrap().borrow().val
+            {
+                return Some(node);
+            }
             let left =
                 Self::lowest_common_ancestor(node.borrow().left.clone(), p.clone(), q.clone());
             let right =
@@ -59,8 +61,11 @@ mod tests {
                 ]),
                 TreeNode::from_vec(&[5]),
                 TreeNode::from_vec(&[1]),
-            ),
-            TreeNode::from_vec(&[3]),
+            )
+            .unwrap()
+            .borrow()
+            .val,
+            TreeNode::from_vec(&[3]).unwrap().borrow().val,
         );
         assert_eq!(
             Solution::lowest_common_ancestor(
@@ -79,8 +84,11 @@ mod tests {
                 ]),
                 TreeNode::from_vec(&[5]),
                 TreeNode::from_vec(&[4]),
-            ),
-            TreeNode::from_vec(&[5]),
+            )
+            .unwrap()
+            .borrow()
+            .val,
+            TreeNode::from_vec(&[5]).unwrap().borrow().val,
         );
     }
 }
