@@ -330,6 +330,7 @@ mod lc2149_rearrange_array_elements_by_sign;
 mod lc2161_partition_array_according_to_given_pivot;
 mod lc2181_merge_nodes_in_between_zeros;
 mod lc2186_minimum_number_of_steps_to_make_two_strings_anagram_ii;
+mod lc2191_sort_the_jumbled_numbers;
 mod lc2196_create_binary_tree_from_descriptions;
 mod lc2211_count_collisions_on_a_road;
 mod lc2215_find_the_difference_of_two_arrays;
