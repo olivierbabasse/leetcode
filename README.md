@@ -170,6 +170,7 @@
 | [0872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | Easy |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
 | [0907](https://leetcode.com/problems/sum-of-subarray-minimums/) | Sum of Subarray Minimums | Medium |
+| [0912](https://leetcode.com/problems/sort-an-array/) | Sort an Array | Medium |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
 | [0930](https://leetcode.com/problems/binary-subarrays-with-sum/) | Binary Subarrays With Sum | Easy |
 | [0931](https://leetcode.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | Medium |
@@ -220,6 +221,7 @@
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | Medium |
 | [1312](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard |
 | [1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | Delete Leaves With a Given Value | Medium |
+| [1334](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium |
 | [1335](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Minimum Difficulty of a Job Schedule | Hard |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
 | [1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Minimum Number of Steps to Make Two Strings Anagram | Medium |
