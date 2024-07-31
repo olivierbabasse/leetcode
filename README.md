@@ -193,6 +193,7 @@
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Number of Submatrices That Sum to Target | Hard |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
+| [1105](https://leetcode.com/problems/filling-bookcase-shelves/) | Filling Bookcase Shelves | Medium |
 | [1108](https://leetcode.com/problems/defanging-an-ip-address/) | Defanging an IP Address | Easy |
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | Delete Nodes And Return Forest | Medium |
 | [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium |

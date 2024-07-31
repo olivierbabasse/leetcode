@@ -187,6 +187,7 @@ mod lc1051_height_checker;
 mod lc1074_number_of_submatrices_that_sum_to_target;
 mod lc1080_insufficient_nodes_in_root_to_leaf_paths;
 mod lc1095_find_in_mountain_array;
+mod lc1105_filling_bookcase_shelves;
 mod lc1108_defanging_an_ip_address;
 mod lc1110_delete_nodes_and_return_forest;
 mod lc1111_maximum_nesting_depth_of_two_valid_parentheses_strings;
