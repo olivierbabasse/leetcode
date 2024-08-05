@@ -324,6 +324,7 @@
 | [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Maximum Difference Between Increasing Elements | Easy |
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Remove Colored Pieces if Both Neighbors are the Same Color | Medium |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
+| [2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Kth Distinct String in an Array | Easy |
 | [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Time Needed to Buy Tickets | Easy |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | Find All People With Secret | Hard |
@@ -335,6 +336,7 @@
 | [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | A Number After a Double Reversal | Easy |
 | [2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Number of Laser Beams in a Bank | Medium |
 | [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | Longest Palindrome by Concatening Two Letter Words | Medium |
+| [2134](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | Minimum Swaps to Group All 1's Together II | Medium |
 | [2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Earliest Possible Day of Full Bloom | Hard |
 | [2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Number of Ways to Divide a Long Corridor | Hard |
 | [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Rearrange Array Elements by Sign | Medium |
@@ -390,6 +392,7 @@
 | [2615](https://leetcode.com/problems/sum-of-distances/) | Sum of Distances | Medium |
 | [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Minimize the Maximum Difference of Pairs | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
+| [2678](https://leetcode.com/problems/number-of-senior-citizens/) | Number of Senior Citizens | Easy |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Easy |
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Greatest Common Divisor Traversal | Hard |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
