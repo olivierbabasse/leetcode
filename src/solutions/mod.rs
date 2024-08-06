@@ -407,5 +407,6 @@ mod lc2966_divide_array_into_arrays_with_max_difference;
 mod lc2971_find_polygon_with_the_largest_perimeter;
 mod lc2997_minimum_number_of_operations_to_make_array_xor_equal_to_k;
 mod lc3005_count_elements_with_maximum_frequency;
+mod lc3016_minimum_number_of_pushes_to_type_word_ii;
 mod lc3100_water_bottles_ii;
 mod lc3110_score_of_a_string;
