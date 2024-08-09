@@ -22,9 +22,11 @@
 | [0042](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard |
 | [0049](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium |
 | [0050](https://leetcode.com/problems/powx-n/) | Pow(x,n) | Medium |
+| [0054](https://leetcode.com/problems/spiral-matrix/) | Spiral Matrix | Medium |
 | [0056](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | Medium |
 | [0057](https://leetcode.com/problems/insert-interval/) | Insert Interval | Medium |
 | [0058](https://leetcode.com/problems/length-of-last-word/) | Length of Last Word | Easy |
+| [0059](https://leetcode.com/problems/spiral-matrix-ii/) | Spiral Matrix II | Medium |
 | [0062](https://leetcode.com/problems/unique-paths/) | Unique Paths | Medium |
 | [0063](https://leetcode.com/problems/unique-paths-ii/) | Unique Paths II | Medium |
 | [0064](https://leetcode.com/problems/minimum-path-sum/) | Minimum Path Sum | Medium |
@@ -162,6 +164,7 @@
 | [0815](https://leetcode.com/problems/bus-routes/) | Bus Routes | Hard |
 | [0823](https://leetcode.com/problems/binary-trees-with-factors/) | Binary Trees With Factors | Medium |
 | [0829](https://leetcode.com/problems/consecutive-numbers-sum/) | Consecutive Numbers Sum | Hard |
+| [0840](https://leetcode.com/problems/magic-squares-in-grid/) | Magic Squares In Grid | Medium |
 | [0844](https://leetcode.com/problems/backspace-string-compare/) | Backspace String Compare | Easy |
 | [0846](https://leetcode.com/problems/hand-of-straights/) | Hand of Straights | Medium |
 | [0852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Peak Index in a Mountain Array | Medium |
@@ -170,6 +173,7 @@
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
 | [0872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | Easy |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
+| [0885](https://leetcode.com/problems/spiral-matrix-iii/) | Spiral Matrix III | Medium |
 | [0907](https://leetcode.com/problems/sum-of-subarray-minimums/) | Sum of Subarray Minimums | Medium |
 | [0912](https://leetcode.com/problems/sort-an-array/) | Sort an Array | Medium |
 | [0917](https://leetcode.com/problems/reverse-only-letters/) | Reverse Only Letters | Easy |
@@ -360,6 +364,7 @@
 | [2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Count Subarrays With Score Less Than K | Hard |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Calculate Amount Paid in Taxes | Easy |
 | [2320](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Count Number of Ways to Place Houses | Medium |
+| [2326](https://leetcode.com/problems/spiral-matrix-iv/) | Spiral Matrix IV | Medium |
 | [2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | Evaluate Boolean Binary Tree | Easy |
 | [2349](https://leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Medium |
 | [2351](https://leetcode.com/problems/first-letter-to-appear-twice/) | First Letter to Appear Twice | Easy |
