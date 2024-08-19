@@ -132,6 +132,7 @@ mod lc0629_k_inverse_pairs_array;
 mod lc0645_set_mismatch;
 mod lc0646_maximum_length_of_pair_chain;
 mod lc0647_palindromic_substrings;
+mod lc0650_two_keys_keyboard;
 mod lc0661_image_smoother;
 mod lc0672_bulb_switcher_ii;
 mod lc0673_number_of_longest_increasing_subsequences;

@@ -138,6 +138,7 @@
 | [0645](https://leetcode.com/problems/set-mismatch/) | Set Mismatch | Easy |
 | [0646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Maximum Length of Pair Chain | Medium |
 | [0647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium |
+| [0650](https://leetcode.com/problems/2-keys-keyboard/) | 2 Keys Keyboard | Medium |
 | [0661](https://leetcode.com/problems/image-smoother/) | Image Smoother | Easy |
 | [0672](https://leetcode.com/problems/bulb-switcher-ii/) | Bulb Switcher II | Medium |
 | [0673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Number of Longest Increasing Subsequence | Medium |
