@@ -174,6 +174,7 @@
 | [0869](https://leetcode.com/problems/reordered-power-of-2/) | Reordered Power of 2 | Medium |
 | [0872](https://leetcode.com/problems/leaf-similar-trees/) | Leaf-Similar Trees | Easy |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/) | Middle of the Linked List | Easy |
+| [0877](https://leetcode.com/problems/stone-game/) | Stone Game | Medium |
 | [0885](https://leetcode.com/problems/spiral-matrix-iii/) | Spiral Matrix III | Medium |
 | [0907](https://leetcode.com/problems/sum-of-subarray-minimums/) | Sum of Subarray Minimums | Medium |
 | [0912](https://leetcode.com/problems/sort-an-array/) | Sort an Array | Medium |
@@ -204,6 +205,7 @@
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | Delete Nodes And Return Forest | Medium |
 | [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium |
 | [1137](https://leetcode.com/problems/n-th-tribonacci-number/) | N-th Tribonacci Number | Easy |
+| [1140](https://leetcode.com/problems/stone-game-ii/) | Stone Game II | Medium |
 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | Longest Common Subsequence | Medium |
 | [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Number of Dice Rolls With Target Sum | Medium |
 | [1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Find Words That Can Be Formed by Characters | Easy |
