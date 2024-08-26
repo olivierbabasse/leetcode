@@ -126,6 +126,7 @@ mod lc0543_diameter_of_binary_tree;
 mod lc0557_reverse_words_in_a_string_iii;
 mod lc0560_subarray_sum_equals_k;
 mod lc0576_out_of_boundary_paths;
+mod lc0592_fraction_addition_and_subtraction;
 mod lc0606_construct_string_from_binary_tree;
 mod lc0621_task_scheduler;
 mod lc0623_add_one_row_to_tree;
