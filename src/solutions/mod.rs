@@ -263,6 +263,7 @@ mod lc1502_can_make_arithmetic_progression_from_sequence;
 mod lc1503_last_moment_before_all_ants_fall_out_of_a_plank;
 mod lc1509_minimum_difference_between_largest_and_smallest_value_in_three_moves;
 mod lc1512_number_of_good_pairs;
+mod lc1514_path_with_maximum_probability;
 mod lc1518_water_bottles;
 mod lc1524_number_of_sub_arrays_with_odd_sum;
 mod lc1531_string_compression_ii;

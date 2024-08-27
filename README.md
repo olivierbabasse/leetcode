@@ -271,6 +271,7 @@
 | [1518](https://leetcode.com/problems/water-bottles/) | Water Bottles | Easy |
 | [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | Medium |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | Number of Good Pairs | Easy |
+| [1514](https://leetcode.com/problems/path-with-maximum-probability/) | Path with Maximum Probability | Medium |
 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | Medium |
 | [1531](https://leetcode.com/problems/string-compression-ii/) | String Compression II | Hard |
 | [1544](https://leetcode.com/problems/make-the-string-great/) | Make The String Great | Easy |
