@@ -172,6 +172,7 @@ mod lc0869_reordered_power_of_2;
 mod lc0872_leaf_similar_trees;
 mod lc0876_middle_of_the_linked_list;
 mod lc0877_stone_game;
+mod lc0884_uncommon_words_from_two_sentences;
 mod lc0885_spiral_matrix_iii;
 mod lc0907_sum_of_subarray_minimums;
 mod lc0912_sort_an_array;
