@@ -58,6 +58,7 @@
 | [0152](https://leetcode.com/problems/maximum-product-subarray/) | Maximum Product Subarray | Medium |
 | [0165](https://leetcode.com/problems/compare-version-numbers/) | Compare Version Numbers | Medium |
 | [0169](https://leetcode.com/problems/majority-element/) | Majority Element | Easy |
+| [0179](https://leetcode.com/problems/largest-number/) | Largest Number | Medium |
 | [0190](https://leetcode.com/problems/reverse-bits/) | Reverse Bits | Easy |
 | [0191](https://leetcode.com/problems/number-of-1-bits/) | Number of 1 Bits | Easy |
 | [0198](https://leetcode.com/problems/house-robber/) | House Robber | Medium |

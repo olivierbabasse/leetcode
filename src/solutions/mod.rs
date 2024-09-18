@@ -52,6 +52,7 @@ mod lc0150_evaluate_reverse_polish_notation;
 mod lc0152_maximum_product_subarray;
 mod lc0165_compare_version_numbers;
 mod lc0169_majority_element;
+mod lc0179_largest_number;
 mod lc0190_reverse_bits;
 mod lc0191_number_of_1_bits;
 mod lc0198_house_robber;
