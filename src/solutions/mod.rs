@@ -70,6 +70,7 @@ mod lc0232_implement_queue_using_stacks;
 mod lc0234_palindrome_linked_list;
 mod lc0236_lowest_common_ancestor_of_a_binary_tree;
 mod lc0238_product_of_array_except_self;
+mod lc0241_different_ways_to_add_parentheses;
 mod lc0242_valid_anagram;
 mod lc0260_single_number_iii;
 mod lc0268_missing_number;

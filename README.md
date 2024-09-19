@@ -76,6 +76,7 @@
 | [0234](https://leetcode.com/problems/palindrome-linked-list/) | Palindrome Linked List | Easy |
 | [0236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Lowest Common Ancestor of a Binary Tree | Medium |
 | [0238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium |
+| [0241](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Different Ways to Add Parentheses | Medium |
 | [0242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy |
 | [0260](https://leetcode.com/problems/single-number-iii/) | Single Number III | Medium |
 | [0268](https://leetcode.com/problems/missing-number/) | Missing number | Easy |
