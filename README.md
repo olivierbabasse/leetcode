@@ -67,6 +67,7 @@
 | [0203](https://leetcode.com/problems/remove-linked-list-elements/) | Remove Linked List Elements | Easy |
 | [0205](https://leetcode.com/problems/isomorphic-strings/) | Isomorphic Strings | Easy |
 | [0206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | Easy |
+| [0214](https://leetcode.com/problems/shortest-palindrome/) | Shortest Palindrome | Hard |
 | [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Element in an Array | Medium |
 | [0221](https://leetcode.com/problems/maximal-square/) | Maximal Square | Medium |
 | [0224](https://leetcode.com/problems/basic-calculator/) | Basic Calculator | Hard |

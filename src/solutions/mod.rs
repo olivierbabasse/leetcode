@@ -61,6 +61,7 @@ mod lc0201_bitwise_and_of_numbers_range;
 mod lc0203_remove_linked_list_elements;
 mod lc0205_isomorphic_strings;
 mod lc0206_reverse_linked_list;
+mod lc0214_shortest_palindrome;
 mod lc0215_kth_largest_element_in_an_array;
 mod lc0221_maximal_square;
 mod lc0224_basic_calculator;
