@@ -405,6 +405,7 @@ mod lc2642_convert_an_array_into_a_2d_array_with_conditions;
 mod lc2642_design_graph_with_shortest_path_calculator;
 mod lc2678_number_of_senior_citizens;
 mod lc2706_buy_two_chocolates;
+mod lc2707_extra_characters_in_a_string;
 mod lc2709_greatest_common_divisor_traversal;
 mod lc2731_movement_of_robots;
 mod lc2742_painting_the_walls;

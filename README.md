@@ -411,6 +411,7 @@
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | Number of Senior Citizens | Easy |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Easy |
+| [2707](https://leetcode.com/problems/extra-characters-in-a-string/) | Extra Characters in a String | Medium |
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Greatest Common Divisor Traversal | Hard |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
