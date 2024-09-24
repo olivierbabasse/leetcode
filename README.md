@@ -432,5 +432,6 @@
 | [2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Minimum Number of Operations to Make Array XOR Equal to K | Medium |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Count Elements With Maximum Frequency | Easy |
 | [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Minimum Number of Pushes to Type Word II | Medium |
+| [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Find the Length of the Longest Common Prefix | Medium |
 | [3100](https://leetcode.com/problems/water-bottles-ii/) | Water Bottles II | Medium |
 | [3110](https://leetcode.com/problems/score-of-a-string/) | Score of a String | Easy |
