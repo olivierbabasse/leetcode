@@ -383,6 +383,7 @@ mod lc2400_number_of_ways_to_reach_a_position_after_exactly_k_steps;
 mod lc2402_meeting_rooms_iii;
 mod lc2404_most_frequent_even_element;
 mod lc2405_optimal_partition_of_string;
+mod lc2416_sum_of_prefix_scores_of_strings;
 mod lc2433_find_the_original_array_of_prefix_xor;
 mod lc2441_largest_positive_integer_that_exists_with_its_negative;
 mod lc2444_count_subarrays_with_fixed_bounds;
