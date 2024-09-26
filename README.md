@@ -155,6 +155,7 @@
 | [0706](https://leetcode.com/problems/design-hashmap/) | Design HashMap | Easy |
 | [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
 | [0713](https://leetcode.com/problems/subarray-product-less-than-k/) | Subarray Product Less Than K | Medium |
+| [0729](https://leetcode.com/problems/my-calendar-i/) | My Calendar I | Medium |
 | [0732](https://leetcode.com/problems/my-calendar-iii/) | My Calendar III | Hard |
 | [0739](https://leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Medium |
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |

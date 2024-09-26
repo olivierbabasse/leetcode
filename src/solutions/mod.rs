@@ -149,6 +149,7 @@ mod lc0695_max_area_of_island;
 mod lc0706_design_hashmap;
 mod lc0712_minimum_ascii_delete_sum_for_two_strings;
 mod lc0713_subarray_product_less_than_k;
+mod lc0729_my_calendar_i;
 mod lc0732_my_calendar_iii;
 mod lc0739_daily_temperatures;
 mod lc0740_delete_and_earn;
