@@ -6,6 +6,8 @@ struct MyCalendarThree {
     bookings: BTreeMap<i32, i32>,
 }
 
+/// time-complexity : O(log(n))
+/// space-complexity : O(n)
 impl MyCalendarThree {
     fn new() -> Self {
         Self {

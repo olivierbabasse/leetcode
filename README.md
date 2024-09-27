@@ -18,6 +18,7 @@
 | [0021](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy |
 | [0034](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | Medium |
 | [0035](https://leetcode.com/problems/search-insert-position/) | Search Insert Position | Easy |
+| [0037](https://leetcode.com/problems/sudoku-solver/) | Sudoku Solver | Hard |
 | [0041](https://leetcode.com/problems/first-missing-positive/) | First Missing Positive | Hard |
 | [0042](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard |
 | [0049](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium |
@@ -156,6 +157,7 @@
 | [0712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Minimum ASCII Delete Sum for Two Strings | Medium |
 | [0713](https://leetcode.com/problems/subarray-product-less-than-k/) | Subarray Product Less Than K | Medium |
 | [0729](https://leetcode.com/problems/my-calendar-i/) | My Calendar I | Medium |
+| [0731](https://leetcode.com/problems/my-calendar-ii/) | My Calendar II | Medium |
 | [0732](https://leetcode.com/problems/my-calendar-iii/) | My Calendar III | Hard |
 | [0739](https://leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Medium |
 | [0740](https://leetcode.com/problems/delete-and-earn/) | Delete and Earn | Medium |
