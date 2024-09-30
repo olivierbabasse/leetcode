@@ -248,6 +248,7 @@
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort Integers by he Number of 1 Bits | Easy |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | Validate Binary Tree Nodes | Medium |
 | [1375](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | Number of Times Binary String Is Prefix-Aligned | Medium |
+| [1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Design a Stack With Increment Operation | Medium |
 | [1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Find Lucky Integer in an Array | Easy |
 | [1395](https://leetcode.com/problems/count-number-of-teams/) | Count Number of Teams | Medium |
 | [1402](https://leetcode.com/problems/reducing-dishes/) | Reducing Dishes | Hard |

@@ -242,6 +242,7 @@ mod lc1353_maximum_number_of_events_that_can_be_attended;
 mod lc1356_sort_integers_by_the_number_of_1_bits;
 mod lc1361_validate_binary_tree_nodes;
 mod lc1375_number_of_times_binary_string_is_prefix_aligned;
+mod lc1381_design_a_stack_with_increment_operation;
 mod lc1394_find_lucky_integer_in_an_array;
 mod lc1395_count_number_of_teams;
 mod lc1402_reducing_dishes;
