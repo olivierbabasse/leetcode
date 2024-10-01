@@ -273,6 +273,7 @@
 | [1480](https://leetcode.com/problems/running-sum-of-1d-array/) | Running Sum of 1d Array | Easy |
 | [1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | Least Number of Unique Integers after K Removals | Medium |
 | [1496](https://leetcode.com/problems/path-crossing/) | Path Crossing | Easy |
+| [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Check If Array Pairs Are Divisible by k | Medium |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Can Make Arithmetic Progression From Sequence | Easy |
 | [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | Medium |
 | [1509](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Minimum Difference Between Largest and Smallest Value in Three Moves | Medium |
