@@ -240,6 +240,7 @@
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | Medium |
 | [1312](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard |
 | [1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | Delete Leaves With a Given Value | Medium |
+| [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | Easy |
 | [1334](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium |
 | [1335](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Minimum Difficulty of a Job Schedule | Hard |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Number of Steps to Reduce a Number to Zero | Easy |
