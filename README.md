@@ -289,6 +289,7 @@
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Medium |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
+| [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | Make Sum Divisible by P | Medium |
 | [1598](https://leetcode.com/problems/crawler-log-folder/) | Crawler Log Folder | Easy |
 | [1606](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Find Server That Handled Most Number of Requests | Hard |
 | [1609](https://leetcode.com/problems/even-odd-tree/) | Even Odd Tree | Medium |
