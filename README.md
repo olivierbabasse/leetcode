@@ -406,6 +406,7 @@
 | [2485](https://leetcode.com/problems/find-the-pivot-integer/) | Find the Pivot Integer | Easy |
 | [2486](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | Append Characters to String to Make Subsequence | Medium |
 | [2487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Remove Nodes From Linked List | Medium |
+| [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | Medium |
 | [2540](https://leetcode.com/problems/minimum-common-value/) | Minimum Common Value | Easy |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
@@ -418,6 +419,7 @@
 | [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Minimize the Maximum Difference of Pairs | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | Number of Senior Citizens | Easy |
+| [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | Easy |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Easy |
 | [2707](https://leetcode.com/problems/extra-characters-in-a-string/) | Extra Characters in a String | Medium |
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Greatest Common Divisor Traversal | Hard |
