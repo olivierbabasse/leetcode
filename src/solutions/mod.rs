@@ -334,6 +334,7 @@ mod lc1915_number_of_wonderful_substrings;
 mod lc1921_eliminate_maximum_number_of_monsters;
 mod lc1930_unique_length_3_palindromic_subsequences;
 mod lc1945_sum_of_digits_of_string_after_convert;
+mod lc1963_minimum_number_of_swaps_to_make_the_string_balanced;
 mod lc1980_find_unique_binary_string;
 mod lc1992_find_all_groups_of_farmland;
 mod lc2001_number_of_pairs_of_interchangeable_rectangles;

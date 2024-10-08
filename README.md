@@ -340,6 +340,7 @@
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Eliminate Maximum Number of Monsters | Medium |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | Unique Length-3 Palindromic Subsequences | Medium |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | Easy |
+| [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Minimum Number of Swaps to Make the String Balanced | Medium |
 | [1980](https://leetcode.com/problems/find-unique-binary-string/) | Find Unique Binary String | Medium |
 | [1992](https://leetcode.com/problems/find-all-groups-of-farmland/) | Find All Groups of Farmland | Medium |
 | [2001](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | Number of Pairs of Interchangeable Rectangles | Medium |
