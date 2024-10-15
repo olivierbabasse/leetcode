@@ -439,6 +439,7 @@
 | [2864](https://leetcode.com/problems/maximum-odd-binary-number/) | Maximum Odd Binary Number | Easy |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
 | [2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Minimum Number of Operations to Make Array Empty | Medium |
+| [2938](https://leetcode.com/problems/separate-black-and-white-balls/) | Separate Black and White Balls | Medium |
 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Length of Longest Subarray With at Most K Frequency | Medium |
 | [2962](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Count Subarrays Where Max Element Appears at Least K Times | Medium |
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Divide Array Into Arrays With Max Difference | Medium |
