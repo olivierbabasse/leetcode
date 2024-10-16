@@ -256,6 +256,7 @@
 | [1395](https://leetcode.com/problems/count-number-of-teams/) | Count Number of Teams | Medium |
 | [1402](https://leetcode.com/problems/reducing-dishes/) | Reducing Dishes | Hard |
 | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Number of Steps to Reduce a Number in Binary Representation to One | Medium |
+| [1405](https://leetcode.com/problems/longest-happy-string/) | Longest Happy String | Medium |
 | [1409](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | Queries on a Permutation With Key | Medium |
 | [1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Build Array Where You Can Find The Maximum Exactly K Comparisons | Hard |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Maximum Score After Splitting a String | Easy |

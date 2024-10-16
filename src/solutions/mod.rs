@@ -250,6 +250,7 @@ mod lc1394_find_lucky_integer_in_an_array;
 mod lc1395_count_number_of_teams;
 mod lc1402_reducing_dishes;
 mod lc1404_number_of_steps_to_reduce_a_number_in_binary_representation_to_one;
+mod lc1405_longest_happy_string;
 mod lc1409_queries_on_a_permutation_with_key;
 mod lc1420_build_array_where_you_can_find_the_maximum_exactly_k_comparisons;
 mod lc1422_maximum_score_after_splitting_a_string;
