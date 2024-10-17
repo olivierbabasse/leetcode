@@ -141,6 +141,7 @@ mod lc0647_palindromic_substrings;
 mod lc0650_two_keys_keyboard;
 mod lc0661_image_smoother;
 mod lc0664_strange_printer;
+mod lc0670_maximum_swap;
 mod lc0672_bulb_switcher_ii;
 mod lc0673_number_of_longest_increasing_subsequences;
 mod lc0674_longest_continuous_increasing_subsequence;

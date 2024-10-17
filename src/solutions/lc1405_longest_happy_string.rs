@@ -46,10 +46,10 @@ mod tests {
 
     #[test]
     fn test_cases() {
-        /*assert_eq!(
+        assert_eq!(
             Solution::longest_diverse_string(1, 1, 7),
             "ccbccacc".to_string()
-        );*/
+        );
         assert_eq!(
             Solution::longest_diverse_string(7, 1, 0),
             "aabaa".to_string()
