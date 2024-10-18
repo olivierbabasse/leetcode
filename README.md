@@ -353,6 +353,7 @@
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Remove Colored Pieces if Both Neighbors are the Same Color | Medium |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
 | [2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Kth Distinct String in an Array | Easy |
+| [2070](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Count Number of Maximum Bitwise-OR Subsets | Medium |
 | [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Time Needed to Buy Tickets | Easy |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | Find All People With Secret | Hard |

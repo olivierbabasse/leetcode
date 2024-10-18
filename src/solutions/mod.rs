@@ -347,6 +347,7 @@ mod lc2016_maximum_difference_between_increasing_elements;
 mod lc2038_remove_colored_pieces_if_both_neighbors_are_the_same_color;
 mod lc2050_parallel_courses_iii;
 mod lc2053_kth_distinct_string_in_a_array;
+mod lc2070_count_number_of_maximum_bitwise_or_subsets;
 mod lc2073_time_needed_to_buy_tickets;
 mod lc2087_minimum_cost_homecoming_of_a_robot_in_a_grid;
 mod lc2092_find_all_people_with_secret;
