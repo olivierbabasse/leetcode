@@ -288,6 +288,7 @@ mod lc1561_maximum_number_of_coins_you_can_get;
 mod lc1578_minimum_time_to_make_rope_colorful;
 mod lc1582_special_positions_in_a_binary_matrix;
 mod lc1590_make_sum_divisible_by_p;
+mod lc1593_split_a_string_into_the_max_number_of_unique_substrings;
 mod lc1598_crawler_log_folder;
 mod lc1606_find_servers_that_handled_most_number_of_requests;
 mod lc1609_even_odd_tree;
