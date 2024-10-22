@@ -416,6 +416,7 @@ mod lc2549_count_distinct_numbers_on_board;
 mod lc2578_split_with_minimum_sum;
 mod lc2580_count_ways_to_group_overlapping_ranges;
 mod lc2582_pass_the_pillow;
+mod lc2583_kth_largest_sum_in_a_binary_tree;
 mod lc2615_sum_of_distances;
 mod lc2616_minimize_the_maximum_difference_in_pairs;
 mod lc2642_convert_an_array_into_a_2d_array_with_conditions;
