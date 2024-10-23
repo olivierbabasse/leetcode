@@ -419,6 +419,7 @@ mod lc2582_pass_the_pillow;
 mod lc2583_kth_largest_sum_in_a_binary_tree;
 mod lc2615_sum_of_distances;
 mod lc2616_minimize_the_maximum_difference_in_pairs;
+mod lc2641_cousins_in_binary_tree_ii;
 mod lc2642_convert_an_array_into_a_2d_array_with_conditions;
 mod lc2642_design_graph_with_shortest_path_calculator;
 mod lc2678_number_of_senior_citizens;

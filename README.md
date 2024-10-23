@@ -426,6 +426,7 @@
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Convert an Array Into a 2D Array With Conditions | Medium |
 | [2615](https://leetcode.com/problems/sum-of-distances/) | Sum of Distances | Medium |
 | [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Minimize the Maximum Difference of Pairs | Medium |
+| [2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Cousins in Binary Tree II | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | Number of Senior Citizens | Easy |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | Easy |
