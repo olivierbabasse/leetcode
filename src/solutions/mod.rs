@@ -191,6 +191,7 @@ mod lc0935_knight_dialer;
 mod lc0938_range_sum_of_bst;
 mod lc0948_bag_of_tokens;
 mod lc0950_reveal_cards_in_increasing_order;
+mod lc0951_flip_equivalent_binary_trees;
 mod lc0962_maximum_width_ramp;
 mod lc0976_largest_perimeter_triangle;
 mod lc0977_squares_of_a_sorted_array;

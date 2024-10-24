@@ -197,6 +197,7 @@
 | [0938](https://leetcode.com/problems/range-sum-of-bst/) | Range Sum of BST | Easy |
 | [0948](https://leetcode.com/problems/bag-of-tokens/) | Bag of Tokens | Medium |
 | [0950](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | Reveal Cards In Increasing Order | Medium |
+| [0951](https://leetcode.com/problems/flip-equivalent-binary-trees/) | Flip Equivalent Binary Trees | Medium |
 | [0962](https://leetcode.com/problems/maximum-width-ramp/) | Maximum Width Ramp | Medium |
 | [0976](https://leetcode.com/problems/largest-perimeter-triangle/) | Largest Perimeter Triangle | Easy |
 | [0977](https://leetcode.com/problems/squares-of-a-sorted-array/) | Squares of a Sorted Array | Easy |
