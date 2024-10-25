@@ -231,6 +231,7 @@
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | Longest Arithmetic Subsequence of Given Difference | Medium |
 | [1219](https://leetcode.com/problems/path-with-maximum-gold/) | Path With Maximum Gold | Medium |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | Count Vowels Permutation | Hard |
+| [1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | Remove Sub-Folders from the Filesystem |
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | Hard |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Maximum Length of a Concatenated String with Unique Characters | Medium |
 | [1255](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | Maximum Score Words Formed by Letters | Hard |
