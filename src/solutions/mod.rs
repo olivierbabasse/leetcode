@@ -410,6 +410,7 @@ mod lc2485_find_the_pivot_integer;
 mod lc2486_append_characters_to_string_to_make_subsequence;
 mod lc2487_remove_nodes_from_linked_list;
 mod lc2491_divide_players_into_teams_of_equal_skill;
+mod lc2501_longest_square_streak_in_an_array;
 mod lc2530_maximal_score_after_applying_k_operations;
 mod lc2540_minimum_common_value;
 mod lc2543_check_if_point_is_reachable;
