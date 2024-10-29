@@ -432,6 +432,7 @@
 | [2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Cousins in Binary Tree II | Medium |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Design Graph With Shortest Path Calculator | Hard |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | Number of Senior Citizens | Easy |
+| [2684](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | Maximum Number of Moves in a Grid | Medium |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | Easy |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | Buy Two Chocolates | Easy |
 | [2707](https://leetcode.com/problems/extra-characters-in-a-string/) | Extra Characters in a String | Medium |
