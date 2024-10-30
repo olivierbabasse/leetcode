@@ -304,6 +304,7 @@ mod lc1653_minimum_deletions_to_make_string_balanced;
 mod lc1657_determine_if_two_strings_are_close;
 mod lc1662_check_if_two_string_arrays_are_equivalent;
 mod lc1669_merge_in_between_linked_lists;
+mod lc1671_minimum_number_of_removals_to_make_mountain_array;
 mod lc1672_richest_customer_wealth;
 mod lc1685_sum_of_absolute_differences_in_a_sorted_array;
 mod lc1688_count_of_matches_in_tournament;

@@ -310,6 +310,7 @@
 | [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Determine if Two Strings Are Close | Medium |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
 | [1669](https://leetcode.com/problems/merge-in-between-linked-lists/) | Merge In Between Linked Lists | Medium |
+| [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Minimum Number of Removals to Make Mountain Array | Hard |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | Richest Customer Wealth | Easy |
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Sum of Absolute Differences in a Sorted Array | Medium |
 | [1688](https://leetcode.com/problems/count-of-matches-in-tournament/) | Count of Matches in Tournament | Easy |
