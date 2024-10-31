@@ -405,6 +405,7 @@ mod lc2433_find_the_original_array_of_prefix_xor;
 mod lc2441_largest_positive_integer_that_exists_with_its_negative;
 mod lc2444_count_subarrays_with_fixed_bounds;
 mod lc2446_determine_if_two_events_have_conflict;
+mod lc2463_minimum_total_distance_traveled;
 mod lc2482_difference_between_ones_and_zeros_in_row_and_column;
 mod lc2484_count_palindromic_subsequences;
 mod lc2485_find_the_pivot_integer;
