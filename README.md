@@ -114,6 +114,7 @@
 | [0413](https://leetcode.com/problems/arithmetic-slices/) | Arithmetic Slices | Medium |
 | [0436](https://leetcode.com/problems/island-perimeter/) | Island Perimeter | Easy |
 | [0442](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Find All Duplicates in an Array | Medium |
+| [0443](https://leetcode.com/problems/string-compression/) | String Compression | Medium |
 | [0435](https://leetcode.com/problems/non-overlapping-intervals/) | Non-overlapping Intervals | Medium |
 | [0446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | Arithmetic Slices II - Subsequence | Hard |
 | [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | Easy |
@@ -462,3 +463,4 @@
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Find the Length of the Longest Common Prefix | Medium |
 | [3100](https://leetcode.com/problems/water-bottles-ii/) | Water Bottles II | Medium |
 | [3110](https://leetcode.com/problems/score-of-a-string/) | Score of a String | Easy |
+| [3163](https://leetcode.com/problems/string-compression-iii/) | String Compression III | Medium |
