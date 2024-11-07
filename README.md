@@ -390,6 +390,7 @@
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | Easy |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
+| [2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Largest Combination With Bitwise AND Greater Than Zero | Medium |
 | [2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Count Subarrays With Score Less Than K | Hard |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Calculate Amount Paid in Taxes | Easy |
 | [2320](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Count Number of Ways to Place Houses | Medium |
@@ -460,6 +461,7 @@
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | Find Polygon With the Largest Perimeter | Medium |
 | [2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Minimum Number of Operations to Make Array XOR Equal to K | Medium |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Count Elements With Maximum Frequency | Easy |
+| [3011](https://leetcode.com/problems/find-if-array-can-be-sorted/) | Find if Array Can Be Sorted | Medium |
 | [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Minimum Number of Pushes to Type Word II | Medium |
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Find the Length of the Longest Common Prefix | Medium |
 | [3100](https://leetcode.com/problems/water-bottles-ii/) | Water Bottles II | Medium |
