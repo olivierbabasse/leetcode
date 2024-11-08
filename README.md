@@ -335,6 +335,7 @@
 | [1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Count Nice Pairs in an Array | Medium |
 | [1823](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Find the Winner of the Circular Game | Medium |
 | [1828](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | Queries on Number of Points Inside a Circle | Medium |
+| [1829](https://leetcode.com/problems/maximum-xor-for-each-query/) | Maximum XOR for Each Query | Medium |
 | [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Frequency of the Most Frequent Element | Medium |
 | [1845](https://leetcode.com/problems/seat-reservation-manager/) | Seat Reservation Manager | Medium |
 | [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Maximum Element After Decreasing and Rearranging | Medium |
