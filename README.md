@@ -360,6 +360,7 @@
 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Count Number of Maximum Bitwise-OR Subsets | Medium |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | Parallel Courses III | Hard |
 | [2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Kth Distinct String in an Array | Easy |
+| [2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | Minimized Maximum of Products Distributed to Any Store | Medium |
 | [2070](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Most Beautiful Item for Each Query | Medium |
 | [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Time Needed to Buy Tickets | Easy |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
@@ -428,6 +429,7 @@
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Count Distinct Numbers on Board | Easy |
+| [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Count the Number of Fair Pairs | Medium |
 | [2578](https://leetcode.com/problems/split-with-minimum-sum/) | Split With Minimum Sum | Easy |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
 | [2582](https://leetcode.com/problems/pass-the-pillow/) | Pass the Pillow | Easy |
@@ -451,6 +453,7 @@
 | [2810](https://leetcode.com/problems/faulty-keyboard/) | Faulty Keyboard | Easy |
 | [2812](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Find the Safest Path in a Grid | Medium |
 | [2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Double a Number Represented as a Linked List | Medium |
+| [2824](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Count Pairs Whose Sum is Less than Target | Easy |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Medium |
 | [2864](https://leetcode.com/problems/maximum-odd-binary-number/) | Maximum Odd Binary Number | Easy |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
