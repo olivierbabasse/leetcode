@@ -294,6 +294,7 @@
 | [1544](https://leetcode.com/problems/make-the-string-great/) | Make The String Great | Easy |
 | [1550](https://leetcode.com/problems/three-consecutive-odds/) | Three Consecutive Odds | Easy |
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | Medium |
+| [1574](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | Shortest Subarray to be Removed to Make Array Sorted | Medium |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Minimum Time to Make Rope Colorful | Medium |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Special Positions in a Binary Matrix | Easy |
 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | Make Sum Divisible by P | Medium |
@@ -307,6 +308,7 @@
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | Arithmetic Subarrays | Medium |
 | [1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Widest Vertical Area Between Two Points Containing No Points | Medium |
 | [1642](https://leetcode.com/problems/furthest-building-you-can-reach/) | Furthest Building You Can Reach | Medium |
+| [1652](https://leetcode.com/problems/defuse-the-bomb/) | Defuse the Bomb | Easy |
 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | Minimum Deletions to Make String Balanced | Medium |
 | [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Determine if Two Strings Are Close | Medium |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Check If Two String Arrays are Equivalent | Easy |
