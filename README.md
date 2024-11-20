@@ -427,6 +427,7 @@
 | [2487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Remove Nodes From Linked List | Medium |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | Medium |
 | [2501](https://leetcode.com/problems/longest-square-streak-in-an-array/) | Longest Square Streak in an Array | Medium |
+| [2516](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | Take K of Each Character From Left and Right | Medium |
 | [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Maximal Score After Applying K Operations | Medium |
 | [2540](https://leetcode.com/problems/minimum-common-value/) | Minimum Common Value | Easy |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
