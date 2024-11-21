@@ -387,6 +387,7 @@ mod lc2236_root_equals_sum_of_children;
 mod lc2244_minimum_rounds_to_complete_all_tasks;
 mod lc2248_intersection_of_multiple_arrays;
 mod lc2251_number_of_flowers_in_full_bloom;
+mod lc2257_count_unguarded_cells_in_the_grid;
 mod lc2264_largest_3_same_digit_number_in_string;
 mod lc2265_count_nodes_equal_to_average_of_subtree;
 mod lc2275_largest_combination_with_bitwise_and_greater_than_zero;

@@ -393,6 +393,7 @@
 | [2244](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | Minimum Rounds to Complete All Tasks | Medium |
 | [2248](https://leetcode.com/problems/intersection-of-multiple-arrays/) | Intersection of Multiple Arrays | Easy |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | Number of Flowers in Full Bloom | Hard |
+| [2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | Count Unguarded Cells in the Grid | Medium |
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | Easy |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
 | [2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Largest Combination With Bitwise AND Greater Than Zero | Medium |
