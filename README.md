@@ -212,6 +212,7 @@
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Maximum Difference Between Node and Ancestor | Medium |
 | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Partition Array for Maximum Sum | Medium |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
+| [1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | Flip Columns for Maxiumum Number of Equal Rows | Medium |
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Number of Submatrices That Sum to Target | Hard |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | Insufficient Nodes in Root to Leaf Paths | Medium |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | Find in Mountain Array | Hard |
