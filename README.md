@@ -166,6 +166,7 @@
 | [0741](https://leetcode.com/problems/cherry-pickup/) | Cherry Pickup | Hard |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
 | [0765](https://leetcode.com/problems/couples-holding-hands/) | Couple Holding Hands | Hard |
+| [0773](https://leetcode.com/problems/sliding-puzzle/) | Sliding Puzzle | Hard |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
 | [0780](https://leetcode.com/problems/reaching-points/) | Reaching Points | Hard |
 | [0787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | Medium |

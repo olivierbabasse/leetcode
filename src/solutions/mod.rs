@@ -160,6 +160,7 @@ mod lc0740_delete_and_earn;
 mod lc0741_cherry_pickup;
 mod lc0746_min_cost_climbing_stairs;
 mod lc0765_couple_holding_hands;
+mod lc0773_sliding_puzzle;
 mod lc0779_k_th_symbol_in_grammar;
 mod lc0780_reaching_points;
 mod lc0787_cheapest_flights_within_k_stops;
