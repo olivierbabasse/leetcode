@@ -466,6 +466,8 @@
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |
 | [2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | Minimum Number of Operations to Make Array Empty | Medium |
 | [2914](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Minimum Number of Changes to Make Binary String Beautiful | Medium |
+| [2923](https://leetcode.com/problems/find-champion-i/) | Find Champion I | Easy |
+| [2924](https://leetcode.com/problems/find-champion-ii/) | Find Champion II | Medium |
 | [2938](https://leetcode.com/problems/separate-black-and-white-balls/) | Separate Black and White Balls | Medium |
 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Length of Longest Subarray With at Most K Frequency | Medium |
 | [2962](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Count Subarrays Where Max Element Appears at Least K Times | Medium |
