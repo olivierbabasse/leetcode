@@ -244,6 +244,7 @@
 | [1284](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Minimum Number of Flips to Convert Binary Matrix to Zero Matrix | Hard |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Element Appearing More Than 25% In Sorted Array | Easy |
 | [1291](https://leetcode.com/problems/sequential-digits/) | Sequential Digits | Medium |
+| [1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Shortest Path in a Grid with Obstacles Elimination | Hard |
 | [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | Divide Array in Sets of K Consecutive Numbers | Medium |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | Deepest Leaves Sum | Medium |
 | [1312](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Minimum Insertion Steps to Make a String Palindrome | Hard |
@@ -399,6 +400,7 @@
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Largest 3-Same-Digit Number in String | Easy |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Count Nodes Equal to Average of Subtree | Medium |
 | [2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | Largest Combination With Bitwise AND Greater Than Zero | Medium |
+| [2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | Minimum Obstacle Removal to Reach Corner | Hard |
 | [2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | Count Subarrays With Score Less Than K | Hard |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | Calculate Amount Paid in Taxes | Easy |
 | [2320](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Count Number of Ways to Place Houses | Medium |
