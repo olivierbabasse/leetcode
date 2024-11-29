@@ -439,6 +439,7 @@
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Count Distinct Numbers on Board | Easy |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Count the Number of Fair Pairs | Medium |
+| [2577](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | Minimum Time to Visit a Cell In a Grid | Hard |
 | [2578](https://leetcode.com/problems/split-with-minimum-sum/) | Split With Minimum Sum | Easy |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
 | [2582](https://leetcode.com/problems/pass-the-pillow/) | Pass the Pillow | Easy |

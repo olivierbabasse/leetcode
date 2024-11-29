@@ -433,6 +433,7 @@ mod lc2543_check_if_point_is_reachable;
 mod lc2546_apply_bitwise_operations_to_make_strings_equal;
 mod lc2549_count_distinct_numbers_on_board;
 mod lc2563_count_the_number_of_fair_pairs;
+mod lc2577_minimum_time_to_visit_a_cell_in_a_grid;
 mod lc2578_split_with_minimum_sum;
 mod lc2580_count_ways_to_group_overlapping_ranges;
 mod lc2582_pass_the_pillow;
