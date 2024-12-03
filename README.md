@@ -374,6 +374,7 @@
 | [2096](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Step-By6Step Directions From a Binary Tree Node to Another | Medium |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | Find Subsequence of Length K With the Largest Sum | Easy |
 | [2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Find First Palindromic String in the Array | Easy |
+| [2109](https://leetcode.com/problems/adding-spaces-to-a-string/) | Adding Spaces to a String | Medium |
 | [2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | Number of Smooth Descent Periods of a Stock | Medium |
 | [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | A Number After a Double Reversal | Easy |
 | [2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Number of Laser Beams in a Bank | Medium |
