@@ -465,6 +465,7 @@
 | [2812](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Find the Safest Path in a Grid | Medium |
 | [2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Double a Number Represented as a Linked List | Medium |
 | [2824](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Count Pairs Whose Sum is Less than Target | Easy |
+| [2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | Make String a Subsequence Using Cyclic Increments | Medium |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Determine if a Cell Is Reachable at a Given Time | Medium |
 | [2864](https://leetcode.com/problems/maximum-odd-binary-number/) | Maximum Odd Binary Number | Easy |
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | Minimum Operations to Collect Elements | Easy |

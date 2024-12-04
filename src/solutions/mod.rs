@@ -459,6 +459,7 @@ mod lc2810_faulty_keyboard;
 mod lc2812_find_the_safest_path_in_a_grid;
 mod lc2816_double_a_number_represented_as_a_linked_list;
 mod lc2824_count_pairs_whose_sum_is_less_than_target;
+mod lc2825_make_string_a_subsequence_using_cyclic_increments;
 mod lc2849_determine_if_a_cell_is_reachable_at_a_given_time;
 mod lc2864_maximum_odd_binary_number;
 mod lc2869_minimum_operations_to_collect_elements;
