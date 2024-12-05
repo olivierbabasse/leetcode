@@ -167,6 +167,7 @@
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
 | [0765](https://leetcode.com/problems/couples-holding-hands/) | Couple Holding Hands | Hard |
 | [0773](https://leetcode.com/problems/sliding-puzzle/) | Sliding Puzzle | Hard |
+| [0777](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | Swap Adjacent in LR String | Medium |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
 | [0780](https://leetcode.com/problems/reaching-points/) | Reaching Points | Hard |
 | [0787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | Medium |
@@ -407,6 +408,7 @@
 | [2320](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | Count Number of Ways to Place Houses | Medium |
 | [2326](https://leetcode.com/problems/spiral-matrix-iv/) | Spiral Matrix IV | Medium |
 | [2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | Evaluate Boolean Binary Tree | Easy |
+| [2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | Move Pieces to Obtain a String | Medium |
 | [2349](https://leetcode.com/problems/design-a-number-container-system/) | Design a Number Container System | Medium |
 | [2351](https://leetcode.com/problems/first-letter-to-appear-twice/) | First Letter to Appear Twice | Easy |
 | [2353](https://leetcode.com/problems/design-a-food-rating-system/) | Design a Food Rating System | Medium |
