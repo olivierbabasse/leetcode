@@ -441,6 +441,7 @@
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | Check if Point Is Reachable | Hard |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | Apply Bitwise Operations to Make Strings Equal | Medium |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | Count Distinct Numbers on Board | Easy |
+| [2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | Maximum Number of Integers to Choose From a Range I | Medium |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | Count the Number of Fair Pairs | Medium |
 | [2577](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | Minimum Time to Visit a Cell In a Grid | Hard |
 | [2578](https://leetcode.com/problems/split-with-minimum-sum/) | Split With Minimum Sum | Easy |
