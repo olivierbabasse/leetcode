@@ -488,5 +488,6 @@
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Find the Length of the Longest Common Prefix | Medium |
 | [3100](https://leetcode.com/problems/water-bottles-ii/) | Water Bottles II | Medium |
 | [3110](https://leetcode.com/problems/score-of-a-string/) | Score of a String | Easy |
+| [3152](https://leetcode.com/problems/special-array-ii/) | Special Array II | Medium |
 | [3163](https://leetcode.com/problems/string-compression-iii/) | String Compression III | Medium |
 | [3243](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | Shortest Distance After Road Addition Queries I | Medium |

@@ -482,5 +482,6 @@ mod lc3016_minimum_number_of_pushes_to_type_word_ii;
 mod lc3043_find_the_length_of_the_longest_common_prefix;
 mod lc3100_water_bottles_ii;
 mod lc3110_score_of_a_string;
+mod lc3152_special_array_ii;
 mod lc3163_string_compression_iii;
 mod lc3243_shortest_distance_after_road_addition_queries_i;
