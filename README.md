@@ -481,6 +481,7 @@
 | [2962](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | Count Subarrays Where Max Element Appears at Least K Times | Medium |
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Divide Array Into Arrays With Max Difference | Medium |
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | Find Polygon With the Largest Perimeter | Medium |
+| [2981](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | Find Longest Special Substring That Occurs Thrice I | Medium |
 | [2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Minimum Number of Operations to Make Array XOR Equal to K | Medium |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Count Elements With Maximum Frequency | Easy |
 | [3011](https://leetcode.com/problems/find-if-array-can-be-sorted/) | Find if Array Can Be Sorted | Medium |
