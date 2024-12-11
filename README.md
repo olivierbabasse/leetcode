@@ -462,6 +462,7 @@
 | [2731](https://leetcode.com/problems/movement-of-robots/) | Movement of Robots | Medium |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | Painting the walls | Hard |
 | [2750](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | Ways to Split Array Into Good Subarrays | Medium |
+| [2779](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | Maximum Beauty of an Array After Applying Operation | Medium |
 | [2785](https://leetcode.com/problems/sort-vowels-in-a-string/) | Sort Vowels in a String | Medium |
 | [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Insert Greatest Common Divisors in Linked List | Medium |
 | [2810](https://leetcode.com/problems/faulty-keyboard/) | Faulty Keyboard | Easy |

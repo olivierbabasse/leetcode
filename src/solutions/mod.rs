@@ -456,6 +456,7 @@ mod lc2709_greatest_common_divisor_traversal;
 mod lc2731_movement_of_robots;
 mod lc2742_painting_the_walls;
 mod lc2750_ways_to_split_array_into_good_subarrays;
+mod lc2779_maximum_beauty_of_an_array_after_applying_operation;
 mod lc2785_sort_vowels_in_a_string;
 mod lc2807_insert_greatest_common_divisors_in_linked_list;
 mod lc2810_faulty_keyboard;
