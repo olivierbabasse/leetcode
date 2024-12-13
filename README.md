@@ -449,6 +449,7 @@
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | Count Ways to Group Overlapping Ranges | Medium |
 | [2582](https://leetcode.com/problems/pass-the-pillow/) | Pass the Pillow | Easy |
 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Kth Largest Sum in a Binary Tree | Medium |
+| [2593](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | Find Score of an Array After Marking All Elements | Medium |
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Convert an Array Into a 2D Array With Conditions | Medium |
 | [2615](https://leetcode.com/problems/sum-of-distances/) | Sum of Distances | Medium |
 | [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Minimize the Maximum Difference of Pairs | Medium |
