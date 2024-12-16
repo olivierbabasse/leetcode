@@ -489,3 +489,4 @@ mod lc3110_score_of_a_string;
 mod lc3152_special_array_ii;
 mod lc3163_string_compression_iii;
 mod lc3243_shortest_distance_after_road_addition_queries_i;
+mod lc3264_final_array_state_after_k_multiplication_operations_i;

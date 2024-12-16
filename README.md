@@ -495,3 +495,4 @@
 | [3152](https://leetcode.com/problems/special-array-ii/) | Special Array II | Medium |
 | [3163](https://leetcode.com/problems/string-compression-iii/) | String Compression III | Medium |
 | [3243](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | Shortest Distance After Road Addition Queries I | Medium |
+| [3264](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | Final Array State After K Multiplication Operations I | Easy |
