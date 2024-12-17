@@ -380,6 +380,7 @@ mod lc2147_number_of_ways_to_divide_a_long_corridor;
 mod lc2149_rearrange_array_elements_by_sign;
 mod lc2161_partition_array_according_to_given_pivot;
 mod lc2181_merge_nodes_in_between_zeros;
+mod lc2182_construct_string_with_repeat_limit;
 mod lc2186_minimum_number_of_steps_to_make_two_strings_anagram_ii;
 mod lc2191_sort_the_jumbled_numbers;
 mod lc2196_create_binary_tree_from_descriptions;

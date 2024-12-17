@@ -386,6 +386,7 @@
 | [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Rearrange Array Elements by Sign | Medium |
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Partition Array According to Given Pivot | Medium |
 | [2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | Merge Nodes in Between Zeros | Medium |
+| [2182](https://leetcode.com/problems/construct-string-with-repeat-limit/) | Construct String With Repeat Limit | Medium |
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Minimum Number of Steps to Make Two Strings Anagram II | Medium |
 | [2191](https://leetcode.com/problems/sort-the-jumbled-numbers/) | Sort the Jumbled Numbers | Medium |
 | [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | Create Binary Tree From Descriptions | Medium |
