@@ -370,6 +370,7 @@
 | [2070](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | Most Beautiful Item for Each Query | Medium |
 | [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Time Needed to Buy Tickets | Easy |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Minimum Cost Homecoming of a Robot in a Grid | Medium |
+| [2089](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Find Target Indices After Sorting Array | Easy |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | Find All People With Secret | Hard |
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Delete the Middle Node of a Linked List | Medium |
 | [2096](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | Step-By6Step Directions From a Binary Tree Node to Another | Medium |
