@@ -166,6 +166,7 @@
 | [0741](https://leetcode.com/problems/cherry-pickup/) | Cherry Pickup | Hard |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy |
 | [0765](https://leetcode.com/problems/couples-holding-hands/) | Couple Holding Hands | Hard |
+| [0769](https://leetcode.com/problems/max-chunks-to-make-sorted/) | Max Chunks To Make Sorted | Medium |
 | [0773](https://leetcode.com/problems/sliding-puzzle/) | Sliding Puzzle | Hard |
 | [0777](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | Swap Adjacent in LR String | Medium |
 | [0779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | Medium |
@@ -423,6 +424,7 @@
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | Meeting Rooms III | Hard |
 | [2405](https://leetcode.com/problems/optimal-partition-of-string/) | Optimal Partition of String | Medium |
 | [2404](https://leetcode.com/problems/most-frequent-even-element/) | Most Frequent Even Element | Easy |
+| [2415](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | Reverse Odd Levels of Binary Tree | Medium |
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | Sum of Prefix Scores of String | Hard |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Find The Original Array of Prefix Xor | Medium |
 | [2441](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Largest Positive Integer That Exists With Its Negative | Medium |
