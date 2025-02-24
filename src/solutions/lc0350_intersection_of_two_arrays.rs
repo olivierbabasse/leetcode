@@ -6,7 +6,6 @@ struct Solution {}
 
 /// time-complexity : O(n+m)
 /// space-complexity : O(n+m)
-
 impl Solution {
     pub fn intersect(nums1: Vec<i32>, nums2: Vec<i32>) -> Vec<i32> {
         let mut res = Vec::new();

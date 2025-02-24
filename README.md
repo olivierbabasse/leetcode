@@ -87,6 +87,7 @@
 | [0287](https://leetcode.com/problems/find-the-duplicate-number/) | Find the Duplicate Number | Medium |
 | [0300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium |
 | [0304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Range Sum Query 2D - Immutable | Medium |
+| [0309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Best Time to Buy and Sell Stock with Cooldown | Medium |
 | [0319](https://leetcode.com/problems/bulb-switcher/) | Bulb Switcher | Medium |
 | [0326](https://leetcode.com/problems/power-of-three/) | Power of Three | Easy |
 | [0338](https://leetcode.com/problems/counting-bits/) | Counting Bits | Easy |
@@ -98,6 +99,7 @@
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/) | Top K Frequent Elements | Medium |
 | [0349](https://leetcode.com/problems/intersection-of-two-arrays/) | Intersection of Two Arrays | Easy |
 | [0350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Intersection of Two Arrays II | Easy |
+| [0354](https://leetcode.com/problems/russian-doll-envelopes/) | Russian Doll Envelopes | Hard |
 | [0368](https://leetcode.com/problems/largest-divisible-subset/) | Largest Divisible Subset | Medium |
 | [0372](https://leetcode.com/problems/super-pow/) | Super Pow | Medium |
 | [0380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Insert Delete GetRandom O(1) | Medium |
@@ -213,6 +215,8 @@
 | [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Maximize Sum Of Array After K Negations | Easy |
 | [1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Construct Binary Search Tree from Preorder Traversal | Medium |
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Maximum Difference Between Node and Ancestor | Medium |
+| [1027](https://leetcode.com/problems/longest-arithmetic-subsequence/) | Longest Arithmetic Subsequence | Medium |
+| [1035](https://leetcode.com/problems/uncrossed-lines/) | Uncrossed Lines | Medium |
 | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Partition Array for Maximum Sum | Medium |
 | [1051](https://leetcode.com/problems/height-checker/) | Height Checker | Easy |
 | [1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | Flip Columns for Maxiumum Number of Equal Rows | Medium |

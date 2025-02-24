@@ -10,7 +10,7 @@ impl Solution {
         for cur in s.chars() {
             match stack.last() {
                 Some(&prev)
-                    if cur.to_ascii_lowercase() == prev.to_ascii_lowercase()
+                    if cur.eq_ignore_ascii_case(&prev)
                         && (cur.is_lowercase() ^ prev.is_lowercase()) =>
                 {
                     stack.pop();
